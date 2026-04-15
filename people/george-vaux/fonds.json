@@ -1,0 +1,136 @@
+{
+  "person_id": "george-vaux-jr",
+  "display_name": "George Vaux Jr.",
+  "vital_dates": "1863-1927",
+  "researched_on": "2026-04-10",
+  "research_status": "preliminary",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "V653",
+      "fonds_title": "Vaux family fonds",
+      "url": "https://archives.whyte.org/en/list?q=setName:%22Vaux+family+fonds%22",
+      "scope": "Photography, glacier observations, correspondence, publications. Includes photographic sequences from 1897-1913 of Illecillewaet, Yoho, and Asulkan glaciers. Lantern slides, photographs, postcards, prints, negatives.",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "total_records": 3054,
+      "photographs_1906": 260,
+      "findings": "Found 260 photographs dated 1906 in V653. Series V653/I/Y contains nitrate negatives from 1906-1909. Series V653/PA contains 114 prints (1897-1907) of mountain landscape, railway, and glacier views. Multiple series with Yoho Pass, Emerald Lake, and glacier monitoring materials.",
+      "notes": "Vaux brothers were amateur glaciologists who documented Alpine Club of Canada camp at Yoho Pass July 8-16, 1906. Sister Mary Vaux assisted with hand-coloring of photographs. Collection establishes foundation for Canadian glacier monitoring through repeat photography methodology.",
+      "sample_catalogues": [
+        "V653/PS-3 (hand-coloured postcard, 1900-1906, hand-coloured by Mary M. Vaux)",
+        "V653/PS-74 (between 1900-1906)",
+        "V653/PS-89 (Selkirk Mountains, 1900-1906)",
+        "V653/I/Y (nitrate negatives, 1906-1909, 3 files)",
+        "V653/PA-1 to PA-114 (prints, 1897-1907, glacier and mountain views)"
+      ]
+    },
+    {
+      "institution": "Academy of Natural Sciences of Drexel University (ANSP)",
+      "fonds_id": "unknown",
+      "fonds_title": "Vaux family collection (possibly in mineralogy or natural history)",
+      "url": "https://ansp.org/research/library/",
+      "scope": "William S. Vaux Sr. (father) was notable mineralogist affiliated with ANSP",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "ANSP website accessible but no direct Vaux collection catalog found online. Requires in-person or direct institutional contact.",
+      "notes": "William S. Vaux Sr. (1811-1882) was ANSP-affiliated mineralogist. George Jr. and William Jr. may have donated materials or correspondence to ANSP.",
+      "status": "requires_contact"
+    },
+    {
+      "institution": "Haverford College Special Collections",
+      "fonds_id": "unknown",
+      "fonds_title": "Vaux family/Quaker archives",
+      "url": "https://www.haverford.edu/library/special-collections",
+      "scope": "Philadelphia Quaker community collections",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Website not directly accessible from this environment. Vaux family were Philadelphia Quakers but no specific collection verified.",
+      "notes": "Should contact Haverford directly for family correspondence and papers.",
+      "status": "requires_contact"
+    },
+    {
+      "institution": "Friends Historical Library, Swarthmore College",
+      "fonds_id": "unknown",
+      "fonds_title": "Vaux family Quaker records",
+      "url": "https://www.swarthmore.edu/friends-historical-library",
+      "scope": "Quaker archives and genealogy",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Website accessible but no searchable catalog found online. Vaux family were prominent Philadelphia Quakers.",
+      "notes": "THE major Quaker archive in North America. Likely holds family correspondence, genealogies, and possibly expedition records. Requires direct contact.",
+      "status": "requires_contact"
+    },
+    {
+      "institution": "American Philosophical Society (Philadelphia)",
+      "fonds_id": "unknown",
+      "fonds_title": "Vaux family papers/correspondence",
+      "url": "https://www.amphilsoc.org/library",
+      "scope": "Natural history and scientific correspondence",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Website accessible but search restricted from this environment. APS likely holds scientific correspondence and publications relating to glacier research.",
+      "notes": "George Jr. may have corresponded with APS members about glacier observations. Requires direct contact or institutional access.",
+      "status": "requires_contact"
+    },
+    {
+      "institution": "Parks Canada Heritage Programs",
+      "fonds_id": "Vaux glacier repeat photography",
+      "fonds_title": "Vaux repeat photography program archives",
+      "url": "https://www.pc.gc.ca/",
+      "scope": "Glacier monitoring using Vaux photographic sequences",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Vaux 1906-1913 glacier photographs are used in Parks Canada heritage interpretation programs for repeat photography monitoring.",
+      "notes": "The Vaux glacier repeat photography project is foundational to Canadian glacier monitoring research. Contact Parks Canada directly for heritage archives.",
+      "status": "requires_contact"
+    }
+  ],
+  "digital_assets_downloaded": [
+    {
+      "filename": "vaux_1906_preliminary.json",
+      "source": "Whyte Museum search results",
+      "caption": "Preliminary metadata for 1906 Vaux photographs extracted from Whyte catalogue (5 sample records)",
+      "date": "2026-04-10",
+      "license": "Contact Whyte Museum for permissions"
+    }
+  ],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Academy of Natural Sciences of Drexel University",
+      "reason": "Vaux family mineralogy collections; William S. Vaux Sr. affiliation",
+      "contact": "https://ansp.org/research/library/ or research@ansp.org"
+    },
+    {
+      "institution": "Haverford College Special Collections",
+      "reason": "Philadelphia Quaker archives; family papers and correspondence",
+      "contact": "https://www.haverford.edu/library/special-collections"
+    },
+    {
+      "institution": "Friends Historical Library, Swarthmore College",
+      "reason": "Major Quaker archive; likely holds Vaux family genealogies and correspondence",
+      "contact": "https://www.swarthmore.edu/friends-historical-library"
+    },
+    {
+      "institution": "American Philosophical Society",
+      "reason": "Scientific correspondence and glacier research publications",
+      "contact": "https://www.amphilsoc.org/library"
+    },
+    {
+      "institution": "Parks Canada Heritage Programs",
+      "reason": "Vaux repeat photography archives and glacier monitoring program records",
+      "contact": "Parks Canada national office or Yoho National Park"
+    },
+    {
+      "institution": "Canadian Alpine Club Archives (if separate)",
+      "reason": "1906 ACC camp records and participant documentation",
+      "contact": "ACC national office"
+    }
+  ]
+}

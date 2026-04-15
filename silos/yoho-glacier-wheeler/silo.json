@@ -1,0 +1,68 @@
+{
+  "silo_id": "yoho-glacier-wheeler",
+  "title": "Observations of the Yoho Glacier — A.O. Wheeler",
+  "article_slug": "yoho-glacier-wheeler",
+  "article_number": 21,
+  "section": "SCIENTIFIC",
+  "author": {
+    "person_id": "arthur-wheeler",
+    "display_name": "Arthur O. Wheeler, F.R.G.S.",
+    "at_camp": true,
+    "ell_silo_id": "arthur-oliver-wheeler"
+  },
+  "summary": "Scientific report on Yoho Glacier observations initiated July 14-15, 1906. Describes Wapta Icefield geography (20-25 sq mi), glacier flow measurement using metal plates, retreat measurements (76 ft since Vaux 1901 marks). First systematic observations by the ACC.",
+  "emerald_lake_references": [],
+  "people_mentioned": [
+    "george-vaux",
+    "william-s-vaux",
+    "mary-vaux"
+  ],
+  "places_mentioned": [
+    "yoho-glacier",
+    "wapta-icefield",
+    "mt-collie",
+    "yoho-peak",
+    "laughing-falls",
+    "twin-falls"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1906-07-14",
+      "event": "Committee leaves camp for glacier, overnight at Laughing Falls"
+    },
+    {
+      "date": "1906-07-15",
+      "event": "Metal plates set, retreat measured"
+    },
+    {
+      "date": "1901",
+      "event": "Miss Vaux's earlier marks — 76 ft retreat since then"
+    },
+    {
+      "date": "1904",
+      "event": "Dr. Sherzer's marks — 79.6 ft, practically unchanged since 1904"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "MAP OF WAPTA ICEFIELD",
+      "credit": "from Government photographic surveys"
+    },
+    {
+      "caption": "THE ICEFALL OF THE YOHO GLACIER",
+      "credit": "Byron Harmon"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 149,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Observations_of_the_Yoho_Glacier"
+  },
+  "fonds_leads": [
+    "LAC Wheeler survey records",
+    "Smithsonian — Sherzer monograph"
+  ]
+}

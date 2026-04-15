@@ -1,0 +1,27 @@
+{
+  "silo_id": "ascent-bagheera-jackson",
+  "title": "The First Ascent of Central Peak of Mt. Bagheera — W.S. Jackson",
+  "article_slug": "ascent-bagheera-jackson",
+  "article_number": 14,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "ws-jackson",
+    "display_name": "W.S. Jackson",
+    "at_camp": false,
+    "ell_silo_id": null
+  },
+  "summary": "First ascent of the central peak of Mt. Bagheera.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

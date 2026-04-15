@@ -1,0 +1,190 @@
+{
+  "person_id": "george-kinney",
+  "display_name": "Reverend George Rex Boyer Kinney",
+  "researched_on": "2026-04-10",
+  "bio_summary": "1872-1961. Methodist missionary, mountaineer, and photographer. Active in the Alpine Club of Canada from 1906. Climbed Mt. Stephen and contributed the chapter 'Mt. Stephen' to CAJ Vol.1 No.1 (1907). Credited with multiple photographs in that journal. Later famous for disputed 1909 first ascent of Mt. Robson with Donald 'Curly' Phillips.",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M200 / AC 00M / 119-121",
+      "fonds_title": "Alpine Club of Canada fonds — Correspondence and papers",
+      "url": "https://archives.whyte.org/en/list?q=kinney%20AND%201906",
+      "scope": "Correspondence and papers re ACC finances, government relations, history, international relations, and properties; includes correspondence with G. Kinney, Mount Robson records, etc.",
+      "date_range": "1906-1924",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Alpine Club of Canada records confirm Kinney's involvement in ACC activities and Mount Robson expeditions. Specific 1906 Yoho materials not yet digitized or accessible online.",
+      "notes": "Contact Whyte Museum directly for access to full ACC correspondence files."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M200 / V14 / S6",
+      "fonds_title": "George Kinney photographs and price lists",
+      "url": "https://archives.whyte.org/en/list?q=kinney%20AND%20photograph",
+      "scope": "Photographs and photographic price lists",
+      "date_range": "ca. 1905-1910",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Approximately 64 photographs cataloged. Primarily from Paradise Valley Alpine Club camp (1907), not 1906 Yoho. No digitized access evident.",
+      "notes": "These photos are in Whyte's physical collection but not online. Possible archival research request required."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M106 / Thorington papers",
+      "fonds_title": "J. Monroe Thorington fonds — Mountaineering correspondence and papers",
+      "url": "https://archives.whyte.org/en/list?q=kinney%20AND%201906",
+      "scope": "Mountaineering correspondence, expedition records, photographs",
+      "date_range": "1871-1974, with 1906-1911 relevant period",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Contains reference to George Kinney in letter dated September 7, 1934, discussing Mount Robson expeditions and early 1900s mountaineering. No specific 1906 Yoho camp material identified.",
+      "notes": "May contain correspondence mentioning Kinney's early climbing work; worth requesting access."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "V653 (Vaux family) / M200 (Alpine Club) / V14 (Frank Yeigh) / V263 (Byron Harmon)",
+      "fonds_title": "Collective Yoho Pass 1906 ACC camp photographs and records",
+      "url": "https://archives.whyte.org/en/list?q=Yoho%20Pass%201906%20photograph",
+      "scope": "Photographs and camp records from Yoho Pass 1906 Alpine Club of Canada camp",
+      "date_range": "1906",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Multiple collections document the 1906 Yoho Pass camp, including work by J.P. Forde (225 prints), Frank Yeigh (7 prints), Vaux family (228+ prints), and Byron Harmon albums. Kinney's specific photographic contributions are not separately identified in these collections, though he may appear in group photos or be credited in original CAJ publication.",
+      "notes": "These are physical collections; digitization status unclear. Requires direct museum contact for access to original prints or finding aids."
+    },
+    {
+      "institution": "Library and Archives Canada (LAC)",
+      "fonds_id": "United Church of Canada collection (pending identification)",
+      "fonds_title": "Methodist missionary records / United Church archives",
+      "url": "https://www.bac-lac.gc.ca/eng",
+      "scope": "Methodist and United Church of Canada missionary records",
+      "date_range": "1870s-1960s",
+      "relevance_to_1906_yoho": "unknown",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "LAC website currently inaccessible via standard search tools. Kinney's Methodist affiliation suggests papers may exist in Church archives.",
+      "notes": "PENDING: Direct contact with Library and Archives Canada or United Church Archives (Toronto) required."
+    },
+    {
+      "institution": "United Church of Canada Archives",
+      "fonds_id": "Unknown",
+      "fonds_title": "Methodist missionary records",
+      "url": "https://www.united-church.ca/community-faith/being-community/archives",
+      "scope": "Methodist/United Church missionary correspondence, diaries, reports",
+      "date_range": "1870s-1960s",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "No digital search possible; archive location in Toronto. Likely to have Kinney's personnel file and mission reports if preserved.",
+      "notes": "PENDING: Contact United Church Archives directly at archives@united-church.ca or 416-231-5931"
+    },
+    {
+      "institution": "Royal BC Museum / BC Archives",
+      "fonds_id": "Unknown",
+      "fonds_title": "BC mountaineering and personal papers collections",
+      "url": "https://www.royalbcmuseum.bc.ca/",
+      "scope": "British Columbia mountaineering and explorer papers",
+      "date_range": "1900-1920s",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Royal BC Museum search interface inaccessible (certificate issues). May hold Kinney materials due to his BC work and Mount Robson prominence.",
+      "notes": "PENDING: Direct contact required at Royal BC Museum, Victoria. Phone: 250-356-7226"
+    },
+    {
+      "institution": "University of Calgary Archives & Special Collections (Glenbow Western Research Centre)",
+      "fonds_id": "Unknown",
+      "fonds_title": "Mountaineering papers and Alberta archives",
+      "url": "https://asc.ucalgary.ca/",
+      "scope": "Canadian mountaineering records, particularly Alberta/BC region",
+      "date_range": "1900-1920s",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Glenbow holds mountaineering papers; Kinney materials not identified in preliminary search.",
+      "notes": "PENDING: Contact Archives and Special Collections: asc@ucalgary.libanswers.com or 403-220-3958 (Mon-Fri 10am-4:30pm, by appointment)"
+    },
+    {
+      "institution": "Alpine Club of Canada",
+      "fonds_id": "ACC member records / publications",
+      "fonds_title": "Alpine Club of Canada archives",
+      "url": "https://archives.alpineclubofcanada.ca/",
+      "scope": "ACC member records, camp registers, journals, expedition records",
+      "date_range": "1906-1961 (Kinney's tenure)",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "ACC likely holds camp registers from 1906 Yoho that may name Kinney and list his activities/photos.",
+      "notes": "PENDING: Contact Alpine Club of Canada directly at national office. May have original camp records, CAJ back issues with photo credits."
+    }
+  ],
+  "digital_assets_downloaded": [],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "reason": "Access to original Alpine Club of Canada correspondence (M200/AC 00M/119-121) and Kinney photograph collection (M200/V14/S6) requires in-person research or archival request",
+      "contact": "archives@whyte.org or 403-762-2291"
+    },
+    {
+      "institution": "United Church of Canada Archives",
+      "reason": "Methodist missionary records for Reverend George Kinney; likely to contain biographical materials, correspondence, and service records",
+      "contact": "archives@united-church.ca or 416-231-5931"
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "reason": "United Church or Methodist papers; possible Kinney missionary correspondence and personal records",
+      "contact": "https://www.bac-lac.gc.ca/ or 1-866-578-7777"
+    },
+    {
+      "institution": "Royal BC Museum / BC Archives",
+      "reason": "BC mountaineering papers; Kinney's Mount Robson work and BC exploration records",
+      "contact": "Royal BC Museum, Victoria, BC; 250-356-7226 or via website search"
+    },
+    {
+      "institution": "University of Calgary Archives & Special Collections",
+      "reason": "Glenbow Western Research Centre may hold mountaineering-related papers relevant to early Rocky Mountain exploration",
+      "contact": "asc@ucalgary.libanswers.com or 403-220-3958"
+    },
+    {
+      "institution": "Alpine Club of Canada",
+      "reason": "Original 1906 Yoho Pass camp registers and CAJ back issues with photograph credits; member correspondence",
+      "contact": "Alpine Club of Canada national office"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-04-10",
+      "query": "kinney site:archives.whyte.org",
+      "result": "56 records found; Alpine Club of Canada fonds (M200) contains key materials"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "kinney AND 1906",
+      "result": "4 records at Whyte; Alpine Club of Canada (M200/AC 00M/119-121), Luxton family, J. Monroe Thorington fonds"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "kinney AND photograph",
+      "result": "30 records; primarily Mount Robson area (Byron Harmon, Vaux family); 64 Kinney photos from 1905-1910 in M200/V14"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "Yoho Pass 1906 photograph",
+      "result": "Multiple collections (Vaux, Yeigh, Forde, Harmon); Kinney not separately identified as photographer in these results"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "kinney AND Mt. Stephen AND 1906",
+      "result": "1 record; J. Monroe Thorington fonds with 1934 letter referencing Kinney's mountaineering"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "Canadian Alpine Journal 1906 1907",
+      "result": "Internet Archive search inconclusive; CAJ Vol. 1 (1907) not yet located with direct downloadable link"
+    }
+  ]
+}

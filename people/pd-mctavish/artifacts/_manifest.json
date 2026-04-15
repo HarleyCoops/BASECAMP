@@ -1,0 +1,25 @@
+{
+  "person": "pd-mctavish",
+  "source": "Whyte Museum",
+  "queries": [
+    "mctavish+1906",
+    "p.d.+mctavish",
+    "mctavish+crows+nest"
+  ],
+  "downloaded": 1,
+  "total_bytes": 153119,
+  "items": [
+    {
+      "pid": "descriptions60523",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions60523",
+      "title": "Frank W. Freeborn records - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_01_to_56_web/v14_ac55p_18_32.jpg",
+      "downloaded": true,
+      "file": "descriptions60523_v14_ac55p_18_32.jpg",
+      "bytes": 153119,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

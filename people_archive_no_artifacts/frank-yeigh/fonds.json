@@ -1,0 +1,154 @@
+{
+  "creator": {
+    "name": "Yeigh, Frank",
+    "birth_year": 1861,
+    "death_year": 1935,
+    "nationality": "Canadian",
+    "roles": [
+      "journalist",
+      "author",
+      "publicist",
+      "Ontario civil servant",
+      "charter member Alpine Club of Canada",
+      "secretary/chairman Canadian Club of Toronto",
+      "organizer cultural readings"
+    ]
+  },
+  "archival_fonds": [
+    {
+      "institution": "Archives of Ontario",
+      "fonds_reference": "CA ON00009 F 1085",
+      "title": "Frank Yeigh fonds",
+      "date_range": "1887-1935",
+      "extent": "60 cm of textual records",
+      "contents": [
+        "scrapbooks with historical clippings on Ontario topics",
+        "correspondence as Chairman Historical Committee Canadian Club Toronto",
+        "personal correspondence",
+        "published articles",
+        "records of historical plaques"
+      ],
+      "access": "Open, no restrictions",
+      "copyright": "Held by creator",
+      "provenance": "Donated by Annie Louise Laird Yeigh (wife), March 1959",
+      "URL": "https://www.archeion.ca/frank-yeigh-fonds"
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "fonds_reference": "Record 103561",
+      "title": "Frank Yeigh fonds - Pauline Johnson materials",
+      "date_range": "1886-1954",
+      "extent": "1.1 cm textual records + 2 photographs",
+      "contents": [
+        "Pauline Johnson correspondence",
+        "Johnson poems including 'If I Could Only Know'",
+        "Materials relating to Pauline Johnson's grave",
+        "Black-and-white photographic portraits by Leary Co."
+      ],
+      "access": "Open",
+      "copyright_images": "No restrictions",
+      "historical_significance": "Yeigh arranged Johnson's public debut 1891-1892 as Young Men's Liberal Club president",
+      "URL": "https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?app=fonandcol&IdNumber=103561"
+    }
+  ],
+  "alpine_club_materials": {
+    "institution": "Whyte Museum of the Canadian Rockies (Banff, AB)",
+    "fonds_reference": "Alpine Club of Canada fonds, 1906-",
+    "date_range": "1906-2017",
+    "extent": "3,084 records, 42 meters textual materials, 12,500 photographs, 85 albums, 8 motion pictures, 3 sound recordings",
+    "yeigh_relevance": "Charter member; participant 1906 Yoho camp; Adviser Committee 1908-1912",
+    "camp_photographs": "Official photographs by Byron Harmon (official ACC photographer), Geo. R. B. Kinney, Frank W. Freeborn, and possibly Yeigh",
+    "geographic_coverage": [
+      "Canadian Rocky Mountains (936 records)",
+      "Banff, Alberta (546 records)",
+      "British Columbia/Vancouver (260 records)"
+    ],
+    "access": "Searchable online database with order options for image reproduction",
+    "URL": "https://archives.whyte.org/en/list?q=setName%3A%22Alpine+Club+of+Canada+fonds%22"
+  },
+  "published_works_digitized": [
+    {
+      "title": "Through the Heart of Canada",
+      "year": 1910,
+      "publisher": "H. Frowde, Toronto",
+      "pages": 319,
+      "illustrations": "36 leaves of plates",
+      "subject": "Canada - Description and travel (1901-1950)",
+      "content": "Travel narrative across Canada including chapters on Rockies, Selkirks, Kootenays climbing",
+      "source": "Canadiana digital collection (Canadian heritage digitization)",
+      "format": "Full-text searchable (349 of 398 pages)",
+      "URL": "https://www.canadiana.ca/view/oocihm.74650"
+    },
+    {
+      "title": "Ontario's Parliament Buildings: or, A Century of Legislation, 1792-1892",
+      "year": 1893,
+      "publisher": "Williamson Book Company, Toronto",
+      "pages": "40+ pages",
+      "subject": "Ontario - Parliament Buildings - History",
+      "source": "Internet Archive",
+      "formats": "PDF, EPUB, full-text, image files",
+      "URL": "https://archive.org/details/ontparliament00yeiguoft"
+    },
+    {
+      "title": "Five Thousand Facts About Canada",
+      "year": "1922 edition (published annually 1890s-1920s)",
+      "publisher": "Various",
+      "subject": "Canadian facts and statistics annual",
+      "source": "Internet Archive",
+      "URL": "https://archive.org/details/1922fivethousandfact00torouoft"
+    },
+    {
+      "title": "The Rainy River District, Province of Ontario, Canada",
+      "year": 1894,
+      "pages": 40,
+      "publisher": "Warwick Bros. & Rutter, Toronto",
+      "subject": "Ontario - Promotional guide - Settlement, mining, timber",
+      "source": "Internet Archive (Queen's University Special Collections)",
+      "URL": "https://archive.org/details/rainyriverdistrict00yeig"
+    }
+  ],
+  "primary_source_publications": [
+    {
+      "title": "Canada's First Alpine Club Camp",
+      "publication": "Canadian Alpine Journal Vol. 1, No. 1",
+      "year": 1907,
+      "author": "Frank Yeigh",
+      "description": "First-person narrative of the inaugural 1906 Yoho Pass camp",
+      "content_summary": "Camp life, march to Emerald Lake, delta crossing, Vice-President climb, ceremonies",
+      "photographs": "Official camp photographs by Harmon, Kinney, Freeborn, and Yeigh",
+      "availability": "Internet Archive full-text, Wikisource",
+      "URLs": [
+        "https://archive.org/stream/canadianalpinejo01alpiuoft/canadianalpinejo01alpiuoft_djvu.txt",
+        "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Canada's_First_Alpine_Club_Camp"
+      ]
+    }
+  ],
+  "related_collections": [
+    {
+      "name": "E. Pauline Johnson archives",
+      "locations": [
+        "Six Nations Public Library, Ohsweken, ON",
+        "McMaster University, Hamilton, ON"
+      ],
+      "relevance": "Johnson wrote tribute poem to Kate Westlake Yeigh (Frank's wife); Yeigh organized her public debut"
+    },
+    {
+      "name": "Canadian Institute / Royal Canadian Institute records",
+      "relevance": "Yeigh served as secretary"
+    },
+    {
+      "name": "The Globe / Globe and Mail archives",
+      "platform": "ProQuest Digital Collection (partial open access)",
+      "relevance": "July 1906 dispatches from Yoho camp possibly attributed to Yeigh"
+    }
+  ],
+  "research_notes": {
+    "charter_member_status": "Active charter member ACC 1906",
+    "adviser_committee": "1908-1912",
+    "toronto_section": "Chairman 1914",
+    "toronto_address": "Spadina Avenue, Toronto",
+    "contemporary_connections": "E. Pauline Johnson (cultural readings), A. O. Wheeler (ACC co-founder), Byron Harmon (official photographer)",
+    "publication_span": "Journalist and author spanning 1890s-1930s",
+    "widow": "Annie Louise Laird Yeigh - donated fonds to Archives of Ontario March 1959"
+  }
+}

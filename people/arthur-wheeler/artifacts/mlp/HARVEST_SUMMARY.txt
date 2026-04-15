@@ -1,0 +1,204 @@
+================================================================================
+BASECAMP PROJECT - MLP WHEELER PLATES HARVEST SUMMARY
+================================================================================
+
+DATE: April 10, 2026
+PROJECT: BASECAMP (1906 Alpine Club of Canada Camp Reconstruction)
+TARGET SURVEYOR: Arthur Oliver Wheeler (Dominion Land Survey)
+GEOGRAPHIC SCOPE: Yoho Pass, Field, Emerald Lake, Wapta Icefield area, BC
+SURVEY PERIOD: 1904-1910 (focus on 1906)
+
+================================================================================
+HARVEST RESULTS
+================================================================================
+
+DIGITIZED PLATES DOWNLOADED:        0 files
+TOTAL DATA HARVESTED:               0 MB
+METADATA RECORDS CAPTURED:          0 records
+SURVEYED STATIONS RECOVERED:        0 stations
+
+PLATES IDENTIFIED IN ARCHIVE:       Unknown (explorer.mountainlegacy.ca offline)
+ESTIMATED AVAILABILITY:             ~50-100 plates (expert estimate)
+
+================================================================================
+PRIMARY BLOCKER
+================================================================================
+
+Mountain Legacy Project's main digital image database (explorer.mountainlegacy.ca)
+is currently offline or inaccessible. This is the primary public interface for
+browsing and downloading Wheeler's photo-topographic plates.
+
+While the institution holds digitized copies via University of Victoria DSpace
+and Library and Archives Canada, automated API-based access is blocked. Manual
+institutional contact required to proceed.
+
+================================================================================
+DELIVERABLES CREATED
+================================================================================
+
+Location: /sessions/determined-bold-cannon/mnt/ELL/BASECAMP/people/arthur-wheeler/artifacts/mlp/
+
+Files:
+  1. README.md (3.4 KB)
+     - Overview of search campaign and findings
+     - Archive infrastructure status
+     - Next steps and recommendations
+     - Contact information for MLP director
+
+  2. mlp_search_findings.json (6.0 KB)
+     - Structured JSON with all investigation details
+     - Sources, access status, projects identified
+     - Recommendations and alternative approaches
+     - Contact information for institutional outreach
+
+  3. SEARCH_REPORT.txt (7.3 KB)
+     - Comprehensive narrative search report
+     - Detailed inventory of 6 archive sources
+     - Technical notes on API attempts
+     - Prioritized next steps
+
+  4. CONTACT_MLP_REQUEST.md (3.3 KB)
+     - Pre-formatted email template
+     - Specific data fields requested
+     - Use case documentation
+     - Alternative access paths
+
+  5. HARVEST_SUMMARY.txt (this file)
+     - Quick reference summary
+     - Results and blockers
+     - Immediate action items
+
+Total Documentation: 25+ KB
+
+================================================================================
+ARCHIVES INVESTIGATED
+================================================================================
+
+SOURCE                          STATUS          ACCESS MODE          FINDINGS
+────────────────────────────────────────────────────────────────────────────────
+Mountain Legacy Project         ONLINE          REST API / Web       33 posts about Wheeler
+MLP Explorer                    OFFLINE         N/A                  Primary tool unreachable
+MLP Image Analysis Toolkit      ONLINE          Web Viewer Only      No bulk download
+UVic DSpace                     ONLINE          Restricted API       Metadata blocked
+Library & Archives Canada       ONLINE          HTML Search Only     Manual navigation req'd
+Borealis Data Repo              UNREACHABLE     N/A                  Network error
+────────────────────────────────────────────────────────────────────────────────
+
+KEY FINDING: No archive provides automated bulk download capability for
+Wheeler's Yoho/Field plates. All sources require manual institutional contact
+or interactive web-based navigation.
+
+================================================================================
+IMMEDIATE ACTION REQUIRED
+================================================================================
+
+PRIORITY 1 (This Week):
+  → Contact Eric Higgs (MLP Director) at ehiggs@uvic.ca
+  → Use CONTACT_MLP_REQUEST.md as email template
+  → Request Wheeler metadata CSV/JSON for Yoho/Field area, 1904-1910
+  → Ask for direct image URLs to LAC digitized collection
+
+PRIORITY 2 (Parallel):
+  → Visit https://recherche-collection-search.bac-lac.gc.ca/
+  → Search: "Arthur Wheeler" + "phototopographic" + location terms
+  → Filter by date 1898-1910 and Dominion Land Survey collection
+  → Download plates individually as found
+
+PRIORITY 3 (Supplementary):
+  → Contact Whyte Museum (Alpine Club of Canada Archives partnership)
+  → Search for 1906 camp documentation and original expedition records
+  → Cross-reference with Wheeler station data
+
+================================================================================
+RECOMMENDED CONTACT
+================================================================================
+
+Primary:
+  Name:     Eric Higgs, PhD
+  Title:    Director, Mountain Legacy Project
+  Email:    ehiggs@uvic.ca
+  Phone:    +1-250-721-8228
+  Affil:    Environmental Studies, University of Victoria
+
+Talking Points:
+  - BASECAMP project: 1906 ACC camp reconstruction
+  - Need Wheeler Yoho/Field phototopographic plates (1904-1910)
+  - Specifically: stations at Yoho Pass, Emerald Lake, Wapta Icefield, etc.
+  - Interested in repeat photographs from MLP field campaigns
+  - Academic research use (glacier change analysis, historical documentation)
+
+================================================================================
+SURVEYED STATIONS OF INTEREST (1906 ACC CAMP)
+================================================================================
+
+The following Wheeler survey stations would be most relevant for BASECAMP:
+
+1. Yoho Pass (main camp location, primary triangulation point)
+2. Emerald Lake (access route, glacial documentation)
+3. Summit Lake (Wapta Icefield approach)
+4. Wapta Icefield (glacier baseline measurement - critical for climate research)
+5. Burgess Pass (secondary survey location)
+6. Mount Stephen (peak observation point)
+7. Takakkaw Falls (geological and hydrological reference)
+
+Each station likely has:
+  - Date of observation (1904-1910)
+  - Station number in survey records
+  - Geographic coordinates
+  - Associated topographic map sheet
+  - Digitized plate image(s)
+  - Possible repeat photographs from MLP campaigns
+
+================================================================================
+EXPECTED TIMELINE
+================================================================================
+
+Week 1-2:  MLP director email + LAC manual search
+Week 2-4:  Response from MLP with metadata/URLs
+Week 4-6:  Download identified plates from LAC
+Week 6-8:  Catalog and integrate into BASECAMP archive
+
+Estimated plates to recover: 30-60 images (once access established)
+Estimated total size: 2-5 GB (high-resolution digitized glass plates)
+
+================================================================================
+RESEARCH VALUE
+================================================================================
+
+Wheeler's 1906 photo-topographic plates are invaluable for BASECAMP because:
+
+1. BASELINE DOCUMENTATION
+   - Establishes exactly what the 1906 camp landscape looked like
+   - Provides calibrated baseline for glacier measurements
+   - Documents ecological conditions of era
+
+2. PRECISE LOCATION REFERENCES
+   - Surveyed station coordinates enable repeat photography from same locations
+   - Allows quantitative glacier change measurement
+   - Supports topographic reconstruction
+
+3. HISTORICAL RECORD
+   - Contemporaneous documentation of ACC's first official camp
+   - Wheeler's professional surveying validates historical narratives
+   - Integrates with broader Dominion Land Survey archive
+
+4. COMPARATIVE ANALYSIS
+   - MLP has repeat photographs from 2000s-2020s at same stations
+   - Enables 100+ year time-series climate/glacier documentation
+   - Contributes to broader glacial change research
+
+================================================================================
+NEXT REVIEW DATE: May 10, 2026
+
+If no response from MLP director by this date, escalate to:
+  - UVic Special Collections librarian
+  - LAC Reference Services (lab-reference@bac-lac.gc.ca)
+  - Alpine Club of Canada Archives coordinator
+
+================================================================================
+STATUS: PENDING INSTITUTIONAL CONTACT
+
+This harvest phase is complete. Archive access depends on successful
+institutional outreach to MLP and/or LAC. Direct human contact required.
+
+================================================================================

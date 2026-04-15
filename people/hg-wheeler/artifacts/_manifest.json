@@ -1,0 +1,147 @@
+{
+  "person": "hg-wheeler",
+  "source": "Whyte Museum",
+  "queries": [
+    "clara+wheeler",
+    "h.g.+wheeler",
+    "hector+wheeler",
+    "mrs.+wheeler"
+  ],
+  "downloaded": 12,
+  "total_bytes": 276294266,
+  "items": [
+    {
+      "pid": "descriptions1041",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1041",
+      "title": "Display photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac00p_01_to_444_web/v14_ac00p_30.jpg",
+      "downloaded": true,
+      "file": "descriptions1041_v14_ac00p_30.jpg",
+      "bytes": 84932,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions14742",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions14742",
+      "title": "Photograph album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v465_underwood_publishers_web/v465_pd_1.pdf",
+      "downloaded": true,
+      "file": "descriptions14742_v465_pd_1.pdf",
+      "bytes": 19973006,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions14743",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions14743",
+      "title": "Photograph album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v465_underwood_publishers_web/v465_pd_3.pdf",
+      "downloaded": true,
+      "file": "descriptions14743_v465_pd_3.pdf",
+      "bytes": 41096954,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions14744",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions14744",
+      "title": "Photograph album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v465_underwood_publishers_web/v465_pd_2.pdf",
+      "downloaded": true,
+      "file": "descriptions14744_v465_pd_2.pdf",
+      "bytes": 37580049,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions15895",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions15895",
+      "title": "People : [negatives, group 94] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v408_mccowan_web/v408_i_c_1_na_14_24.jpg",
+      "downloaded": true,
+      "file": "descriptions15895_v408_i_c_1_na_14_24.jpg",
+      "bytes": 97915,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions22915",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions22915",
+      "title": "Skiing and Climbing Trips - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v68_gmoser_web/v68_v_pa_523.jpg",
+      "downloaded": true,
+      "file": "descriptions22915_v68_v_pa_523.jpg",
+      "bytes": 85949,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions22918",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions22918",
+      "title": "Skiing Photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v68_gmoser_web/v68_v_pa_707.jpg",
+      "downloaded": true,
+      "file": "descriptions22918_v68_v_pa_707.jpg",
+      "bytes": 141038,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23127",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23127",
+      "title": "Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m546_web/m546_29.pdf",
+      "downloaded": true,
+      "file": "descriptions23127_m546_29.pdf",
+      "bytes": 36704097,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23131",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23131",
+      "title": "Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m546_web/m546_33.pdf",
+      "downloaded": true,
+      "file": "descriptions23131_m546_33.pdf",
+      "bytes": 35830297,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23137",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23137",
+      "title": "Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m546_web/m546_39.pdf",
+      "downloaded": true,
+      "file": "descriptions23137_m546_39.pdf",
+      "bytes": 33567097,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23141",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23141",
+      "title": "Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m546_web/m546_43.pdf",
+      "downloaded": true,
+      "file": "descriptions23141_m546_43.pdf",
+      "bytes": 41173043,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23149",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23149",
+      "title": "Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m546_web/m546_51.pdf",
+      "downloaded": true,
+      "file": "descriptions23149_m546_51.pdf",
+      "bytes": 29959889,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

@@ -1,0 +1,82 @@
+{
+  "person_id": "gottfried-feuz",
+  "display_name": "Gottfried Feuz",
+  "birth_death": "1872–1949",
+  "researched_on": "2026-04-10",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M93/V200",
+      "fonds_title": "Edward Feuz fonds",
+      "url": "https://archives.whyte.org/en/permalink/descriptions178",
+      "scope": "Family photographs, guide logbooks, correspondence, field notes, 1881–ca.1976",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Gottfried Feuz (1872–1949) is documented in the Edward Feuz fonds, likely as a collaborating guide or family member. 327 total records in fonds; 4 records specifically match '1906 yoho feuz' search. Fonds covers the period 1881–ca.1976, spanning Gottfried's entire guiding career (if employed by CPR from 1899).",
+      "notes": "Fonds does not distinguish separately between Édouard Sr. and Gottfried, so they are co-documented under M93/V200. Additional research needed to extract Gottfried-specific materials."
+    },
+    {
+      "institution": "Alpine Club of Canada Library & Archives (housed at Whyte Museum)",
+      "fonds_id": "V14/ACC",
+      "fonds_title": "Alpine Club of Canada fonds",
+      "url": "https://archives.whyte.org/en/list?q=1906+yoho+feuz&setName_facet=Alpine+Club+of+Canada+fonds",
+      "scope": "Camp records, guide lists, expedition reports, photographs, 1906–present",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "ACC camp records for 1906 Yoho Pass camp likely list Gottfried Feuz by name as a guide assigned to specific climbs. 4 records match '1906 yoho feuz' across multiple fonds, including ACC.",
+      "notes": "ACC records are critical for verifying Gottfried's official role and assignments at the July 1906 camp."
+    }
+  ],
+  "digital_assets_downloaded": [],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Canadian Pacific Archives (Montreal)",
+      "reason": "CPR employment records, payroll, and personnel files for Gottfried Feuz, 1899–1949 (estimated employment period). May show hire date, seasonal assignments, wage rates, and 1906 summer roster.",
+      "contact": "https://www.cpr.ca/en/about-cp/our-past"
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "reason": "CPR personnel records, naturalization and immigration documents for Gottfried Feuz. May confirm Swiss birth (1872) and Canadian employment commencement (1899 or later).",
+      "contact": "https://www.bac-lac.gc.ca"
+    },
+    {
+      "institution": "Grindelwald/Interlaken Canton Archives (Switzerland)",
+      "reason": "Birth records for Gottfried Feuz (1872), family documents, potential correspondence with Canada. May clarify relationship to Édouard Sr. (1859) and help reconstruct family genealogy.",
+      "contact": "Grindelwald tourism office or Bernese Oberland archives"
+    },
+    {
+      "institution": "Golden Museum & District Historical Society",
+      "reason": "Swiss Edelweiss Village materials. Gottfried may have lived in Golden, BC with family; museum may hold residence records, newspaper clippings, or family documents.",
+      "contact": "Golden, BC museum"
+    },
+    {
+      "institution": "Alpine Club of Canada Archives (direct contact)",
+      "reason": "Direct access to 1906 Yoho Pass camp records, official guide roster, expedition reports. May contain Gottfried's name in camp assignments or climbing party lists.",
+      "contact": "Alpine Club of Canada (archives division at Whyte Museum, or national office)"
+    },
+    {
+      "institution": "Glenbow Museum (University of Calgary)",
+      "reason": "CPR archival materials, Western Canada mountaineering records. May hold alternate copies of guide documentation, expedition reports, or family materials.",
+      "contact": "https://asc.ucalgary.ca/"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-04-10",
+      "query": "gottfried feuz",
+      "result": "No specific Gottfried Feuz fonds; documented under Edward Feuz fonds (M93/V200)"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "1906 yoho feuz",
+      "result": "4 records combining Alpine Club of Canada, Edward Feuz, J. Monroe Thorington, and Vaux family fonds"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "gottfried feuz 1906",
+      "result": "No separate results; likely included in broad Edward Feuz fonds results"
+    }
+  ]
+}

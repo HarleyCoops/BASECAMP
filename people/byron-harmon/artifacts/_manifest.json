@@ -1,0 +1,106 @@
+{
+  "person": "byron-harmon",
+  "source": "Whyte Museum",
+  "queries": [
+    "harmon+1906",
+    "harmon+yoho+camp",
+    "harmon+alpine+club",
+    "harmon+emerald+1906",
+    "harmon+vice+president",
+    "v263+1906",
+    "v263+yoho"
+  ],
+  "downloaded": 8,
+  "total_bytes": 25996657,
+  "items": [
+    {
+      "pid": "descriptions26666",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions26666",
+      "title": "Yoho, mtn. (ACC?) - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-0163.jpg",
+      "downloaded": true,
+      "file": "descriptions26666_wmcr-harmonb-v263-na-0163.jpg",
+      "bytes": 35543,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions26725",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions26725",
+      "title": "Yoho Valley camp near Takakkaw - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-0222.jpg",
+      "downloaded": true,
+      "file": "descriptions26725_wmcr-harmonb-v263-na-0222.jpg",
+      "bytes": 40623,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions26726",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions26726",
+      "title": "E-57. Climbing on Yoho Glacier (ACC camp?) - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-0223.jpg",
+      "downloaded": true,
+      "file": "descriptions26726_wmcr-harmonb-v263-na-0223.jpg",
+      "bytes": 34498,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions26748",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions26748",
+      "title": "Little Yoho Falls, Yoho Valley - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-0246.jpg",
+      "downloaded": true,
+      "file": "descriptions26748_wmcr-harmonb-v263-na-0246.jpg",
+      "bytes": 36002,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions28249",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions28249",
+      "title": "Bow movie trip - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-1906.jpg",
+      "downloaded": true,
+      "file": "descriptions28249_wmcr-harmonb-v263-na-1906.jpg",
+      "bytes": 23023,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions28367",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions28367",
+      "title": "Bow movie trip - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-2029.jpg",
+      "downloaded": true,
+      "file": "descriptions28367_wmcr-harmonb-v263-na-2029.jpg",
+      "bytes": 30218,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions32172",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions32172",
+      "title": "532. Mts. President & Vice President - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-ng-70.jpg",
+      "downloaded": true,
+      "file": "descriptions32172_wmcr-harmonb-v263-ng-70.jpg",
+      "bytes": 37463,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions55197",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions55197",
+      "title": "Personal Trip Diaries - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m67_web/m67_i_a_i_6_1.pdf",
+      "downloaded": true,
+      "file": "descriptions55197_m67_i_a_i_6_1.pdf",
+      "bytes": 25759287,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 5
+}

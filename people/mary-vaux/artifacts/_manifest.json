@@ -1,0 +1,126 @@
+{
+  "person": "mary-vaux",
+  "source": "Whyte Museum",
+  "queries": [
+    "mary+vaux+walcott",
+    "mary+vaux+emerald",
+    "vaux+walcott+yoho",
+    "mary+vaux+1906",
+    "mary+vaux+glacier"
+  ],
+  "downloaded": 10,
+  "total_bytes": 11410167,
+  "items": [
+    {
+      "pid": "descriptions25066",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions25066",
+      "title": "Prints - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v654/v654_i_a_pa_013.jpg",
+      "downloaded": true,
+      "file": "descriptions25066_v654_i_a_pa_013.jpg",
+      "bytes": 471585,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34103",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34103",
+      "title": "Bridge at Spuzzum, Fraser River / W.S.V.Jr. - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-003.jpg",
+      "downloaded": true,
+      "file": "descriptions34103_wmcr-vaux-1v-v653-ps-003.jpg",
+      "bytes": 1472947,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34158",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34158",
+      "title": "Seracs, Illecillewaet Glacier, 1901 / Mary M. Vaux - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-058.jpg",
+      "downloaded": true,
+      "file": "descriptions34158_wmcr-vaux-1v-v653-ps-058.jpg",
+      "bytes": 1258046,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34174",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34174",
+      "title": "Untitled - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-074.jpg",
+      "downloaded": true,
+      "file": "descriptions34174_wmcr-vaux-1v-v653-ps-074.jpg",
+      "bytes": 2271933,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34199",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34199",
+      "title": "Untitled - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-101.jpg",
+      "downloaded": true,
+      "file": "descriptions34199_wmcr-vaux-1v-v653-ps-101.jpg",
+      "bytes": 1375756,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34237",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34237",
+      "title": "Untitled / Mary M. Vaux - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-140.jpg",
+      "downloaded": true,
+      "file": "descriptions34237_wmcr-vaux-1v-v653-ps-140.jpg",
+      "bytes": 1152720,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34546",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34546",
+      "title": "Victoria Glacier [file title] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1h-v653-na-328.jpg",
+      "downloaded": true,
+      "file": "descriptions34546_wmcr-vaux-1h-v653-na-328.jpg",
+      "bytes": 2146926,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions35368",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35368",
+      "title": "Private 2543m, first picture Illecillewaet Glacier, reproduced negative 1909, 10369 trip, Mary Vaux 1887 - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1t-v653-ng-957.jpg",
+      "downloaded": true,
+      "file": "descriptions35368_wmcr-vaux-1t-v653-ng-957.jpg",
+      "bytes": 307317,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49078",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49078",
+      "title": "[untitled] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v654/v654_i_a_pa_013.jpg",
+      "downloaded": true,
+      "file": "descriptions49078_v654_i_a_pa_013.jpg",
+      "bytes": 471585,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49079",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49079",
+      "title": "[untitled] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v654/v654_i_a_pa_014.jpg",
+      "downloaded": true,
+      "file": "descriptions49079_v654_i_a_pa_014.jpg",
+      "bytes": 481352,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

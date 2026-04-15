@@ -1,0 +1,39 @@
+{
+  "person": "morrison-bridgland",
+  "source": "Whyte Museum",
+  "queries": [
+    "bridgland",
+    "m.p.+bridgland",
+    "bridgland+1906",
+    "bridgland+yoho",
+    "bridgland+survey",
+    "bridgland+photo"
+  ],
+  "downloaded": 2,
+  "total_bytes": 22610463,
+  "items": [
+    {
+      "pid": "descriptions1041",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1041",
+      "title": "Display photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac00p_01_to_444_web/v14_ac00p_30.jpg",
+      "downloaded": true,
+      "file": "descriptions1041_v14_ac00p_30.jpg",
+      "bytes": 84932,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23113",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23113",
+      "title": "Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m546_web/m546_15.pdf",
+      "downloaded": true,
+      "file": "descriptions23113_m546_15.pdf",
+      "bytes": 22525531,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

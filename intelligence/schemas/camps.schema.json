@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BASECAMP Camps Intelligence",
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "string" },
+    "last_updated": { "type": "string", "format": "date" },
+    "camps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "camp_id": { "type": "string" },
+          "name": { "type": "string" },
+          "place_id": { "type": "string" },
+          "dates": {
+            "type": "object",
+            "properties": {
+              "open": { "type": "string" },
+              "close": { "type": "string" },
+              "pack_out_complete": { "type": "string" }
+            }
+          },
+          "elevation_ft": { "type": "number" },
+          "capacity": { "type": "number" },
+          "actual_attendance": { "type": "number" },
+          "layout": {
+            "type": "object",
+            "properties": {
+              "sections": { "type": "array", "items": { "type": "string" } },
+              "description": { "type": "string" }
+            }
+          },
+          "logistics": {
+            "type": "object",
+            "properties": {
+              "distance_from_station_miles": { "type": "number" },
+              "transport": { "type": "string" },
+              "provisions": { "type": "string" },
+              "cook": { "type": "string" },
+              "baggage_limit_lbs": { "type": "number" }
+            }
+          },
+          "funding": {
+            "type": "object",
+            "properties": {
+              "total_receipts": { "type": "number" },
+              "total_expenditures": { "type": "number" },
+              "balance": { "type": "number" },
+              "sources": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+          "people_present": { "type": "array", "items": { "type": "string" } },
+          "events": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "date": { "type": "string" },
+                "event": { "type": "string" },
+                "participants": { "type": "array", "items": { "type": "string" } }
+              }
+            }
+          }
+        },
+        "required": ["camp_id", "name", "place_id", "dates"]
+      }
+    }
+  }
+}

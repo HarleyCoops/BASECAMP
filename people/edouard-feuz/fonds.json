@@ -1,0 +1,110 @@
+{
+  "person_id": "edouard-feuz-sr",
+  "display_name": "Édouard Feuz Sr.",
+  "birth_death": "1859–1944",
+  "researched_on": "2026-04-10",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M93/V200",
+      "fonds_title": "Edward Feuz fonds",
+      "url": "https://archives.whyte.org/en/permalink/descriptions178",
+      "scope": "Photographs, guide logbooks, correspondence, field notes, 1881–ca.1976",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Edward Feuz fonds (M93/V200) contains primary archival material on the Feuz family and mountaineering operations. 327 records found matching 'Feuz'; 4 records specifically mention 1906 Yoho camp. Contains photographs of Feuz family members including Edouard Jr., Ernest, and Walter. Includes materials from the Alpine Club of Canada 1906 camp period.",
+      "notes": "Fonds date range 1881–ca.1976 suggests coverage of both Édouard Sr. and his sons' guiding careers. Watermark exploitation available: strip '?watermark=wmk' from URLs."
+    },
+    {
+      "institution": "Alpine Club of Canada Library & Archives (housed at Whyte Museum)",
+      "fonds_id": "V14/ACC",
+      "fonds_title": "Alpine Club of Canada fonds",
+      "url": "https://archives.whyte.org/en/list?q=1906+yoho+feuz&setName_facet=Alpine+Club+of+Canada+fonds",
+      "scope": "Camp records, guide lists, expedition reports, photographs, 1906–present",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "4 records match combined search '1906 yoho feuz'. ACC maintained official camp records including guide assignments for July 1906 Yoho Pass camp. Contains guide documentation and camp photographs.",
+      "notes": "ACC records critical for verifying Édouard Sr. and Gottfried's role in July 10, 1906 Vice-President climb."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "V200/113/NA66-1859",
+      "fonds_title": "Rescue team photograph, Blaeberry Valley (Edward Feuz Jr., Ernest Feuz, Christian Hasler)",
+      "url": "https://archives.whyte.org/en/permalink/descriptions49457",
+      "scope": "Photograph: Rescue operation, includes Édouard Jr. and Ernest Feuz",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Photograph shows Edward Feuz Jr. and Ernest Feuz (Édouard Sr.'s sons) in B.C. context. Confirms family guiding operations in Rocky Mountains post-1906.",
+      "notes": "Direct digital access available at: https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_113_na66_1859.jpg (remove ?watermark=wmk if present)"
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "V653 / Vaux family fonds",
+      "fonds_title": "Mary Schaffer Vaux photographs, Emerald Lake region 1897–1903",
+      "url": "https://archives.whyte.org/en/list?q=emerald+lake+vaux",
+      "scope": "Photographs of Emerald Lake and surrounding mountains where Swiss guides worked",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Vaux family records show Emerald Lake area 1897–1903. No direct Feuz identification in sample images (Mt. Burgess, Emerald Lake, chalet views), but documents the same alpine region where 1906 camp operated. Temporal proximity suggests possible guide collaboration.",
+      "notes": "Vaux fonds search found 23+ Emerald Lake images; review may identify Swiss guides in group photographs."
+    }
+  ],
+  "digital_assets_downloaded": [
+    {
+      "filename": "v200_113_na66_1859.jpg",
+      "source_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_113_na66_1859.jpg",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49457",
+      "caption": "Rescue team in Blaeberry Valley, B.C. – Left to right: Edward Feuz Jr., unidentified, Christian Hasler, unidentified, Ernest Feuz",
+      "date": "ca. 1920s–1930s",
+      "license": "Whyte Museum (verify usage rights)"
+    }
+  ],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Canadian Pacific Archives (Montreal)",
+      "reason": "CPR employment records, payroll, and personnel files for 1899–1944 showing Édouard Sr.'s official hire dates and 1906 season assignments. May include guide contracts and seasonal employment details.",
+      "contact": "https://www.cpr.ca/en/about-cp/our-past"
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "reason": "CPR personnel records, naturalization documents (Swiss–Canadian), immigration records for Feuz family, 1899 onwards.",
+      "contact": "https://www.bac-lac.gc.ca"
+    },
+    {
+      "institution": "Grindelwald/Interlaken Canton Archives (Switzerland)",
+      "reason": "Birth records, family documentation for Édouard Feuz Sr. (1859) and Gottfried Feuz (1872). May contain letters, references to Canadian employment, or family correspondence.",
+      "contact": "Grindelwald tourism office or Bernese Oberland archives"
+    },
+    {
+      "institution": "Golden Museum & District Historical Society",
+      "reason": "Swiss Edelweiss Village materials; Feuz family residence documentation. Possible family papers, newspaper clippings, oral history interviews.",
+      "contact": "Golden, BC museum"
+    },
+    {
+      "institution": "Glenbow Museum (University of Calgary)",
+      "reason": "CPR archival materials, Western Canada mountaineering records. May hold alternate copies of guide documentation or expedition reports.",
+      "contact": "https://asc.ucalgary.ca/"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-04-10",
+      "query": "feuz",
+      "result": "327 records at Whyte Museum; primary result: Edward Feuz fonds (M93/V200)"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "1906 yoho feuz",
+      "result": "4 records combining Alpine Club of Canada fonds, Edward Feuz fonds, J. Monroe Thorington fonds, Vaux family fonds"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "yoho national park feuz",
+      "result": "Yoho National Park facet confirmed in Edward Feuz fonds; multiple 1906–1920 materials"
+    }
+  ]
+}

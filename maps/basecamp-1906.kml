@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BASECAMP — 1906 Alpine Club of Canada Camp</name>
+    <description>Places, routes and camps from the first ACC camp at Yoho Pass, July 1906. Extracted from Canadian Alpine Journal Vol.1 No.1.</description>
+    <Style id="style-camp">
+      <IconStyle>
+        <scale>1.4</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-station">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/rail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-hotel">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-chalet">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-mountain">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/mountains.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-peak">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/mountains.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-glacier">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-snowfield">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-lake">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-waterfall">
+      <IconStyle>
+        <scale>0.9</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-pass">
+      <IconStyle>
+        <scale>0.9</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-viewpoint">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style-default">
+      <IconStyle>
+        <scale>0.8</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="route-field-to-camp">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="route-vice-president-official">
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="route-yoho-valley-round">
+      <LineStyle>
+        <color>ffff8800</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="route-emerald-glacier-trip">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="route-burgess-pass-return">
+      <LineStyle>
+        <color>ff8800ff</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Camps</name>
+      <Placemark>
+        <name>Camp Yoho (1906)</name>
+        <description>Elevation: 6000 ft
+Also known as: Yoho Camp, the Camp
+Yeigh: 'tented town nestling amid the realm of trees... under a sky of blue, with grey old Wapta and Michael's mount standing sentinel, three thousand feet higher still.' Three sections: Residence Park, Official Square, horse paddock. Dining tent for 100. Bulletin board, central fire.
+Coordinate confidence: approximate
+Modern: Near modern Yoho Pass junction. Exact camp clearing likely overgrown.</description>
+        <styleUrl>#style-camp</styleUrl>
+        <Point>
+          <coordinates>-116.511,51.4675,1829</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Stations</name>
+      <Placemark>
+        <name>Field Station (CPR)</name>
+        <description>Elevation: 4075 ft
+Also known as: Field
+Railway station where campers arrived evening of July 8th. 'That spacious hostelry' under the shadow of Mt. Stephen.
+Coordinate confidence: exact
+Modern: Modern Field townsite, Trans-Canada Highway.</description>
+        <styleUrl>#style-station</styleUrl>
+        <Point>
+          <coordinates>-116.456,51.3985,1242</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banff</name>
+        <description>Elevation: 4537 ft
+Also known as: capital of the Canadian National Park
+Gordon: 'capital of the Canadian National Park.' Henshaw: wildflowers within reach at Banff, Banff Hotel on cliff above confluence of Spray and Bow rivers.
+Coordinate confidence: exact
+Modern: Town of Banff.</description>
+        <styleUrl>#style-station</styleUrl>
+        <Point>
+          <coordinates>-115.5708,51.1784,1383</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hotels</name>
+      <Placemark>
+        <name>Mt. Stephen House</name>
+        <description>Elevation: 4075 ft
+Also known as: Mt. Stephen House
+CPR tourist hotel at Field. Mt. Stephen now 'the stock climb from Mt. Stephen House'. Return route via Burgess Pass trail.
+Coordinate confidence: approximate
+Modern: Site now within Field townsite. Hotel demolished 1918.</description>
+        <styleUrl>#style-hotel</styleUrl>
+        <Point>
+          <coordinates>-116.457,51.398,1242</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Chalets</name>
+      <Placemark>
+        <name>Emerald Lake Chalet</name>
+        <description>Elevation: 4300 ft
+Also known as: Emerald Lake Chalet
+Yeigh: 'as they round up at the Emerald Lake Chalet... transcendent beauty of this mountain lake nestling so peacefully at the base of mighty Mt. Burgess.'
+Coordinate confidence: approximate
+Modern: Now Emerald Lake Lodge (CRMR). Same site.</description>
+        <styleUrl>#style-chalet</styleUrl>
+        <Point>
+          <coordinates>-116.531,51.44,1311</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mountains</name>
+      <Placemark>
+        <name>Michael Peak (Michael's Mount)</name>
+        <description>Elevation: 8862 ft
+Also known as: Michaels Mt., Michael's mount
+Yeigh: 'grey old Wapta and Michael's mount standing sentinel, three thousand feet higher still' above the 6000 ft camp. Chief Mountaineer: climbed en route to Vice-President. July 14 party did interesting rock climb up face to summit.
+Coordinate confidence: exact
+Modern: Michael Peak, 2667m.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.5131,51.4828,2701</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Vice-President</name>
+        <description>Elevation: 10058 ft
+Also known as: Mt. Vice-President
+Official graduation climb. Yeigh: 'so called by Mr. Edward Whymper, of Matterhorn fame, in honor of the Vice-Presidency of the CPR.' 44 graduated, 15 ladies, no failures. Record time: 9.5 hrs. Average: 10.5 hrs.
+Coordinate confidence: exact
+Modern: The Vice President, 3066m, President Range.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.553,51.502,3066</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The President</name>
+        <description>Elevation: 10246 ft
+Also known as: Mt. President
+Climbed July 14 by Feuz guides via snow col from Vice-President summit. ~200 ft descent to col, similar ascent. Cairn built. Hour round trip from VP.
+Coordinate confidence: exact
+Modern: The President, 3138m, President Range.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.5617,51.5006,3123</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Burgess</name>
+        <description>Elevation: 8527 ft
+Yeigh: 'mighty Mt. Burgess' above Emerald Lake. Chief Mountaineer: 'one of the lowest, one of the most difficult climbs.' Climbed July 10 by party of 7 under Edouard Feuz.
+Coordinate confidence: exact
+Modern: Mt. Burgess, 2599m. Burgess Shale fossil site on its shoulder.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.5053,51.42,2599</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Field</name>
+        <description>Elevation: 8671 ft
+Climbed July 12 under Herdman's guidance. Party of 6.
+Coordinate confidence: exact
+Modern: Mt. Field, 2635m.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.4628,51.4308,2643</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Wapta</name>
+        <description>Elevation: 9114 ft
+Yeigh: 'seemed to be the favorite, ascents having been made of it by four separate parties, by two different routes.' West face and southwestern arete routes. NE face 'difficult.'
+Coordinate confidence: exact
+Modern: Mt. Wapta, 2778m.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.4775,51.4514,2778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Collie</name>
+        <description>Elevation: 10312 ft
+Climbed July 12 by Patterson + Gottfried Feuz from Twin Falls camp. Met Miss Tuzo (independent climb with Kaufmann) on summit.
+Coordinate confidence: exact
+Modern: Mt. Collie, 3143m.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.5917,51.6172,3143</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Marpole</name>
+        <description>Elevation: 9268 ft
+First ascent July 16 by Revs. MacRae, Gordon, Dunn with both Feuz guides.
+Coordinate confidence: exact
+Modern: Mt. Marpole, 2994m.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.5797,51.4925,2825</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Amgadamo</name>
+        <description>Elevation: 9620 ft
+Also known as: Amgadamo — unnamed peak christened at the 1906 camp
+Yeigh: 'the peak lying between it and Mt. McMullen, both as far as known, virgin ascents. The unnamed peak was christened Amgadamo.' First ascent July 16.
+Coordinate confidence: estimated
+Modern: Mt. Amgadamo. Named at the 1906 camp.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.575,51.488,2932</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Stephen</name>
+        <description>Elevation: 10495 ft
+Kinney: solo October 1904 ascent, left Field 8am, summit at ~4pm, returned 8pm. Fossil bed at 7000 ft. View of Field, Burgess, Wapta, Vice-President, Cathedral. 'The grim old King of the Rockies.'
+Coordinate confidence: exact
+Modern: Mt. Stephen, 3199m. Stock climb from Field.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.4364,51.3992,3199</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cascade Mountain</name>
+        <description>Elevation: 9836 ft
+Gordon/Connor: 'sheer, rocky and bare, its great base thrust into the pine forest, its head into the clouds.' Climbed September 1891. Two men reached summit, three women turned back ~200 yards short. Fossil remains found near top.
+Coordinate confidence: exact
+Modern: Cascade Mountain, 2998m, Banff National Park.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-115.5822,51.2681,2998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yoho Peak</name>
+        <description>Elevation: 9150 ft
+Wheeler: separates Yoho Glacier from Habel Glacier. Flanks the western side of the Yoho Glacier.
+Coordinate confidence: exact
+Modern: Yoho Peak, 2789m.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.5528,51.5556,2789</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cathedral Crags (Cathedral Spires)</name>
+        <description>Elevation: 9925 ft
+Also known as: Cathedral spires
+Yeigh: 'bordered by the Cathedral spires on the south and the Yoho glacier on the north.' Visible from upper trail.
+Coordinate confidence: approximate
+Modern: Cathedral Crags / Cathedral Mountain area, south side of Yoho Valley.</description>
+        <styleUrl>#style-mountain</styleUrl>
+        <Point>
+          <coordinates>-116.455,51.485,3025</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Peaks</name>
+      <Placemark>
+        <name>Angle Peak</name>
+        <description>Elevation: 9500 ft
+Also known as: Angle peak
+Chief Mountaineer: 'Angle peak, a sharp angle of rock rising above the north escarpment of the Vice-President ridge, about a mile east of the summit. Name first applied by Rev. James Outram.'
+Coordinate confidence: estimated
+Modern: Feature on the VP ridge. Not officially named on modern maps.</description>
+        <styleUrl>#style-peak</styleUrl>
+        <Point>
+          <coordinates>-116.525,51.49,2896</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Glaciers</name>
+      <Placemark>
+        <name>Emerald Glacier</name>
+        <description>Elevation: 8000 ft
+Yeigh: 'Bordering the palisades of the Vice-President for a mile or more.' Visited in detachments. Snow line at ~8000 ft. Séracs, crevasses, green-blue walls. Three trips led by Herdman, 27 people total.
+Coordinate confidence: approximate
+Modern: Remnant of Emerald Glacier on NE face of President Range.</description>
+        <styleUrl>#style-glacier</styleUrl>
+        <Point>
+          <coordinates>-116.54,51.492,2438</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yoho Glacier</name>
+        <description>Elevation: 6500 ft
+Wheeler: 'largest outflow from the Wapta icefield, less than two miles long, remarkable purity.' Metal plates set July 14-15 to measure flow. Main stream issues from ice cave. Retreat of 76 ft since Vaux 1901 marks (15 ft/year average).
+Coordinate confidence: approximate
+Modern: Yoho Glacier, significantly retreated since 1906.</description>
+        <styleUrl>#style-glacier</styleUrl>
+        <Point>
+          <coordinates>-116.51,51.548,1981</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Snowfields</name>
+      <Placemark>
+        <name>Wapta Icefield</name>
+        <description>Elevation: 9000 ft
+Also known as: Waputik Snowfield
+Wheeler: 'approximately twenty to twenty-five square miles, enclosed in a basin surrounded by Mts. Gordon, Olive, Thompson, Baker, Aysha peak, Mts. Collie, Habel and McArthur.' Feeds four watersheds — Bow, Mistaya, Blaeberry, Kicking-Horse.
+Coordinate confidence: approximate
+Modern: Wapta Icefield, still significant but retreating.</description>
+        <styleUrl>#style-snowfield</styleUrl>
+        <Point>
+          <coordinates>-116.5264,51.6394,2743</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Lakes</name>
+      <Placemark>
+        <name>Emerald Lake</name>
+        <description>Elevation: 4400 ft
+Wheeler: 'turquoise green, in... Emerald lakes'. Yeigh: 'mountain lake nestling so peacefully at the base of mighty Mt. Burgess'. Henshaw: moraine stretching from Emerald Lake to Yoho Valley had Yellow Lady's Slippers in July.
+Coordinate confidence: exact
+Modern: Emerald Lake, Yoho National Park.</description>
+        <styleUrl>#style-lake</styleUrl>
+        <Point>
+          <coordinates>-116.531,51.444,1341</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yoho Lake</name>
+        <description>Elevation: 5955 ft
+Yeigh: 'the incomparable scene beside the incomparable Yoho lake, holding in its translucent waters all the emerald and amethyst shades in Nature's color box.' Wheeler: 'transparent emerald in Yoho lake.'
+Coordinate confidence: approximate
+Modern: Yoho Lake, accessible from Yoho Pass trail.</description>
+        <styleUrl>#style-lake</styleUrl>
+        <Point>
+          <coordinates>-116.505,51.47,1815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake O'Hara</name>
+        <description>Elevation: 6630 ft
+Vaux: 'no place more delightful... a lovely clear sheet of water, filtered through the rock slide at its head. Banks carpeted with flowers.' Views of Biddle, Hungabee, Yukness, Lefroy, Victoria, Huber, Wiwaxy. 10 miles from Hector station.
+Coordinate confidence: exact
+Modern: Lake O'Hara, Yoho NP. Bus access only.</description>
+        <styleUrl>#style-lake</styleUrl>
+        <Point>
+          <coordinates>-116.3304,51.3559,2021</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake McArthur</name>
+        <description>Elevation: 7400 ft
+Also known as: McArthur lake
+Vaux: 'a true alpine lake, with glaciers from the slopes of Mt. Biddle breaking off in miniature icebergs; grassy moss-grown slopes are a favorite feeding ground of the mountain goat.'
+Coordinate confidence: approximate
+Modern: Lake McArthur, largest lake in Lake O'Hara area.</description>
+        <styleUrl>#style-lake</styleUrl>
+        <Point>
+          <coordinates>-116.332,51.344,2256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Oesa</name>
+        <description>Elevation: 7500 ft
+Vaux: 'whose surface is only melted for a very few weeks at midsummer.' Reached by following stream feeding Lake O'Hara through chain of lakes with cascades.
+Coordinate confidence: approximate
+Modern: Lake Oesa, 2275m.</description>
+        <styleUrl>#style-lake</styleUrl>
+        <Point>
+          <coordinates>-116.315,51.35,2286</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Waterfalls</name>
+      <Placemark>
+        <name>Takakkaw Falls</name>
+        <description>Elevation: 4600 ft
+Yeigh: 'Canada's highest Niagara.' Chief Mountaineer: 'magnificent view of the full majesty of the Takakkaw falls, with its thousand feet of a sheer drop.' Special trip made by HG Wheeler, 19 people.
+Coordinate confidence: exact
+Modern: Takakkaw Falls, 373m total drop. Yoho Valley Road.</description>
+        <styleUrl>#style-waterfall</styleUrl>
+        <Point>
+          <coordinates>-116.4728,51.4997,1402</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laughing Falls</name>
+        <description>Elevation: 4800 ft
+Yeigh: overnight camp near Laughing Falls on Yoho Valley trip. 'In the silent watches of the night... God's stars seemed to hover nearer.' Overnight camp for glacier observation committee July 14.
+Coordinate confidence: approximate
+Modern: Laughing Falls, Yoho Valley trail. Campground nearby.</description>
+        <styleUrl>#style-waterfall</styleUrl>
+        <Point>
+          <coordinates>-116.475,51.518,1463</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twin Falls</name>
+        <description>Elevation: 5400 ft
+Yeigh: 'past the Laughing falls and the Twin falls, and many another no less beautiful.' Patterson camped at Twin Falls foot before Collie ascent.
+Coordinate confidence: approximate
+Modern: Twin Falls, Yoho Valley. Twin Falls Chalet nearby.</description>
+        <styleUrl>#style-waterfall</styleUrl>
+        <Point>
+          <coordinates>-116.48,51.535,1646</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Passs</name>
+      <Placemark>
+        <name>Yoho Pass</name>
+        <description>Elevation: 5955 ft
+Also known as: summit of Yoho pass
+Yeigh: 'At last, the summit of Yoho pass! At last, that striking picture of a tented town nestling amid the realm of trees!' Camp site at 6000 ft.
+Coordinate confidence: approximate
+Modern: Yoho Pass, elevation ~1815m. Modern trail from Emerald Lake to Yoho Valley.</description>
+        <styleUrl>#style-pass</styleUrl>
+        <Point>
+          <coordinates>-116.51,51.467,1815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burgess Pass</name>
+        <description>Elevation: 7136 ft
+Also known as: Burgess pass trail
+Kinney: 'that most beautiful of passes, Burgess pass.' Chief Mountaineer: 'The Burgess trail seemed a favorite... from which the Presidents range and Emerald mountains with their glaciers, icefalls and torrents, are seen to greatest advantage; while below, Emerald lake nestles in a setting of deep green forest.' Return route to Mt. Stephen House.
+Coordinate confidence: approximate
+Modern: Burgess Pass trail, Parks Canada. Access to Burgess Shale.</description>
+        <styleUrl>#style-pass</styleUrl>
+        <Point>
+          <coordinates>-116.484,51.4295,2175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbot Pass</name>
+        <description>Elevation: 9596 ft
+Also known as: Abbott pass
+Vaux: 'one can venture across Abbot pass (9000 feet above sea) and down the Victoria glacier to Lake Louise. But this is only safe with an experienced Swiss guide, as the pass is frequently traversed by avalanches on its northern side.'
+Coordinate confidence: exact
+Modern: Abbot Pass, 2925m. Abbot Pass Hut (National Historic Site).</description>
+        <styleUrl>#style-pass</styleUrl>
+        <Point>
+          <coordinates>-116.2844,51.3664,2925</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Viewpoints</name>
+      <Placemark>
+        <name>Inspiration Point</name>
+        <description>Elevation: 6500 ft
+Chief Mountaineer: 'reached by a corkscrew trail branching from the Upper Yoho valley trail at a point near the camp. This point is well named, for the view from it not only takes one's breath away.' Dramatic view of Takakkaw Falls across valley.
+Coordinate confidence: estimated
+Modern: Near modern Yoho Pass / Iceline trail junction area.</description>
+        <styleUrl>#style-viewpoint</styleUrl>
+        <Point>
+          <coordinates>-116.5,51.475,1981</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lookout Point</name>
+        <description>Elevation: 5500 ft
+Chief Mountaineer: 'Lookout point on the Lower Yoho valley trail, presenting a magnificent view of the full majesty of the Takakkaw falls.'
+Coordinate confidence: estimated
+Modern: On the Yoho Valley trail system.</description>
+        <styleUrl>#style-viewpoint</styleUrl>
+        <Point>
+          <coordinates>-116.49,51.485,1676</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Deltas</name>
+      <Placemark>
+        <name>Northern Glacial Delta</name>
+        <description>Elevation: 4300 ft
+Also known as: broad glacial delta on its northern shore
+Yeigh: 'traverse of the broad glacial delta on its northern shore and the ascent of the steep cliff wall... passage of an endless number of streams flowing from the Emerald glacier, thousands of feet higher. Pioneering the first section of the party was the Rev. Dr. Herdman... log bridges had been swept away... pack ponies were requisitioned as bridges.'
+Coordinate confidence: approximate
+Modern: Now alluvial fan at north end of Emerald Lake. Modern Yoho Pass trail crosses this area.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.525,51.45,1311</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bridges</name>
+      <Placemark>
+        <name>Bridge over the Kicking-Horse</name>
+        <description>Elevation: 4075 ft
+Yeigh: 'crossed the bridge over the Kicking-Horse and took to the road that leads through a silent forest aisle to Emerald lake.'
+Coordinate confidence: approximate
+Modern: Near modern bridge on Emerald Lake Road at Field.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.458,51.399,1242</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natural Bridge</name>
+        <description>Elevation: 4200 ft
+Photo caption by Mary Vaux: 'MOUNT STEPHEN FROM THE NATURAL BRIDGE.' On Kicking Horse River en route to Emerald Lake.
+Coordinate confidence: exact
+Modern: Natural Bridge, Yoho NP. Popular viewpoint on Emerald Lake Road.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.508,51.417,1280</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Roads</name>
+      <Placemark>
+        <name>Forest Road to Emerald Lake</name>
+        <description>Also known as: seven-mile path through the trees
+Yeigh: 'That seven-mile path through the trees, with a snow-enshrined peak closing the view at either end.' Some walked, some rode carriages or commissariat wagons.
+Coordinate confidence: approximate
+Modern: Modern Emerald Lake Road, 8.5 km paved.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.5,51.42,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Trails</name>
+      <Placemark>
+        <name>Upper Yoho Valley Trail</name>
+        <description>Also known as: upper trail
+Return route for Yoho Valley round trip. Yeigh: 'from lofty platforms of rock we saw the entire fifteen-mile valley lying below us as in a picture.'
+Coordinate confidence: estimated
+Modern: Modern Iceline Trail follows similar high route.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.49,51.51,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lower Yoho Valley Trail</name>
+        <description>Also known as: lower trail
+Outbound route for Yoho Valley round trip, passing Takakkaw Falls and Laughing Falls.
+Coordinate confidence: estimated
+Modern: Modern Yoho Valley Trail.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.48,51.505,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Fossil Beds</name>
+      <Placemark>
+        <name>Fossil Bed (Mt. Stephen)</name>
+        <description>Elevation: 7000 ft
+Also known as: trilobite beds
+Kinney: 'opened Nature's book, and there, page after page, were trilobites of rarest form.' Wheeler: 'beds containing fossilized species, closely allied to the trilobite... at an altitude of 7000 feet, has become famous.'
+Coordinate confidence: approximate
+Modern: Mt. Stephen trilobite beds. Protected fossil site.</description>
+        <styleUrl>#style-default</styleUrl>
+        <Point>
+          <coordinates>-116.44,51.395,2134</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Routes (1906)</name>
+      <Placemark>
+        <name>Field Station to Camp Yoho (1906 approach march)</name>
+        <description>The march of July 9, 1906. Crossed Kicking-Horse bridge, 7-mile forest road to Emerald Lake Chalet, traverse of northern glacial delta with stream crossings, 1000-ft cliff ascent through spruce forest to Yoho Pass summit.</description>
+        <styleUrl>#route-field-to-camp</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-116.456,51.3985,1242 -116.458,51.399,1242 -116.5,51.42,0 -116.531,51.44,1311 -116.525,51.45,1311 -116.51,51.467,1815 -116.511,51.4675,1829</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Official Climb of The Vice-President</name>
+        <description>From camp, trail to Yoho Pass summit, right to Michael Peak shoulder near timber-line, long rock slide, steep snow slopes to arete, knife-edge arete to Angle Peak, snowfield walk to summit.</description>
+        <styleUrl>#route-vice-president-official</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-116.511,51.4675,1829 -116.51,51.467,1815 -116.5131,51.4828,2701 -116.525,51.49,2896 -116.553,51.502,3066</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Yoho Valley Round Trip (2-day)</name>
+        <description>Lower trail past Takakkaw Falls and Laughing Falls to Twin Falls and Yoho Glacier, overnight at Laughing Falls camp, return by upper trail with views of entire 15-mile valley.</description>
+        <styleUrl>#route-yoho-valley-round</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-116.511,51.4675,1829 -116.4728,51.4997,1402 -116.475,51.518,1463 -116.48,51.535,1646 -116.51,51.548,1981 -116.511,51.4675,1829</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Emerald Glacier Trip</name>
+        <description>From camp, partly same route as Upper Yoho trail to Inspiration Point, then left turn toward glacier foot. Stiff ascent over boulders. Snow line at ~8000 ft. Ice-step climbing to main icefield with seracs and crevasses.</description>
+        <styleUrl>#route-emerald-glacier-trip</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-116.511,51.4675,1829 -116.5,51.475,1981 -116.54,51.492,2438</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Burgess Pass Return Route</name>
+        <description>Return from camp to Mt. Stephen House via Burgess Pass trail. Views of President Range, Emerald mountains, glaciers, Emerald Lake below.</description>
+        <styleUrl>#route-burgess-pass-return</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-116.511,51.4675,1829 -116.484,51.4295,2175 -116.457,51.398,1242</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

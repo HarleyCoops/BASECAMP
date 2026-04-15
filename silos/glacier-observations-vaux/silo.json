@@ -1,0 +1,54 @@
+{
+  "silo_id": "glacier-observations-vaux",
+  "title": "Glacier Observations — George & William S. Vaux",
+  "article_slug": "glacier-observations-vaux",
+  "article_number": 20,
+  "section": "SCIENTIFIC",
+  "author": {
+    "person_id": "george-vaux",
+    "display_name": "George Vaux, Jr. and William S. Vaux",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Comprehensive glacier science primer and summary of Vaux brothers' systematic observations since 1887. Covers theory of glacier formation and flow, Illecillewaet recession data (1898-1906), Asulkan observations, Victoria glacier, Yoho glacier. Explains weather patterns driving precipitation.",
+  "emerald_lake_references": [],
+  "people_mentioned": [
+    "george-vaux",
+    "william-s-vaux"
+  ],
+  "places_mentioned": [
+    "yoho-glacier",
+    "wapta-icefield"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1887",
+      "event": "First Illecillewaet photographs"
+    },
+    {
+      "date": "1894",
+      "event": "Systematic observations begin"
+    },
+    {
+      "date": "1898-1906",
+      "event": "Recession measurements tabulated"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "TEST PICTURE OF THE ILLECILLEWAET GLACIER FOR THE YEAR 1905",
+      "credit": "Geo. Vaux, Jr. and Mary M. Vaux"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 138,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Glacier_Observations"
+  },
+  "fonds_leads": [
+    "Academy of Natural Sciences of Philadelphia proceedings"
+  ]
+}

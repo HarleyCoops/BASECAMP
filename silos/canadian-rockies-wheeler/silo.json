@@ -1,0 +1,94 @@
+{
+  "silo_id": "canadian-rockies-wheeler",
+  "title": "The Canadian Rockies, a Field for an Alpine Club — A.O. Wheeler",
+  "article_slug": "canadian-rockies-field-wheeler",
+  "article_number": 5,
+  "section": "MISCELLANEOUS",
+  "author": {
+    "person_id": "arthur-wheeler",
+    "display_name": "Arthur O. Wheeler, F.R.G.S.",
+    "at_camp": true,
+    "ell_silo_id": "arthur-oliver-wheeler"
+  },
+  "summary": "Wheeler's comprehensive survey of the Canadian Rockies as alpine territory. Describes geology, vegetation, glaciers across four ranges. Historical account of all significant expeditions from 1884 to 1906. Makes the case for a Canadian alpine club.",
+  "emerald_lake_references": [
+    {
+      "passage": "turquoise green, in Hector, Bow and Emerald lakes; turquoise blue in Peyto lake; transparent emerald in Yoho lake",
+      "context": "Catalogue of lake colors in the Main range",
+      "place_ids": [
+        "emerald-lake",
+        "yoho-lake"
+      ]
+    }
+  ],
+  "people_mentioned": [
+    "sandford-fleming",
+    "charles-fay",
+    "edward-whymper",
+    "james-outram",
+    "norman-collie",
+    "herschel-parker"
+  ],
+  "places_mentioned": [
+    "emerald-lake",
+    "yoho-lake",
+    "mt-stephen",
+    "fossil-bed",
+    "lake-ohara",
+    "lake-mcarthur",
+    "abbot-pass",
+    "wapta-icefield"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1884",
+      "event": "Fleming first calls attention to Rockies"
+    },
+    {
+      "date": "1888",
+      "event": "Green surveys Selkirks"
+    },
+    {
+      "date": "1890",
+      "event": "Topham, Huber, Sulzer visit; Fay visits"
+    },
+    {
+      "date": "1897",
+      "event": "Habel explores Yoho Valley"
+    },
+    {
+      "date": "1901",
+      "event": "Whymper visits; Outram captures Assiniboine"
+    },
+    {
+      "date": "1902",
+      "event": "Outram's big season — Columbia, Bryce, Lyall, Alexandra"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "A PARTY OF GRADUATES AND GUIDES RETURNED FROM THE OFFICIAL CLIMB OF MT. VICE-PRESIDENT",
+      "credit": "Byron Harmon"
+    },
+    {
+      "caption": "MOUNT WAPTA FROM YOHO CAMP",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "ICE CAVES ON THE VICE-PRESIDENT GLACIER",
+      "credit": "uncredited"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 36,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/The_Canadian_Rockies,_a_Field_for_an_Alpine_Club"
+  },
+  "fonds_leads": [
+    "LAC Wheeler survey records",
+    "Whyte Museum ACC fonds"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "person": "ralph-connor",
+  "source": "Whyte Museum",
+  "queries": [
+    "ralph+connor",
+    "charles+gordon+1906",
+    "connor+cascade",
+    "c.w.+gordon",
+    "gordon+yoho",
+    "connor+alpine"
+  ],
+  "downloaded": 2,
+  "total_bytes": 244212,
+  "items": [
+    {
+      "pid": "descriptions1041",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1041",
+      "title": "Display photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac00p_01_to_444_web/v14_ac00p_30.jpg",
+      "downloaded": true,
+      "file": "descriptions1041_v14_ac00p_30.jpg",
+      "bytes": 84932,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions55903",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions55903",
+      "title": "General Commercial Work negatives [7/15] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v180_duke_ron_web/v180_iii_a_vii_347_na_01.jpg",
+      "downloaded": true,
+      "file": "descriptions55903_v180_iii_a_vii_347_na_01.jpg",
+      "bytes": 159280,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

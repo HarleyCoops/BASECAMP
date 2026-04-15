@@ -1,0 +1,27 @@
+{
+  "silo_id": "ascent-hermit-gray",
+  "title": "The Ascent of Mt. Hermit — Rev. S.H. Gray",
+  "article_slug": "ascent-hermit-gray",
+  "article_number": 13,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "sh-gray",
+    "display_name": "Rev. S.H. Gray",
+    "at_camp": false,
+    "ell_silo_id": null
+  },
+  "summary": "Ascent of Mt. Hermit in the Selkirk Range near Rogers Pass.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

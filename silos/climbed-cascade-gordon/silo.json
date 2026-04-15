@@ -1,0 +1,43 @@
+{
+  "silo_id": "climbed-cascade-gordon",
+  "title": "How We Climbed Cascade — Ralph Connor (Rev. C.W. Gordon)",
+  "article_slug": "climbed-cascade-gordon",
+  "article_number": 7,
+  "section": "MISCELLANEOUS",
+  "author": {
+    "person_id": "ralph-connor",
+    "display_name": "Rev. C.W. Gordon (Ralph Connor)",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Humorous narrative of an amateur Cascade Mountain ascent in September 1891 — 15 years before the ACC. Party of 6 (the Professor, Lady from Montreal, Lady from Winnipeg, Man from California, Lady from Banff, the Missionary). No guides, no equipment, ladies in petticoats and kid boots. Two men reach summit, ladies turn back 200 yards short. Fossil remains found near top.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [
+    "cascade-mountain",
+    "banff"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1891-09",
+      "event": "The climb — a Thursday afternoon in early September"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "CASCADE MOUNTAIN, BANFF, ALBERTA",
+      "credit": "Byron Harmon"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 58,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/How_We_Climbed_Cascade"
+  },
+  "fonds_leads": [
+    "University of Manitoba Archives — Ralph Connor papers"
+  ]
+}

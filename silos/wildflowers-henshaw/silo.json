@@ -1,0 +1,48 @@
+{
+  "silo_id": "wildflowers-henshaw",
+  "title": "The Mountain Wildflowers of Western Canada — Julia W. Henshaw",
+  "article_slug": "wildflowers-henshaw",
+  "article_number": 19,
+  "section": "SCIENTIFIC",
+  "author": {
+    "person_id": "julia-henshaw",
+    "display_name": "Julia W. Henshaw",
+    "at_camp": true,
+    "ell_silo_id": "julia-henshaw"
+  },
+  "summary": "Botanical survey of wildflowers across Banff, Lake Louise, Field, and Glacier. Detailed species identifications with Latin names. Covers Banff Hotel area, Sulphur Mountain trail, Lake Louise slopes, Field moraine, Glacier yellow lilies.",
+  "emerald_lake_references": [
+    {
+      "passage": "Field is the place where you will find the large Yellow Lady's Slipper (Cypripedium pubescens) in all its rare perfection. On a long moraine which stretches up from Emerald lake to the foot of the Yoho valley, these huge orchids grow in thick clumps in the month of July.",
+      "context": "Botanical observation — specific species at specific location",
+      "place_ids": [
+        "emerald-lake"
+      ]
+    }
+  ],
+  "people_mentioned": [],
+  "places_mentioned": [
+    "emerald-lake",
+    "banff",
+    "field-station"
+  ],
+  "dates_mentioned": [],
+  "photos_in_article": [
+    {
+      "caption": "YELLOW ADDER'S TONGUE (Erythronium Giganteum)",
+      "credit": "Julia W. Henshaw"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 130,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/The_Mountain_Wildflowers_of_Western_Canada"
+  },
+  "fonds_leads": [
+    "Vancouver Archives",
+    "UBC Special Collections"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BASECAMP People Intelligence",
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "string" },
+    "last_updated": { "type": "string", "format": "date" },
+    "people": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "person_id": { "type": "string" },
+          "display_name": { "type": "string" },
+          "formal_name": { "type": "string" },
+          "roles": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "author", "editor", "guide", "outfitter", "organizer",
+                "climber", "graduate", "photographer", "scientist",
+                "cook", "employee", "patron", "honorary_member",
+                "active_member", "graduating_member", "press",
+                "chief_mountaineer", "secretary", "treasurer", "librarian",
+                "president", "vice_president"
+              ]
+            }
+          },
+          "titles": { "type": "array", "items": { "type": "string" } },
+          "affiliations": { "type": "array", "items": { "type": "string" } },
+          "biographical_detail": { "type": "string" },
+          "at_camp": { "type": "boolean" },
+          "camp_dates": { "type": "string" },
+          "articles_authored": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "slug": { "type": "string" },
+                "title": { "type": "string" },
+                "mentions_emerald_lake": { "type": "boolean" },
+                "emerald_lake_content": { "type": "string" }
+              }
+            }
+          },
+          "articles_mentioned_in": { "type": "array", "items": { "type": "string" } },
+          "photos_credited": { "type": "array", "items": { "type": "string" } },
+          "climbs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "mountain": { "type": "string" },
+                "date": { "type": "string" },
+                "role": { "type": "string" }
+              }
+            }
+          },
+          "ell_silo_id": { "type": ["string", "null"] },
+          "fonds_leads": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["person_id", "display_name", "roles", "at_camp"]
+      }
+    }
+  }
+}

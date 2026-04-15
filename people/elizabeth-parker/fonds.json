@@ -1,0 +1,94 @@
+{
+  "person_id": "elizabeth-parker",
+  "display_name": "Elizabeth Parker",
+  "researched_on": "2026-04-10",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "Alpine Club of Canada fonds (3,084 records)",
+      "fonds_title": "Alpine Club of Canada fonds",
+      "url": "https://archives.whyte.org/en/list?q=setName%3A%22Alpine+Club+of+Canada+fonds%22&p=1&ps=&sort=",
+      "scope": "Administrative records, executive minutes, camp records (1906-2017), 42 metres textual records, 12,500 photographs, 85 albums",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "ACC founding records 1906; 1906 Yoho camp administrative documentation; Parker served as first Secretary; Photograph: Elizabeth Parker reading her secretary report at Lake O'Hara camp (1909, photographer Frank Freeborn, M200/V14/S6)",
+      "notes": "Primary archival repository for ACC materials. Founded 1906 by Wheeler and Parker. Estimated 3,084 records total in the collection."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M546/V771",
+      "fonds_title": "Arthur Oliver Wheeler fonds",
+      "url": "https://archives.whyte.org/en/list?q=name:%22Wheeler,+Arthur+Oliver%22&p=1&ps=&sort=title_sort+asc",
+      "scope": "53 diaries (1885-1944), 66 photograph albums (~5,000 images), scrapbooks with correspondence, Alpine Club records",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Wheeler-Parker founding correspondence (late 1905–early 1906); 1906 camp records; diaries document first ACC camp and Parker's role as secretary; photographs from early camps including 1906 Yoho camp",
+      "notes": "Co-founder correspondence with Elizabeth Parker (M.T. initials signature). Diaries span entire founding period and first camp."
+    },
+    {
+      "institution": "Winnipeg Free Press / Manitoba Free Press Archives",
+      "fonds_id": "MFP 1874-1931 (digitized via Newspapers.com & Winnipeg Public Library)",
+      "fonds_title": "Manitoba Free Press / Winnipeg Free Press Archive",
+      "url": "https://www.newspapers.com/newspage/66539534/?locale=en-US",
+      "scope": "2 million+ digitized pages (1874-1931); searchable by name, keyword, date; full run of Parker's column 'A Reader's Notes' (Jan 1904–July 1940)",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Editorial advocating Canadian alpine club (March 1906, date precise to verify); Parker column as 'The Bookman'; founding advocacy writings against American Alpine Club subsidiary; camp reports and coverage",
+      "notes": "Searchable online through Newspapers.com and Winnipeg Public Library card. Parker began career Jan 13, 1904."
+    },
+    {
+      "institution": "Archives of Manitoba",
+      "fonds_id": "Unknown (Elizabeth Parker/Parker family records)",
+      "fonds_title": "Parker family / Elizabeth Parker papers (estimated)",
+      "url": "https://www.gov.mb.ca/chc/archives/",
+      "scope": "Unknown — likely personal papers, family records, correspondence",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Archives exists; no online finding aid confirms Elizabeth Parker fonds; likely holdings in provincial records",
+      "notes": "Requires direct contact with Archives staff. Keystone Archives Descriptive Database searchable online but no specific Elizabeth Parker fonds description located."
+    },
+    {
+      "institution": "University of Manitoba Archives & Special Collections",
+      "fonds_id": "Parker fonds (search pending)",
+      "fonds_title": "Elizabeth Parker fonds (estimated)",
+      "url": "https://umanitoba.ca/libraries/archives-special-collections",
+      "scope": "Unknown — likely papers, correspondence, editorial materials",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "No confirmed Elizabeth Parker fonds located in online catalog. Matthew A. Parker fonds exists but distinct individual.",
+      "notes": "Contact: archives@umanitoba.ca or (204) 474-9986. Not all collections digitized."
+    }
+  ],
+  "digital_assets_downloaded": [
+    {
+      "filename": "whyte-elizabeth-parker-1909-lake-ohara-secretary-report.jpg",
+      "source_url": "https://archives.whyte.org/en/permalink/descriptions49267",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49267",
+      "caption": "Elizabeth Parker reading her secretary report at Alpine Club of Canada annual meeting, Lake O'Hara, Yoho Park, B.C., 1909. Photographer: Frank W. Freeborn. Whyte Museum M200/V14/S6.",
+      "date": "1909",
+      "license": "Whyte Museum of the Canadian Rockies (access by request)"
+    }
+  ],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Archives of Manitoba",
+      "reason": "No online finding aid confirms Elizabeth Parker fonds; likely provincial holdings of personal/family papers or correspondence",
+      "contact": "Archives of Manitoba, Winnipeg MB; search@gov.mb.ca or (204) 945-3971"
+    },
+    {
+      "institution": "University of Manitoba Archives & Special Collections",
+      "reason": "Elizabeth Parker fonds not confirmed in online catalog; may be unprocessed or catalogued under different name",
+      "contact": "archives@umanitoba.ca or (204) 474-9986"
+    },
+    {
+      "institution": "Winnipeg Free Press / Manitoba Free Press Archives",
+      "reason": "March 1906 founding editorial and 1906 camp coverage require manual newspaper search in Newspapers.com or Winnipeg Public Library database",
+      "contact": "Winnipeg Public Library, wpg.newspaper.archives@winnipegpl.ca or https://guides.wpl.winnipeg.ca/wpgfparch"
+    }
+  ]
+}

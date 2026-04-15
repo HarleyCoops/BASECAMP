@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-04-09",
+  "total_silos": 20,
+  "silos": [
+    {
+      "silo_id": "first-camp-yeigh",
+      "title": "Canada's First Alpine Club Camp — Frank Yeigh",
+      "section": "MISCELLANEOUS",
+      "author": "Frank Yeigh",
+      "at_camp": true,
+      "has_emerald_lake_refs": true,
+      "emerald_lake_ref_count": 3
+    },
+    {
+      "silo_id": "canadian-rockies-wheeler",
+      "title": "The Canadian Rockies, a Field for an Alpine Club — A.O. Wheeler",
+      "section": "MISCELLANEOUS",
+      "author": "Arthur O. Wheeler, F.R.G.S.",
+      "at_camp": true,
+      "has_emerald_lake_refs": true,
+      "emerald_lake_ref_count": 1
+    },
+    {
+      "silo_id": "yoho-glacier-wheeler",
+      "title": "Observations of the Yoho Glacier — A.O. Wheeler",
+      "section": "SCIENTIFIC",
+      "author": "Arthur O. Wheeler, F.R.G.S.",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "camping-rockies-vaux",
+      "title": "Camping in the Canadian Rockies — Mary M. Vaux",
+      "section": "MISCELLANEOUS",
+      "author": "Mary M. Vaux",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "glacier-observations-vaux",
+      "title": "Glacier Observations — George & William S. Vaux",
+      "section": "SCIENTIFIC",
+      "author": "George Vaux, Jr. and William S. Vaux",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "climbed-cascade-gordon",
+      "title": "How We Climbed Cascade — Ralph Connor (Rev. C.W. Gordon)",
+      "section": "MISCELLANEOUS",
+      "author": "Rev. C.W. Gordon (Ralph Connor)",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "mt-stephen-kinney",
+      "title": "Mt. Stephen — Rev. G.R.B. Kinney",
+      "section": "MOUNTAINEERING",
+      "author": "Rev. G.R.B. Kinney",
+      "at_camp": true,
+      "has_emerald_lake_refs": true,
+      "emerald_lake_ref_count": 1
+    },
+    {
+      "silo_id": "alpine-club-parker",
+      "title": "The Alpine Club of Canada — Elizabeth Parker",
+      "section": "MISCELLANEOUS",
+      "author": "Elizabeth Parker",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "wildflowers-henshaw",
+      "title": "The Mountain Wildflowers of Western Canada — Julia W. Henshaw",
+      "section": "SCIENTIFIC",
+      "author": "Julia W. Henshaw",
+      "at_camp": true,
+      "has_emerald_lake_refs": true,
+      "emerald_lake_ref_count": 1
+    },
+    {
+      "silo_id": "chief-mountaineer-report",
+      "title": "Report of Chief Mountaineer — M.P. Bridgland",
+      "section": "OFFICIAL",
+      "author": "M.P. Bridgland",
+      "at_camp": true,
+      "has_emerald_lake_refs": true,
+      "emerald_lake_ref_count": 2
+    },
+    {
+      "silo_id": "yoho-camp-report",
+      "title": "Report of the Yoho Camp, July, 1906 — Official Circular",
+      "section": "OFFICIAL",
+      "author": "H.G. Wheeler / Elizabeth Parker (signatories)",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-goodsir-fay",
+      "title": "The Ascent of Mt. Goodsir — Charles E. Fay",
+      "section": "MOUNTAINEERING",
+      "author": "Charles E. Fay, Litt.D.",
+      "at_camp": false,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-hungabee-parker",
+      "title": "The Ascent of Mt. Hungabee — Herschel C. Parker",
+      "section": "MOUNTAINEERING",
+      "author": "Herschel C. Parker, Ph.D.",
+      "at_camp": false,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-ball-patterson",
+      "title": "The Ascent of Mt. Ball — J.D. Patterson",
+      "section": "MOUNTAINEERING",
+      "author": "J.D. Patterson",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-assiniboine-benham",
+      "title": "The Ascent of Mt. Assiniboine — Gertrude E. Benham",
+      "section": "MOUNTAINEERING",
+      "author": "Gertrude E. Benham",
+      "at_camp": false,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-hermit-gray",
+      "title": "The Ascent of Mt. Hermit — Rev. S.H. Gray",
+      "section": "MOUNTAINEERING",
+      "author": "Rev. S.H. Gray",
+      "at_camp": false,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-bagheera-jackson",
+      "title": "The First Ascent of Central Peak of Mt. Bagheera — W.S. Jackson",
+      "section": "MOUNTAINEERING",
+      "author": "W.S. Jackson",
+      "at_camp": false,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascent-macoun-herdman",
+      "title": "The Ascent of Mt. Macoun — Rev. J.C. Herdman",
+      "section": "MOUNTAINEERING",
+      "author": "Rev. J.C. Herdman, D.D.",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "climb-crows-nest-mctavish",
+      "title": "The Climb of Crow's Nest Mountain — P.D. McTavish",
+      "section": "MOUNTAINEERING",
+      "author": "P.D. McTavish",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    },
+    {
+      "silo_id": "ascents-marpole-amgadamo",
+      "title": "The Ascents of Mts. Marpole and Amgadamo — Gordon, Dunn, MacRae",
+      "section": "MOUNTAINEERING",
+      "author": "Revs. A.M. Gordon, Alex. Dunn and A.O. MacRae",
+      "at_camp": true,
+      "has_emerald_lake_refs": false,
+      "emerald_lake_ref_count": 0
+    }
+  ]
+}

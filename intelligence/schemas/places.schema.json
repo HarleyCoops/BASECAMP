@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BASECAMP Places Intelligence",
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "string" },
+    "last_updated": { "type": "string", "format": "date" },
+    "places": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "place_id": { "type": "string" },
+          "display_name": { "type": "string" },
+          "historical_names": { "type": "array", "items": { "type": "string" } },
+          "place_type": {
+            "type": "string",
+            "enum": [
+              "station", "road", "trail", "chalet", "camp", "pass",
+              "lake", "mountain", "glacier", "waterfall", "valley",
+              "river", "creek", "delta", "ridge", "arete", "peak",
+              "snowfield", "moraine", "viewpoint", "hotel", "bridge",
+              "fossil_bed", "cave"
+            ]
+          },
+          "coordinates": {
+            "type": "object",
+            "properties": {
+              "lat": { "type": "number" },
+              "lon": { "type": "number" }
+            }
+          },
+          "elevation_ft": { "type": ["number", "null"] },
+          "elevation_source": { "type": "string" },
+          "coordinate_confidence": {
+            "type": "string",
+            "enum": ["exact", "approximate", "estimated", "not_geocoded"]
+          },
+          "coordinate_source": { "type": "string" },
+          "description_from_text": { "type": "string" },
+          "mentioned_in_articles": { "type": "array", "items": { "type": "string" } },
+          "route_connections": { "type": "array", "items": { "type": "string" } },
+          "modern_trail_note": { "type": "string" }
+        },
+        "required": ["place_id", "display_name", "place_type", "coordinates", "coordinate_confidence"]
+      }
+    }
+  }
+}

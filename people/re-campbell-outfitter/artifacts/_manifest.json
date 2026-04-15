@@ -1,0 +1,25 @@
+ {
+  "person": "re-campbell-outfitter",
+  "source": "Whyte Museum",
+  "queries": [
+    "r.e.+campbell",
+    "campbell+outfitter+1906",
+    "campbell+banff"
+  ],
+  "downloaded": 1,
+  "total_bytes": 277627,
+  "items": [
+    {
+      "pid": "descriptions50040",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions50040",
+      "title": "Wilson packtrail on Banff Avenue, left to right L.J. Steele, Ross Peacock, Bob Campbell, Walter Garrett, and Walter Wilcox - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v715_web_copy/v715_2_na66_487.jpg",
+      "downloaded": true,
+      "file": "descriptions50040_v715_2_na66_487.jpg",
+      "bytes": 277627,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

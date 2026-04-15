@@ -1,0 +1,157 @@
+{
+  "person_id": "julia-henshaw",
+  "display_name": "Julia Wilmotte Henshaw",
+  "birth_year": 1869,
+  "death_year": 1937,
+  "researched_on": "2026-04-10",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M67/V225",
+      "fonds_title": "Lillian Gest fonds",
+      "url": "https://archives.whyte.org/en/permalink/descriptions1809",
+      "scope": "Annotated copy of 'Wild Flowers of the North American Mountains' with dates of observations and notes",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Henshaw's personal annotated copy of her own wildflower book, with observation dates and field notes marking locations of specimens collected.",
+      "notes": "Reference Code M67/50. Personal working copy with handwritten annotations."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M107/V653",
+      "fonds_title": "Vaux family fonds",
+      "url": "https://archives.whyte.org/en/list?q=henshaw",
+      "scope": "Photographs of Julia Henshaw in mountaineering contexts (1910-1911)",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Glass negatives showing Henshaw on tote road near Glacier, BC with horses and Mary Schaffer (1910-1911). While slightly later than 1906, these document her continued Alpine work and mountaineering partnership with Mary Schaffer in Selkirk Mountains.",
+      "notes": "Reference Codes: V653/NG-909, V653/NG-908, V653/NG-907. Three documented images of Henshaw with Schaffer in the Rockies."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "Alpine Club of Canada",
+      "fonds_title": "Alpine Club of Canada fonds",
+      "url": "https://archives.whyte.org/en/list?q=henshaw",
+      "scope": "Records related to Julia Henshaw's role in the Alpine Club of Canada",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "1 record in ACC fonds related to Henshaw's activities; likely includes 1906 Yoho camp documentation.",
+      "notes": "Direct link to ACC archives at Whyte Museum; physical access recommended for original camp records."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "Henshaw biographical file",
+      "fonds_title": "Henshaw, Julia - Newsfile Biography",
+      "url": "https://archives.whyte.org/en/permalink/catalogue22244",
+      "scope": "Biographical clippings and press file on Julia Henshaw",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Compiled biographical newsfile containing contemporary press coverage of her mountain explorations and botanical work.",
+      "notes": "Call Number: Biofile. Contains period newspaper and magazine articles documenting her public profile."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "Henshaw postcard series",
+      "fonds_title": "Rocky Mountain Wildflowers postcards",
+      "url": "https://archives.whyte.org/en/permalink/catalogue25596",
+      "scope": "Published postcard series of Henshaw's wildflower illustrations, published by Raphael Tuck & Sons, London",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Documented postcard of 'Rocky Mountain Wildflowers, No. 5. Anemone' (white flowers). Part of commercial publication of Henshaw's botanical illustrations. Whyte donor note states Henshaw images appear in 1915 publication.",
+      "notes": "Call Number V151/PG-R13-30e. Published London: Raphael Tuck & Sons, Ltd. Accession 7979. Documents commercial distribution of her botanical work."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "Vaux family photography",
+      "fonds_title": "Peter and Catharine Whyte fonds",
+      "url": "https://archives.whyte.org/en/list?q=henshaw",
+      "scope": "Photographic records and biographical material on women mountaineers",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Related reference materials on women's mountaineering in the Canadian Rockies including Henshaw.",
+      "notes": "M107 series; requires in-person archival research."
+    },
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "Library holdings",
+      "fonds_title": "Published works about Julia Henshaw",
+      "url": "https://archives.whyte.org/en/list?q=henshaw",
+      "scope": "Secondary sources including biography and women's mountaineering history",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Two key published works: (1) 'Julia: a biography of Julia W. Henshaw' by Michael Kluckner (2018, Whyte reference 08.3 Kl66j) - graphic biography covering her life from Montreal to Vancouver to France; (2) 'This wild spirit: women in the Rocky Mountains of Canada' edited by Colleen Skidmore (2006, G512 S55) - includes Henshaw as one of featured women mountaineers of the Rocky Mountains.",
+      "notes": "These are published secondary sources held by Whyte Library; primary archival materials require direct archive access."
+    }
+  ],
+  "digital_assets_downloaded": [
+    {
+      "filename": "whyte-museum-31-henshaw-records.txt",
+      "source_url": "https://archives.whyte.org/en/list?q=henshaw",
+      "permalink": "https://archives.whyte.org/en/list?q=henshaw",
+      "caption": "Complete list of 31 Julia Henshaw records in Whyte Museum collections (4 pages of results)",
+      "date": "2026-04-10",
+      "license": "Whyte Museum Research Collections - Check institutional policy for reproduction"
+    }
+  ],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies - Alpine Club of Canada fonds",
+      "reason": "1906 Yoho Camp primary records likely held here; digital access not available online. ACC camp documentation, group photographs, participant lists needed.",
+      "contact": "archives@whyte.org | 403-762-2291 | By appointment at 111 Bear Street, Banff, AB"
+    },
+    {
+      "institution": "Royal BC Museum Natural History - Herbarium",
+      "reason": "Botanical specimens collected by Henshaw during 1906 Yoho and other field expeditions",
+      "contact": "Check Royal BC Museum website for herbarium access procedures"
+    },
+    {
+      "institution": "UBC Rare Books & Special Collections",
+      "reason": "BC history and mountaineering materials; possible Henshaw manuscripts, field notebooks, or publications",
+      "contact": "rbsc@library.ubc.ca | By appointment at Irving K. Barber Learning Centre, UBC"
+    },
+    {
+      "institution": "City of Vancouver Archives",
+      "reason": "Henshaw was Vancouver resident; possible personal papers, correspondence, press clippings about her ACC work and botanical publications",
+      "contact": "searcharchives.vancouver.ca or direct contact to Vancouver Archives"
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "reason": "National biographical files, press coverage, WWI Red Cross service records",
+      "contact": "www.bac-lac.gc.ca"
+    },
+    {
+      "institution": "Internet Archive",
+      "reason": "Full-text digitization of 'Mountain Wildflowers of America' (1906) and 'Wild Flowers of the North American Mountains' (1915) - out of copyright works",
+      "contact": "archive.org - open access project"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-04-10",
+      "query": "henshaw site:archives.whyte.org",
+      "result": "31 records found; 6 direct Henshaw items + 25 related records. Key finding: M67/V225 (annotated wildflowers book), M107/V653 (photographs with Schaffer 1910-11), biographical file, ACC fonds reference"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "Julia Henshaw 1906 Yoho Alpine Club",
+      "result": "Whyte Museum verified as primary repository. Alpine Club of Canada materials require in-person access at Whyte."
+    },
+    {
+      "date": "2026-04-10",
+      "query": "Internet Archive Julia Henshaw wildflowers",
+      "result": "Archive.org pages require JavaScript; attempted direct URL access unsuccessful. Recommended: direct search on archive.org for 'mountainwildflow' or similar identifiers"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "Library and Archives Canada search",
+      "result": "Site accessible but requires direct online search for biographical/press files"
+    }
+  ]
+}

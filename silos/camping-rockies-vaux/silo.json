@@ -1,0 +1,50 @@
+{
+  "silo_id": "camping-rockies-vaux",
+  "title": "Camping in the Canadian Rockies — Mary M. Vaux",
+  "article_slug": "camping-rockies-vaux",
+  "article_number": 8,
+  "section": "MISCELLANEOUS",
+  "author": {
+    "person_id": "mary-vaux",
+    "display_name": "Mary M. Vaux",
+    "at_camp": true,
+    "ell_silo_id": "mary-vaux-walcott"
+  },
+  "summary": "Practical guide to camping in the Rockies. Describes Lake O'Hara as finest 4-day trip from Laggan. Detailed equipment lists (clothing, food, photography). Describes Abbot Pass crossing, Lake McArthur goats, Lake Oesa. Photography technique notes.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [
+    "lake-ohara",
+    "lake-mcarthur",
+    "lake-oesa",
+    "abbot-pass"
+  ],
+  "dates_mentioned": [],
+  "photos_in_article": [
+    {
+      "caption": "MOUNT BIDDLE AND LAKE McARTHUR",
+      "credit": "Mary M. Vaux"
+    },
+    {
+      "caption": "AROUND THE CAMP FIRE",
+      "credit": "Frank Yeigh"
+    },
+    {
+      "caption": "CROSSING TWIN FALLS CREEK—YOHO VALLEY TRAIL",
+      "credit": "D. Warner"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 67,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Camping_in_the_Canadian_Rockies"
+  },
+  "fonds_leads": [
+    "Whyte Museum S5/V18",
+    "Smithsonian Institution",
+    "Academy of Natural Sciences of Philadelphia"
+  ]
+}

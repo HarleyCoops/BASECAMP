@@ -1,0 +1,42 @@
+The First Ascent of Central Peak of Mt. Bagheera
+
+THE FIRST ASCENT OF THE CENTRAL PEAK OF MT. BAGHEERA
+
+By W. S. Jackson
+
+To most men, who have done somewhat more than the ordinary show-peak climbing, who have got beyond the educational drudgery of the art, and grown enthusiastic for the most dehghtful of all forms of outdoor exercise, there comes the desire of conquering a virgin peak. A vague idea at first, then a shadowy possibility, it soon becomes a positive yearning to stand where no human foot has stood before, scale at least one soaring point free from cairns and luncheon cans, before axe and rope are laid by for ever. In the Alps there are none such left to conquer, though there is at least one whereon, though sometimes climbed, the foot of man has never stood. The mountaineer thirsting for fame is reduced to forcing new paths by forbidden routes up or down the oft-climbed peaks. Or else he must seek more distant fields; the Caucasus, the Himalayas, or the Rockies. Some such thoughts as these passed through my brain, as, after leaving Calgary in the early summer of 1905, the mighty barrier of mountains unfolded itself stretching north and south into vanishing distance. But nearer investigation brought disappointment. Everything seemed to have been done already. To find a decent virgin peak, it would be necessary to hire some sort of an outfit—ponies, tents, and drivers. It did not sound comfortable, and it did sound expensive. It is true that I was shown from the top of Temple one of the Ten Peaks that had perhaps never been ascended; but it was a long snowgrind, and I wanted a climb. If all mountains were long snow-grinds, there would be few keen mountaineers. It was the same story again at Field. In all the tossed sea of snow that lies around Mt. Stephen, there were no wave crests within easy reach that had not been topped. Hope had sunk very low when I reached Glacier. But here, Mr. Bell-Smith, the climber's friend, pointed out on his relief map two still unconquered summits, Mt. Tupper and the central peak of three-headed Bagheera. My holiday had only a short time to run, and there was Sir Donald still waiting as an absolute necessity. Everyone was talking of the wonders of the newly-discovered Caves of Cheops. That settled it. On the morrow, Edouard Feuz, Jr., and I started for Deutschmann's camp at the caves. We followed the railway and found the trestles across the Illecillewaet very unpleasant. The trail to the caves gave a glimpse into the beauties of the forests of the Selkirks. The cool shadows were delicious after the blazing sunshine on the rails. A family of grouse, tamer than barnyard fowl, squatted resolutely in our path. Leaving the trees, ferns and devil's-club were exchanged for flower carpets of lovely hues. The trail descended to the banks of the Cougar brook, which is crossed several times by convenient ice bridges, the remains of winter snows. We camped for the night at the Caves, where Deutschmann received us most hospitably and showed us some of the wonders of the place, discovered by himself the preceding autumn.
+
+In the morning we made a somewhat tardy start along the bank of the upper Cougar brook, till we neared the foot of Mt. Bagheera. There we made our first mistake. We began by ascending the brush-covered bank lying almost directly under Catamount peak. The going soon began to get boggy, the farther we went, the wetter it became, till we were actually wading, and my feet were soaked for the rest of the day. Emerging at length from this dismal swamp, we mounted the steep snow-slopes above, heading for the notch that separates Catamount from Bagheera. Midway were found beautiful waves of red snow, varying from pink on the crests to crimson in the troughs. This curious phenomenon is due to the presence of a tiny alga, which also accounts for the green snow elsewhere. Scrambling up the rock-work at the head of these slopes, we bore to the left of the notch till we reached the arête. Henceforth we had nothing but good sound rocks to the finish. Steadily working upwards, the projecting eastern point came into view, and seemed at first to be the promised summit; but climbing to it, the centre peak rose some 200 feet above us, looking quite imposing and Doigt de Dieu-like, as seen edge-wise from below. It had been hot work with the sun on one's back all the way, but Feuz frowned on all suggestions of rest and tobacco, and we again attacked the arête. This was largely composed of blocks of white and black marble, and gave firm and generous holds for hand and foot. We soon stepped over the edge of the little platform that formed our Hochste Spitze, and I stood for the first and probably the last time on a virgin peak (9106 feet). Here we found a little breeze, and sat down to enjoy the magnificent view. Far to the north stretched the endless snow-peaks that the Swiss range hides from the Glacier side. Sir Donald presented the grandest view of himself and his satellites that I was privileged to enjoy. Nearer at hand, across a big gulf, rose the eastern peak, of almost equal height (9096 feet). The air was clear as crystal, though two days later from the top of Sir Donald we could hardly see twenty miles away.
+
+When inner cravings had been satisfied, we built an artistic cairn, took some photographs, and prepared 
+
+Photo, W. S. Jackson
+
+E. FEUZ. JR., AT OUR CAIRN ON MOUNT BAGHEERA
+
+Photo, J. Simpson
+
+ONE OF THE DENIZENS OF COUGAR VALLEY
+
+ to descend. It was now nearly midday. Reflecting on the probable condition of the snow-slopes, we started straight down the southern face of the mountain at right angles to the Cougar valley. It became hot again at once. The holds were sound but generally small, and a projecting inch was often all that could be found. Being pioneers, we came of course on an occasional pitch that threatened to cut us off. But Feuz skilfully turned them all, with the aid of the instinct that developes in the best Swiss guides. At length we came to a rather nasty bit. My feet, stewing in soaking boots, felt raw, the sharp rocks had torn my sodden puttees, and I was almost inclined to welcome Feuz's proposal to make a diagonal cut across a steep, doubtful-looking snow-bank. He anchored himself in the edge of the little bergschrund, and I started gingerly to kick steps in the slope. I have always hated unstable snow, and my hatred was soon justified. After a dozen steps, the surface began to slide and I with it, until the rope tightened and swung me clear underneath Edouard. The breath was almost squeezed out of me, but I hung on to my axe and was soon on the edge of the bergschrund. We cut down this till we got to the rocks below: some more scrambling, a rather rocky glissade, and we were on the banks of the Cougar once more. 
+
+The walk back to the railway was weary work for one of us; but at the tank we found Mr. Bridgland and a party of brother officials, and with the kindness of fellow-mountaineers, they entertained us in a way that soon revived our spirits, and it was not till dusk that we took to the ties for the return to Glacier House. 
+
+Thus ended a delightful trip and interesting climb, for which I tender my warmest thanks to Edouard Feuz, Jr.; whatever merit there is in the performance, it is wholly due to his care and skill. 
+
+This work is in the public domain in the United States because it was published before January 1, 1931.
+
+This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+Public domainPublic domainfalsefalse
+
+This work is in the public domain in Canada because it originates from Canada and one of the following statements is true:
+
+The author died over 70 years ago (before 1956) and the work was published more than 50 years ago (before 1976).
+The author died before 1972, meaning that copyright on that author's works expired before the Canadian copyright term was extended non-retroactively from 50 to 70 years on 30 December 2022.
+
+This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+This template must be accompanied by a tag indicating copyright status in the United States.
+
+Public domainPublic domainfalsefalse

@@ -1,0 +1,92 @@
+{
+  "person": "eo-wheeler",
+  "source": "Whyte Museum",
+  "queries": [
+    "edward+wheeler+1906",
+    "e.o.+wheeler",
+    "wheeler+son+1906",
+    "e+o+wheeler"
+  ],
+  "downloaded": 7,
+  "total_bytes": 104152943,
+  "items": [
+    {
+      "pid": "descriptions1041",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1041",
+      "title": "Display photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac00p_01_to_444_web/v14_ac00p_30.jpg",
+      "downloaded": true,
+      "file": "descriptions1041_v14_ac00p_30.jpg",
+      "bytes": 84932,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions59853",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59853",
+      "title": "21 Months Leave Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_8.pdf",
+      "downloaded": true,
+      "file": "descriptions59853_v822_pd_8.pdf",
+      "bytes": 15963314,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions59854",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59854",
+      "title": "Military School Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_9.pdf",
+      "downloaded": true,
+      "file": "descriptions59854_v822_pd_9.pdf",
+      "bytes": 18996458,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions59857",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59857",
+      "title": "Wheeler Family Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_12.pdf",
+      "downloaded": true,
+      "file": "descriptions59857_v822_pd_12.pdf",
+      "bytes": 11218134,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions59858",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59858",
+      "title": "E.O. Wheeler Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_13.pdf",
+      "downloaded": true,
+      "file": "descriptions59858_v822_pd_13.pdf",
+      "bytes": 13940523,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions59859",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59859",
+      "title": "Holiday Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_14.pdf",
+      "downloaded": true,
+      "file": "descriptions59859_v822_pd_14.pdf",
+      "bytes": 6063254,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions59861",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59861",
+      "title": "Wheeler Family Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_16.pdf",
+      "downloaded": true,
+      "file": "descriptions59861_v822_pd_16.pdf",
+      "bytes": 37886328,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

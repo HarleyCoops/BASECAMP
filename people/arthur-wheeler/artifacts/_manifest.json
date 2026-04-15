@@ -1,0 +1,48 @@
+{
+  "person": "arthur-wheeler",
+  "source": "Whyte Museum",
+  "downloaded": 3,
+  "items": [
+    {
+      "pid": "descriptions59856",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions59856",
+      "title": "\r\n    Portraits Album - Research Collections - Whyte Museum of the Canadian Rockies\r\n  ",
+      "description": "",
+      "image_url": "https://archives.whyte.org/media/archives/v822_wheeler_family_web/v822_pd_11.pdf",
+      "downloaded": true,
+      "file": "descriptions59856_v822_pd_11.pdf",
+      "size_kb": 14261,
+      "relevant": false,
+      "bytes": 14603452,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions23111",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions23111",
+      "title": "\r\n    Personal Daytimers - Research Collections - Whyte Museum of the Canadian Rockies\r\n  ",
+      "description": "",
+      "image_url": "https://archives.whyte.org/media/archives/m546_web/M546_13.pdf",
+      "downloaded": true,
+      "file": "descriptions23111_M546_13.pdf",
+      "size_kb": 30925,
+      "relevant": false,
+      "bytes": 31668088,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions25126",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions25126",
+      "title": "\r\n    Scrapbook Volume One - Research Collections - Whyte Museum of the Canadian Rockies\r\n  ",
+      "description": "",
+      "image_url": "https://archives.whyte.org/media/archives/m546_web/m546_54_pdf.pdf",
+      "downloaded": true,
+      "file": "descriptions25126_m546_54_pdf.pdf",
+      "size_kb": 86734,
+      "relevant": false,
+      "bytes": 88815632,
+      "yoho_1906": false
+    }
+  ],
+  "total_bytes": 135087172,
+  "yoho_1906_hits": 0
+}

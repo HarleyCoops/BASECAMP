@@ -1,0 +1,54 @@
+Mt. Stephen
+
+MT. STEPHEN
+
+By the Rev. Geo. R. B. Kinney.
+
+It was in October of 1904, about the twenty-first, I left Field at eight o'clock in the morning, for a solitary stroll to the fossil bed on Mt. Stephen. A dense cold fog filled the valley, and promised good opportunities for cloud pictures later in the day. So, besides my lunch, prospector's pick and chisels, I took two cameras, a tripod, plates and holders. For an hour the trail to the fossil bed was followed; now going through the fragrant groves of spruce and fir over their thick carpets of moss, now crossing the noisy, foaming stream on a rustic bridge, but ever up, and always plunging through the heavy clouds of mist. As timber limit was neared, the clouds became broken with many a rift; and then, finally, I emerged above them into the glorious sunshine of a serene day. At my feet lay a sea of hurrying clouds, dazzling white in the brilliant sunshine of that October morning. Its massive swirling billows broke in silence on a soundless shore, and swept in gentle surges over the fossil bed, where once rolled the mighty ocean. Field with its tourists and its noisy, puffing traffic, was no more; it lay fathoms deep in that fleecy, fluffy flood.
+
+On the right, across a few miles of clouds, Mt. Field arose abruptly, its snows glistening pure and white in the sun, with Mt. Wapta just peeping over its broad shoulders. Immediately opposite, Mt. Burgess reared its rugged crest. Between lay that most beautiful of passes. Burgess pass. This trinity of gems seemed an island in the midst of a matrix of down. Across another inlet of this sea of clouds, the ivory peaks of the Van Horne range and Ottertail mountains formed a gleaming row of fangs, guarding the approaches to the mainland beyond.
+
+After taking a few pictures, the rest of the beautiful morning, from ten o'clock, was spent in gathering fossils and studying that old sea bed. With hammer and chisel, I opened Nature's book, and there, page after page, were trilobites of rarest form. Thousands, yea, millions of years ago, those shell fish had crawled slowly along the old sea bottom. Time had heaped a mountain upon them, had raised their ocean floor to a lofty plateau of a mighty continent, had hardened their mud to slate, and their shells to stone. About one o'clock, having eaten my lunch, the desire seized me to take a few views from the peak of Mt. Stephen. So, depositing the trilobites at the gnarled roots of an old dwarfed fir, and shouldering the load of cameras, etc., I set out for the summit. It only took a few minutes to climb to the top of the spur immediately above the fossil bed and to get above the last of the struggling timber growth, when there burst into view a scene that beggars description: Cathedral mountain, its perpendicular heights searching the very heavens, formed one unbroken wall of a vast amphitheatre. There, ridge on ridge, tier on tier, the parallel ledges, cushioned with snow, rose in countless numbers for thousands of feet. In such places as these the spirits of the mountain sit and watch the changing scenes of the hills in the vast arena before them. Sometimes it is a procession of sheep, or goats, or deer, or bear, or the eagle gracefully sailing. Sometimes it is the frisking mountain rat, or the whistling marmot, or the busy haymaker curing his crops of hay on the hot rocks of the slide. Or again it is the grand orchestra of the hills, breaking forth in the roar of the avalanche, the scream of the wind, the fall of the cataract, or the crumbling of the peaks.
+
+ For a mile or more it was easy going over a gentle slope covered with rocks and snow. The clouds had gradually broken up before the genial warmth of the sun, and the Kicking-Horse river seemed a little thread of silver that wound, with countless twists and turns, in a level valley below. Field, with its roundhouse and trains and big hotel, seemed but a little dot, and when an engine whistled, a thousand echoes tossed the sound from side to side, from peak to peak, from canyon to canyon, until it was lost in immensity.
+
+The climb was uneventful up to the time the cliffs near the top were reached. It had been a fairly easy slope all the way. The snow began at timber line, and was hard enough to walk on its top. Mt. Dennis was slowly left behind and sank to a mere hillock beneath. Mts. Field and Burgess gradually slipped down until Wapta and then the Vice-President, with an emerald glacier in its lap, came in full view from behind.
+
+By making a detour, I could have found an easier way, but, having no guide and never having been there before, I began to climb the wall of rock immediately in front. It was a most difficult climb. The short day was nearly ended, the warmth of the sun had given place to a raw, cold wind, and my pack being large and heavy, got in the way. Nearing the top of this almost vertical clift, my numb fingers slipped and I barely escaped a sheer fall of fully one hundred feet. Surmounting the cliff, it proved but a vanguard of many. Height on height of barefaced cliffs offered their resistance in succession, each crowned with snow-covered ledges. Gradually, however, they were vanquished, one by one, and at last I stood on the glory-crowned summit, ten thousand five hundred feet above the sea.
+
+Mts. Field, Burgess and Wapta lay far beneath. President and Vice-President gleamed and glistened in the near distance. Cathedral mountain, close by, 
+
+Photo, Mary M. Vaux
+
+MOUNT STEPHEN FROM THE NATURAL BRIDGE
+
+ seemed almost on a level. Here, there, everywhere, some in groups, others in serried ranks, were massed the war-scarred veterans of an innumerable host—the rugged remnants of a vast ancient plateau, stretching north, southeast and west, as far as the eye could see. All this vast array of snow-clad peaks, frowning precipices, glistening glaciers, and yawning gulfs, was burnished with the glowing hues of the setting sun. I watched him sink behind the distant fringe of peaks in the west, and when he was gone, how lonely and chill those somber old masses seemed. I shouted aloud, but my voice was immediately swallowed up in that awful stillness, for there was nothing to give it an echo.
+
+I did not stay long on the summit, for the raw, cold winds that had frozen the snow in crystals several inches long chilled one to the bone. The darkness of night began to swallow up the distant hills, and it was necessary to get down the cliffs while there was still light to see the way. I had gone but a short distance when, following a ledge around more to the south, I made a grand discovery. There, filling a steep, rugged ravine that seemed to extend all the way to Cathedral mountain, was a smooth pathway of snow, steep as the roof of a house. One question flashed to my mind: would it be frozen too hard? I cautiously tried it. Yes! it was hard, but with care it could be travelled. By launching out freely and letting the whole weight come down on each foot at a time, the heels could be forced a couple of inches into the solid snow. Here, indeed, was the best kind of speedy going: swing out one foot, spring from the other, and land on the heel in an inch or two of snow. Each stride covered a distance of several feet, and it was possible to run down that steep precipice of snow as fast as I liked, but my life depended on each heel getting that little two inches of a hold; one slip would mean a fearful slide to death. There was no danger of crevasses, for it was all new snow.
+
+ In an amazingly short time a descent of hundreds of feet had been made, until, finally, the bottom of the cliffs were reached. Then I started across and down that long, tedious slope of snow and boulders. The weary slope at last was ended, and I reached the rock-work, where someone had been prospecting for copper just above the fossil bed. Here I carefully felt the way down in the darkness, guided only by the light of the half-obscured stars, found my fossils and rejoiced because home was near. The lights of Field twinkled far below.
+
+With a load of fifty pounds or more in weight, weary, hungry, and thirsty, I found the trail at the foot of the fossil bed, when the going was easier. Then, at last, I came to the brook, and drank deeply of its cold, sparkling waters. On again through the midnight darkness of the woods, where the air was warm and balmy, until the welcome lights of Field came into view. I arrived safely at eight p.m., having enjoyed in twelve hours that which will take more than a long lifetime to forget.
+
+Editorial Note.
+
+So far as we are aware only four climbs, other than Mr. Kinney's, have been made of Mt. Stephen without the aid of Swiss guides, viz.: the two ascents, by the Government Topographer, J. J. McArthur and his assistant, T. Riley, in 1887 and 1892; an ascent by Abbot, Fay, Field and Thompson in 1895; and an ascent by A. O. Wheeler's party in 1904. Never before or since has the climb been made by one man alone, and at a time of the year when the conditions are such as to be almost prohibitive. For this reason, if no other, the feat is remarkable.
+
+The mountain has now become the stock climb from Mt. Stephen House, the Canadian Pacific Railway Company's tourist hotel at Field, B.C. When making it, one, and often two Swiss guides are employed. The magnificent view from the summit more than repays the exertions of the climb.
+
+This work is in the public domain in the United States because it was published before January 1, 1931.
+
+The longest-living author of this work died in 1961, so this work is in the public domain in countries and areas where the copyright term is the author's life plus 64 years or less. This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+Public domainPublic domainfalsefalse
+
+This work is in the public domain in Canada because it originates from Canada and one of the following statements is true:
+
+The author died over 70 years ago (before 1956) and the work was published more than 50 years ago (before 1976).
+The author died before 1972, meaning that copyright on that author's works expired before the Canadian copyright term was extended non-retroactively from 50 to 70 years on 30 December 2022.
+
+The longest-living author of this work died in 1961, so this work is in the public domain in countries and areas where the copyright term is the author's life plus 64 years or less. This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+This template must be accompanied by a tag indicating copyright status in the United States.
+
+Public domainPublic domainfalsefalse

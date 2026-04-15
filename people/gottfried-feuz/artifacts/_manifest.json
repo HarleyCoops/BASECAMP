@@ -1,0 +1,48 @@
+{
+  "person": "gottfried-feuz",
+  "source": "Whyte Museum",
+  "queries": [
+    "gottfried+feuz",
+    "feuz+brothers",
+    "gottfried+1906",
+    "feuz+guide+1906"
+  ],
+  "downloaded": 3,
+  "total_bytes": 3298444,
+  "items": [
+    {
+      "pid": "descriptions16122",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions16122",
+      "title": "Mary Warren Correspondence - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m8_web/m8_4005_web/m8_4005.pdf",
+      "downloaded": true,
+      "file": "descriptions16122_m8_4005.pdf",
+      "bytes": 2154461,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions37634",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions37634",
+      "title": "Swiss Guides, Edward Feuz Jr. and Gottfried Feuz - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Barnes/wmcr-barnes-v48-na-268.jpg",
+      "downloaded": true,
+      "file": "descriptions37634_wmcr-barnes-v48-na-268.jpg",
+      "bytes": 1088478,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions7219",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions7219",
+      "title": "Photographs. -- 1894-1982 - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac0p_802_to_807_web/v14_ac0p_805.jpg",
+      "downloaded": true,
+      "file": "descriptions7219_v14_ac0p_805.jpg",
+      "bytes": 55505,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

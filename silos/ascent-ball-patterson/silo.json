@@ -1,0 +1,27 @@
+{
+  "silo_id": "ascent-ball-patterson",
+  "title": "The Ascent of Mt. Ball — J.D. Patterson",
+  "article_slug": "ascent-ball-patterson",
+  "article_number": 11,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "jd-patterson",
+    "display_name": "J.D. Patterson",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Ascent of Mt. Ball in the Ball Range.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

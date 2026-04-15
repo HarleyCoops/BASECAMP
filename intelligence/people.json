@@ -1,0 +1,2968 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-04-10",
+  "total_people": 45,
+  "at_camp_count": 33,
+  "people": [
+    {
+      "person_id": "arthur-wheeler",
+      "display_name": "Arthur O. Wheeler",
+      "formal_name": "Arthur Oliver Wheeler, F.R.G.S.",
+      "roles": [
+        "author",
+        "president",
+        "organizer",
+        "scientist"
+      ],
+      "titles": [
+        "F.R.G.S.",
+        "President, Alpine Club of Canada"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada",
+        "Topographical Survey of Canada"
+      ],
+      "biographical_detail": "President of the ACC, organized the first camp. Surveyor by profession. Led scientific observations of Yoho Glacier. Chairman of Camp Committee.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-18",
+      "articles_authored": [
+        {
+          "slug": "canadian-rockies-field-wheeler",
+          "title": "The Canadian Rockies, a Field for an Alpine Club",
+          "mentions_emerald_lake": true,
+          "emerald_lake_content": "Lists Emerald Lake among turquoise-green lakes of the Main range, describes its setting amid forests and peaks."
+        },
+        {
+          "slug": "yoho-glacier-wheeler",
+          "title": "Observations of the Yoho Glacier",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        },
+        {
+          "slug": "glossary-wheeler",
+          "title": "Glossary of Mountaineering Terms",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "yoho-camp-report",
+        "chief-mountaineer-report",
+        "alpine-club-parker"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": "arthur-oliver-wheeler",
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 3,
+          "bytes_total": 135087172,
+          "items": [
+            {
+              "title": "Portraits Album",
+              "file": "people/arthur-wheeler/artifacts/descriptions59856_v822_pd_11.pdf",
+              "bytes": 14603452,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59856"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/arthur-wheeler/artifacts/descriptions23111_M546_13.pdf",
+              "bytes": 31668088,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23111"
+            },
+            {
+              "title": "Scrapbook Volume One",
+              "file": "people/arthur-wheeler/artifacts/descriptions25126_m546_54_pdf.pdf",
+              "bytes": 88815632,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions25126"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 3,
+      "harvest_bytes_total": 135087172
+    },
+    {
+      "person_id": "frank-yeigh",
+      "display_name": "Frank Yeigh",
+      "formal_name": "Frank Yeigh",
+      "roles": [
+        "author"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Writer and publicist. Authored the richest narrative account of the 1906 camp. His article is the primary source for camp life details.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [
+        {
+          "slug": "first-camp-yeigh",
+          "title": "Canada's First Alpine Club Camp",
+          "mentions_emerald_lake": true,
+          "emerald_lake_content": "Describes arrival at Emerald Lake Chalet, crossing the glacial delta on northern shore, ascending cliff wall. Notes transcendent beauty of lake at base of Mt. Burgess. Describes Emerald glacier trip, camp fire scene."
+        }
+      ],
+      "articles_mentioned_in": [],
+      "photos_credited": [
+        "AROUND THE CAMP FIRE"
+      ],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        "Archives of Ontario \u2014 Frank Yeigh papers?",
+        "Toronto Reference Library"
+      ]
+    },
+    {
+      "person_id": "elizabeth-parker",
+      "display_name": "Elizabeth Parker",
+      "formal_name": "Elizabeth Parker",
+      "roles": [
+        "author",
+        "secretary"
+      ],
+      "titles": [
+        "Secretary, Alpine Club of Canada"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Secretary of the ACC. Key founding figure. Address: 160 Furby Street, Winnipeg, Man. Wrote philosophical manifesto for the club.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [
+        {
+          "slug": "alpine-club-parker",
+          "title": "The Alpine Club of Canada",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "yoho-camp-report"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 3,
+          "bytes_total": 434120,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/elizabeth-parker/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            },
+            {
+              "title": "Annual meeting of Alpine Club of Canada, secretary (Elizabeth Parker) reading her report [Lake O'Hara, Yoho Park, B.C.]",
+              "file": "people/elizabeth-parker/artifacts/descriptions49267_v14_ac55_5_984_na66_2131.jpg",
+              "bytes": 239834,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49267"
+            },
+            {
+              "title": "Elizabeth Parker photograph albums",
+              "file": "people/elizabeth-parker/artifacts/descriptions7261_v14_ac55p_35_38_2.jpg",
+              "bytes": 109354,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions7261"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 3,
+      "harvest_bytes_total": 434120
+    },
+    {
+      "person_id": "mary-vaux",
+      "display_name": "Mary M. Vaux",
+      "formal_name": "Mary M. Vaux",
+      "roles": [
+        "author",
+        "scientist",
+        "photographer"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada",
+        "Academy of Natural Sciences of Philadelphia"
+      ],
+      "biographical_detail": "Photographer and glacier researcher. Part of the Vaux family of Philadelphia scientists. Authored guide to camping in the Rockies with detailed equipment lists.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "camping-rockies-vaux",
+          "title": "Camping in the Canadian Rockies",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "yoho-glacier-wheeler"
+      ],
+      "photos_credited": [
+        "MOUNT BIDDLE AND LAKE McARTHUR",
+        "MOUNT STEPHEN FROM THE NATURAL BRIDGE"
+      ],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 10,
+          "bytes_total": 11410167,
+          "items": [
+            {
+              "title": "Prints",
+              "file": "people/mary-vaux/artifacts/descriptions25066_v654_i_a_pa_013.jpg",
+              "bytes": 471585,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions25066"
+            },
+            {
+              "title": "Bridge at Spuzzum, Fraser River / W.S.V.Jr.",
+              "file": "people/mary-vaux/artifacts/descriptions34103_wmcr-vaux-1v-v653-ps-003.jpg",
+              "bytes": 1472947,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34103"
+            },
+            {
+              "title": "Seracs, Illecillewaet Glacier, 1901 / Mary M. Vaux",
+              "file": "people/mary-vaux/artifacts/descriptions34158_wmcr-vaux-1v-v653-ps-058.jpg",
+              "bytes": 1258046,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34158"
+            },
+            {
+              "title": "Untitled",
+              "file": "people/mary-vaux/artifacts/descriptions34174_wmcr-vaux-1v-v653-ps-074.jpg",
+              "bytes": 2271933,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34174"
+            },
+            {
+              "title": "Untitled",
+              "file": "people/mary-vaux/artifacts/descriptions34199_wmcr-vaux-1v-v653-ps-101.jpg",
+              "bytes": 1375756,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34199"
+            },
+            {
+              "title": "Untitled / Mary M. Vaux",
+              "file": "people/mary-vaux/artifacts/descriptions34237_wmcr-vaux-1v-v653-ps-140.jpg",
+              "bytes": 1152720,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34237"
+            },
+            {
+              "title": "Victoria Glacier [file title]",
+              "file": "people/mary-vaux/artifacts/descriptions34546_wmcr-vaux-1h-v653-na-328.jpg",
+              "bytes": 2146926,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34546"
+            },
+            {
+              "title": "Private 2543m, first picture Illecillewaet Glacier, reproduced negative 1909, 10369 trip, Mary Vaux 1887",
+              "file": "people/mary-vaux/artifacts/descriptions35368_wmcr-vaux-1t-v653-ng-957.jpg",
+              "bytes": 307317,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35368"
+            },
+            {
+              "title": "[untitled]",
+              "file": "people/mary-vaux/artifacts/descriptions49078_v654_i_a_pa_013.jpg",
+              "bytes": 471585,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49078"
+            },
+            {
+              "title": "[untitled]",
+              "file": "people/mary-vaux/artifacts/descriptions49079_v654_i_a_pa_014.jpg",
+              "bytes": 481352,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49079"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 10,
+      "harvest_bytes_total": 11410167
+    },
+    {
+      "person_id": "george-vaux",
+      "display_name": "George Vaux, Jr.",
+      "formal_name": "George Vaux, Jr.",
+      "roles": [
+        "author",
+        "scientist"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Academy of Natural Sciences of Philadelphia"
+      ],
+      "biographical_detail": "Co-authored glacier observations with brother William S. Vaux. Began systematic glacier measurements in 1894. Present at Yoho Glacier observation on July 14-15, 1906.",
+      "at_camp": true,
+      "camp_dates": "1906-07-14/1906-07-15",
+      "articles_authored": [
+        {
+          "slug": "glacier-observations-vaux",
+          "title": "Glacier Observations",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "yoho-glacier-wheeler"
+      ],
+      "photos_credited": [
+        "TEST PICTURE OF THE ILLECILLEWAET GLACIER FOR THE YEAR 1905"
+      ],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 34,
+          "bytes_total": 25184250,
+          "items": [
+            {
+              "title": "Prints",
+              "file": "people/george-vaux/artifacts/descriptions25066_v654_i_a_pa_013.jpg",
+              "bytes": 471585,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions25066"
+            },
+            {
+              "title": "Illecillewaet Glacier / Vaux",
+              "file": "people/george-vaux/artifacts/descriptions34126_wmcr-vaux-1v-v653-ps-026.jpg",
+              "bytes": 2255257,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34126"
+            },
+            {
+              "title": "Illecillewaet & Cougar Glacier Valleys 1900 / Vaux",
+              "file": "people/george-vaux/artifacts/descriptions34145_wmcr-vaux-1v-v653-ps-045.jpg",
+              "bytes": 1416434,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34145"
+            },
+            {
+              "title": "Seracs, Illecillewaet Glacier, 1901 / Mary M. Vaux",
+              "file": "people/george-vaux/artifacts/descriptions34158_wmcr-vaux-1v-v653-ps-058.jpg",
+              "bytes": 1258046,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34158"
+            },
+            {
+              "title": "Looking back from Fort, Wapta Glacier, Yoho Valley, Field B. C. 1906 / Vaux",
+              "file": "people/george-vaux/artifacts/descriptions34193_wmcr-vaux-1v-v653-ps-095.jpg",
+              "bytes": 2030186,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34193"
+            },
+            {
+              "title": "Emerald Group from Wapta, Yoho 1906 / Vaux",
+              "file": "people/george-vaux/artifacts/descriptions34196_wmcr-vaux-1v-v653-ps-098.jpg",
+              "bytes": 1888607,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34196"
+            },
+            {
+              "title": "Looking back at Bow Range from Ptarmigan Valley 1906 / Vaux",
+              "file": "people/george-vaux/artifacts/descriptions34205_wmcr-vaux-1v-v653-ps-107.jpg",
+              "bytes": 1504270,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34205"
+            },
+            {
+              "title": "Forefoot of Wapta Glacier (No.26) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35060_wmcr-vaux-1n-v653-na-1412.jpg",
+              "bytes": 261008,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35060"
+            },
+            {
+              "title": "Yoho Glacier (No.28) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35061_wmcr-vaux-1n-v653-na-1414.jpg",
+              "bytes": 297997,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35061"
+            },
+            {
+              "title": "Wapta Glacier (No.29) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35063_wmcr-vaux-1n-v653-na-1415.jpg",
+              "bytes": 285189,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35063"
+            },
+            {
+              "title": "Sir Donald from above caves (No.49,50,51) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35067_wmcr-vaux-1n-v653-na-1435.jpg",
+              "bytes": 743516,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35067"
+            },
+            {
+              "title": "Stream going into the caves (No.54) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35069_wmcr-vaux-1n-v653-na-1440.jpg",
+              "bytes": 1362399,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35069"
+            },
+            {
+              "title": "Looking out of the cave (No.56) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35071_wmcr-vaux-1n-v653-na-1442.jpg",
+              "bytes": 802034,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35071"
+            },
+            {
+              "title": "Test picture, Glacier (No.60) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35074_wmcr-vaux-1n-v653-na-1445.jpg",
+              "bytes": 298797,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35074"
+            },
+            {
+              "title": "On the Horseshoe Glacier (No.75) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35078_wmcr-vaux-1n-v653-na-1460.jpg",
+              "bytes": 300397,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35078"
+            },
+            {
+              "title": "Lake Louise Chalet (No.101) 1906",
+              "file": "people/george-vaux/artifacts/descriptions35093_wmcr-vaux-1n-v653-na-1486.jpg",
+              "bytes": 250120,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35093"
+            },
+            {
+              "title": "Yoho #1 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35094_wmcr-vaux-1o-v653-na-0514.jpg",
+              "bytes": 697900,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35094"
+            },
+            {
+              "title": "Yoho #2 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35095_wmcr-vaux-1o-v653-na-0518.jpg",
+              "bytes": 636579,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35095"
+            },
+            {
+              "title": "Private 2543m, first picture Illecillewaet Glacier, reproduced negative 1909, 10369 trip, Mary Vaux 1887",
+              "file": "people/george-vaux/artifacts/descriptions35368_wmcr-vaux-1t-v653-ng-957.jpg",
+              "bytes": 307317,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35368"
+            },
+            {
+              "title": "Yoho #2 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35395_wmcr-vaux-1o-v653-na-0524.jpg",
+              "bytes": 641452,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35395"
+            },
+            {
+              "title": "Yoho #2 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35396_wmcr-vaux-1o-v653-na-0530.jpg",
+              "bytes": 619534,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35396"
+            },
+            {
+              "title": "Yoho #1 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35952_wmcr-vaux-1o-v653-na-0515.jpg",
+              "bytes": 676524,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35952"
+            },
+            {
+              "title": "Yoho #1 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35953_wmcr-vaux-1o-v653-na-0516.jpg",
+              "bytes": 820323,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35953"
+            },
+            {
+              "title": "Yoho #1 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35954_wmcr-vaux-1o-v653-na-0517.jpg",
+              "bytes": 737755,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35954"
+            },
+            {
+              "title": "Yoho #2 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35955_wmcr-vaux-1o-v653-na-0519.jpg",
+              "bytes": 633977,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35955"
+            },
+            {
+              "title": "Yoho #2 1907 [file title]",
+              "file": "people/george-vaux/artifacts/descriptions35956_wmcr-vaux-1o-v653-na-0520.jpg",
+              "bytes": 554274,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35956"
+            },
+            {
+              "title": "Illecillewaet 1912",
+              "file": "people/george-vaux/artifacts/descriptions36050_wmcr-vaux-1r-v653-na-770.jpg",
+              "bytes": 597998,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions36050"
+            },
+            {
+              "title": "Illecillewaet 1912",
+              "file": "people/george-vaux/artifacts/descriptions36051_wmcr-vaux-1r-v653-na-771.jpg",
+              "bytes": 538177,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions36051"
+            },
+            {
+              "title": "Forefoot of Wapta Glacier (No.27) 1906",
+              "file": "people/george-vaux/artifacts/descriptions36828_wmcr-vaux-1n-v653-na-1413.jpg",
+              "bytes": 296327,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions36828"
+            },
+            {
+              "title": "On the Horseshoe Glacier (No.76) 1906",
+              "file": "people/george-vaux/artifacts/descriptions36831_wmcr-vaux-1n-v653-na-1461.jpg",
+              "bytes": 319648,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions36831"
+            },
+            {
+              "title": "Lake Louise Chalet (No.102) 1906",
+              "file": "people/george-vaux/artifacts/descriptions36833_wmcr-vaux-1n-v653-na-1487.jpg",
+              "bytes": 291742,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions36833"
+            },
+            {
+              "title": "[untitled]",
+              "file": "people/george-vaux/artifacts/descriptions49078_v654_i_a_pa_013.jpg",
+              "bytes": 471585,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49078"
+            },
+            {
+              "title": "[untitled]",
+              "file": "people/george-vaux/artifacts/descriptions49079_v654_i_a_pa_014.jpg",
+              "bytes": 481352,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49079"
+            },
+            {
+              "title": "[untitled]",
+              "file": "people/george-vaux/artifacts/descriptions49080_v654_i_a_pa_016.jpg",
+              "bytes": 435944,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49080"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 34,
+      "harvest_bytes_total": 25184250
+    },
+    {
+      "person_id": "william-s-vaux",
+      "display_name": "William S. Vaux",
+      "formal_name": "William S. Vaux",
+      "roles": [
+        "author",
+        "scientist"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Academy of Natural Sciences of Philadelphia"
+      ],
+      "biographical_detail": "Co-authored glacier observations with brother George. Pioneered metal plate method for measuring glacier flow on the Illecillewaet.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "glacier-observations-vaux",
+          "title": "Glacier Observations",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "yoho-glacier-wheeler"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_files_count": 0,
+      "harvest_bytes_total": 0
+    },
+    {
+      "person_id": "ralph-connor",
+      "display_name": "Rev. C.W. Gordon (Ralph Connor)",
+      "formal_name": "Reverend Charles William Gordon",
+      "roles": [
+        "author",
+        "climber"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Presbyterian minister and bestselling novelist writing as 'Ralph Connor'. Describes himself as 'the Missionary' in his Cascade article. Climbed Cascade Mountain in September 1891 \u2014 before the ACC existed.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "climbed-cascade-gordon",
+          "title": "How We Climbed Cascade",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Cascade Mountain",
+          "date": "1891-09",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 2,
+          "bytes_total": 244212,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/ralph-connor/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            },
+            {
+              "title": "General Commercial Work negatives [7/15]",
+              "file": "people/ralph-connor/artifacts/descriptions55903_v180_iii_a_vii_347_na_01.jpg",
+              "bytes": 159280,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions55903"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 2,
+      "harvest_bytes_total": 244212
+    },
+    {
+      "person_id": "george-kinney",
+      "display_name": "Rev. G.R.B. Kinney",
+      "formal_name": "Reverend George R.B. Kinney",
+      "roles": [
+        "author",
+        "climber",
+        "photographer",
+        "active_member"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Camp photographer. Made solo ascent of Mt. Stephen in October 1904 \u2014 described as remarkable. Assisted on multiple official climbs of Vice-President. Later famous for 1909 Mt. Robson attempt.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [
+        {
+          "slug": "mt-stephen-kinney",
+          "title": "Mt. Stephen",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [
+        "MOUNT BURGESS AND EMERALD LAKE",
+        "THE UPPER SNOWFIELD\u2014MOUNT VICE-PRESIDENT"
+      ],
+      "climbs": [
+        {
+          "mountain": "Mt. Stephen",
+          "date": "1904-10-21",
+          "role": "solo climber"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "assistant"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-13",
+          "role": "assistant"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 3,
+          "bytes_total": 247023,
+          "items": [
+            {
+              "title": "Robson, Yellowhead trip",
+              "file": "people/george-kinney/artifacts/descriptions32202_wmcr-harmonb-v263-na-0971.jpg",
+              "bytes": 24813,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions32202"
+            },
+            {
+              "title": "Packhorses, misc.",
+              "file": "people/george-kinney/artifacts/descriptions32763_wmcr-harmonb-v263-na-0480.jpg",
+              "bytes": 46205,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions32763"
+            },
+            {
+              "title": "George Kinney photographs and price lists. -- [ca.1907]",
+              "file": "people/george-kinney/artifacts/descriptions7241_v14_ac14p_17.jpg",
+              "bytes": 176005,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions7241"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 3,
+      "harvest_bytes_total": 247023
+    },
+    {
+      "person_id": "julia-henshaw",
+      "display_name": "Julia W. Henshaw",
+      "formal_name": "Julia W. Henshaw",
+      "roles": [
+        "author",
+        "scientist"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Botanist and author. Detailed the wildflowers of the Rockies and Selkirks. Notes Yellow Lady's Slipper (Cypripedium pubescens) growing on moraine from Emerald Lake to Yoho Valley in July.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "wildflowers-henshaw",
+          "title": "The Mountain Wildflowers of Western Canada",
+          "mentions_emerald_lake": true,
+          "emerald_lake_content": "Describes Yellow Lady's Slipper orchids growing in thick clumps on a long moraine stretching from Emerald Lake to the foot of the Yoho Valley, blooming in July."
+        }
+      ],
+      "articles_mentioned_in": [],
+      "photos_credited": [
+        "YELLOW ADDER'S TONGUE photo"
+      ],
+      "climbs": [],
+      "ell_silo_id": "julia-henshaw",
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 1,
+          "bytes_total": 84932,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/julia-henshaw/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 1,
+      "harvest_bytes_total": 84932
+    },
+    {
+      "person_id": "morrison-bridgland",
+      "display_name": "M.P. Bridgland",
+      "formal_name": "Morrison P. Bridgland",
+      "roles": [
+        "chief_mountaineer",
+        "organizer"
+      ],
+      "titles": [
+        "Chief Mountaineer"
+      ],
+      "affiliations": [
+        "Topographical Survey of the Rocky Mountains",
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Chief Mountaineer of the 1906 camp. Led or co-led all official climbs of the Vice-President. From Topographical Survey.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [
+        {
+          "slug": "chief-mountaineer-report",
+          "title": "Report of Chief Mountaineer",
+          "mentions_emerald_lake": true,
+          "emerald_lake_content": "Describes Emerald glacier trips and Burgess trail views of Emerald Lake and President range."
+        }
+      ],
+      "articles_mentioned_in": [
+        "first-camp-yeigh"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-08",
+          "role": "route scout"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "leader"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-11",
+          "role": "leader"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-13",
+          "role": "leader"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-14",
+          "role": "leader"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-12",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 2,
+          "bytes_total": 22610463,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/morrison-bridgland/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/morrison-bridgland/artifacts/descriptions23113_m546_15.pdf",
+              "bytes": 22525531,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23113"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 2,
+      "harvest_bytes_total": 22610463
+    },
+    {
+      "person_id": "hg-wheeler",
+      "display_name": "H.G. Wheeler",
+      "formal_name": "H.G. Wheeler",
+      "roles": [
+        "organizer",
+        "secretary",
+        "climber"
+      ],
+      "titles": [
+        "Secretary, Yoho Camp Committee"
+      ],
+      "affiliations": [
+        "Topographical Survey of the Rocky Mountains",
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Secretary of Yoho Camp Committee, based in Banff. Son of A.O. Wheeler. Assisted Bridgland. Led July 12 climb and special Takakkaw Falls trip.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report",
+        "yoho-camp-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-08",
+          "role": "route scout"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "leader"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 12,
+          "bytes_total": 276294266,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/hg-wheeler/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            },
+            {
+              "title": "Photograph album",
+              "file": "people/hg-wheeler/artifacts/descriptions14742_v465_pd_1.pdf",
+              "bytes": 19973006,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions14742"
+            },
+            {
+              "title": "Photograph album",
+              "file": "people/hg-wheeler/artifacts/descriptions14743_v465_pd_3.pdf",
+              "bytes": 41096954,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions14743"
+            },
+            {
+              "title": "Photograph album",
+              "file": "people/hg-wheeler/artifacts/descriptions14744_v465_pd_2.pdf",
+              "bytes": 37580049,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions14744"
+            },
+            {
+              "title": "People : [negatives, group 94]",
+              "file": "people/hg-wheeler/artifacts/descriptions15895_v408_i_c_1_na_14_24.jpg",
+              "bytes": 97915,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions15895"
+            },
+            {
+              "title": "Skiing and Climbing Trips",
+              "file": "people/hg-wheeler/artifacts/descriptions22915_v68_v_pa_523.jpg",
+              "bytes": 85949,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions22915"
+            },
+            {
+              "title": "Skiing Photographs",
+              "file": "people/hg-wheeler/artifacts/descriptions22918_v68_v_pa_707.jpg",
+              "bytes": 141038,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions22918"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/hg-wheeler/artifacts/descriptions23127_m546_29.pdf",
+              "bytes": 36704097,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23127"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/hg-wheeler/artifacts/descriptions23131_m546_33.pdf",
+              "bytes": 35830297,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23131"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/hg-wheeler/artifacts/descriptions23137_m546_39.pdf",
+              "bytes": 33567097,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23137"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/hg-wheeler/artifacts/descriptions23141_m546_43.pdf",
+              "bytes": 41173043,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23141"
+            },
+            {
+              "title": "Personal Daytimers",
+              "file": "people/hg-wheeler/artifacts/descriptions23149_m546_51.pdf",
+              "bytes": 29959889,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions23149"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 12,
+      "harvest_bytes_total": 276294266
+    },
+    {
+      "person_id": "edouard-feuz",
+      "display_name": "Edouard Feuz, Jr.",
+      "formal_name": "Edouard Feuz, Jr.",
+      "roles": [
+        "guide"
+      ],
+      "titles": [
+        "Swiss Guide"
+      ],
+      "affiliations": [
+        "Canadian Pacific Railway"
+      ],
+      "biographical_detail": "Swiss guide from Interlaken, loaned by CPR for the camp. Led numerous climbs including Burgess, Wapta, Vice-President, and first ascent of Marpole/Amgadamo.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report",
+        "first-camp-yeigh"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-08",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Burgess",
+          "date": "1906-07-10",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-11",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-13",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Vice-President / Mt. President",
+          "date": "1906-07-14",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Marpole / Mt. Amgadamo",
+          "date": "1906-07-16",
+          "role": "guide"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 12,
+          "bytes_total": 4671636,
+          "items": [
+            {
+              "title": "Yoho Valley Area",
+              "file": "people/edouard-feuz/artifacts/descriptions1525_v200_i_a_i_pa_445.jpg",
+              "bytes": 163292,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1525"
+            },
+            {
+              "title": "Personal and Professional Photographs",
+              "file": "people/edouard-feuz/artifacts/descriptions1529_v200_i_a_ii_pa_7.jpg",
+              "bytes": 151232,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1529"
+            },
+            {
+              "title": "Professional Photographs",
+              "file": "people/edouard-feuz/artifacts/descriptions1532_v200_i_a_ii_pb_13.jpg",
+              "bytes": 160355,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1532"
+            },
+            {
+              "title": "Glacier, The Guides (2) (No.72) 7/14/00",
+              "file": "people/edouard-feuz/artifacts/descriptions34149_wmcr-vaux-1v-v653-ps-049.jpg",
+              "bytes": 1423679,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions34149"
+            },
+            {
+              "title": "Swiss Guides, Edward Feuz Jr. and Gottfried Feuz",
+              "file": "people/edouard-feuz/artifacts/descriptions37634_wmcr-barnes-v48-na-268.jpg",
+              "bytes": 1088478,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions37634"
+            },
+            {
+              "title": "[Edward Feuz and Rudolf Aemmer on Victoria Glacier?]",
+              "file": "people/edouard-feuz/artifacts/descriptions49444_v200_11_a_na66_1819.jpg",
+              "bytes": 269253,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49444"
+            },
+            {
+              "title": "Canadian Alpine Club camp - Yoho - 1906",
+              "file": "people/edouard-feuz/artifacts/descriptions49447_v200_13_na66_184.jpg",
+              "bytes": 397528,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49447"
+            },
+            {
+              "title": "[Rescue team in Blaeberry Valley, B.C., following recovery of Mr. Wydean, who was killed on a goat hunt - left to right: Edward Feuz Jr., unidentified, Christian Hasler, unidentified, Ernest Feuz]",
+              "file": "people/edouard-feuz/artifacts/descriptions49457_v200_113_na66_1859.jpg",
+              "bytes": 212810,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49457"
+            },
+            {
+              "title": "Mrs. McCoubrey and Edward Feuz on Hamill Glacier, 1924",
+              "file": "people/edouard-feuz/artifacts/descriptions49462_v200_285_na66_192.jpg",
+              "bytes": 190265,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49462"
+            },
+            {
+              "title": "Edward Feuz and wife of New York's fire chief on Saddleback",
+              "file": "people/edouard-feuz/artifacts/descriptions49471_v200_480_na66_2116.jpg",
+              "bytes": 290119,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49471"
+            },
+            {
+              "title": "[left to right: Rudi Gertsch, Edward Feuz, and Bruno Engler during filming of CBC TV's \"This Land \" program on Edward Feuz]",
+              "file": "people/edouard-feuz/artifacts/descriptions49503_v200_599_na66_1985.jpg",
+              "bytes": 269120,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49503"
+            },
+            {
+              "title": "Photographs. -- 1894-1982",
+              "file": "people/edouard-feuz/artifacts/descriptions7219_v14_ac0p_805.jpg",
+              "bytes": 55505,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions7219"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 12,
+      "harvest_bytes_total": 4671636
+    },
+    {
+      "person_id": "gottfried-feuz",
+      "display_name": "Gottfried Feuz",
+      "formal_name": "Gottfried Feuz",
+      "roles": [
+        "guide"
+      ],
+      "titles": [
+        "Swiss Guide"
+      ],
+      "affiliations": [
+        "Canadian Pacific Railway"
+      ],
+      "biographical_detail": "Swiss guide from Interlaken, loaned by CPR. Led climbs of Wapta, Collie. Accompanied Bridgland on Vice-President route scouting.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report",
+        "first-camp-yeigh"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-08",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-11",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Collie",
+          "date": "1906-07-12",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-14",
+          "role": "guide"
+        },
+        {
+          "mountain": "Mt. Marpole / Mt. Amgadamo",
+          "date": "1906-07-16",
+          "role": "guide"
+        }
+      ],
+      "ell_silo_id": "gottfried-feuz",
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 3,
+          "bytes_total": 3298444,
+          "items": [
+            {
+              "title": "Mary Warren Correspondence",
+              "file": "people/gottfried-feuz/artifacts/descriptions16122_m8_4005.pdf",
+              "bytes": 2154461,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions16122"
+            },
+            {
+              "title": "Swiss Guides, Edward Feuz Jr. and Gottfried Feuz",
+              "file": "people/gottfried-feuz/artifacts/descriptions37634_wmcr-barnes-v48-na-268.jpg",
+              "bytes": 1088478,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions37634"
+            },
+            {
+              "title": "Photographs. -- 1894-1982",
+              "file": "people/gottfried-feuz/artifacts/descriptions7219_v14_ac0p_805.jpg",
+              "bytes": 55505,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions7219"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 3,
+      "harvest_bytes_total": 3298444
+    },
+    {
+      "person_id": "re-campbell-outfitter",
+      "display_name": "R.E. Campbell",
+      "formal_name": "R.E. Campbell",
+      "roles": [
+        "outfitter"
+      ],
+      "titles": [],
+      "affiliations": [],
+      "biographical_detail": "Outfitter from Laggan and Field. Donated services, men, horses and outfits for the camp.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 1,
+          "bytes_total": 277627,
+          "items": [
+            {
+              "title": "Wilson packtrail on Banff Avenue, left to right L.J. Steele, Ross Peacock, Bob Campbell, Walter Garrett, and Walter Wilcox",
+              "file": "people/re-campbell-outfitter/artifacts/descriptions50040_v715_2_na66_487.jpg",
+              "bytes": 277627,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions50040"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 1,
+      "harvest_bytes_total": 277627
+    },
+    {
+      "person_id": "otto-brothers",
+      "display_name": "Martin and Jack Otto",
+      "formal_name": "Martin and Otto (Otto Bros.)",
+      "roles": [
+        "outfitter"
+      ],
+      "titles": [],
+      "affiliations": [],
+      "biographical_detail": "Outfitters from Field, Leanchoil and Golden. Donated services for the camp. Jack Otto told bear stories around the camp fire.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "ec-barnes",
+      "display_name": "E.C. Barnes",
+      "formal_name": "E.C. Barnes",
+      "roles": [
+        "outfitter",
+        "active_member"
+      ],
+      "titles": [],
+      "affiliations": [],
+      "biographical_detail": "Outfitter from Banff. Donated services for the camp. Assisted on July 14 Vice-President/President climb.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President / Mt. President",
+          "date": "1906-07-14",
+          "role": "assistant"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 3,
+          "bytes_total": 1800961,
+          "items": [
+            {
+              "title": "[Alpine Club members at Yoho Glacier (?)]",
+              "file": "people/ec-barnes/artifacts/descriptions37967_wmcr-barnes-v48-lc-na66-1566.jpg",
+              "bytes": 665306,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions37967"
+            },
+            {
+              "title": "[Alpine Club members at Yoho Glacier (?)]",
+              "file": "people/ec-barnes/artifacts/descriptions37968_wmcr-barnes-v48-lc-na66-1567.jpg",
+              "bytes": 1068644,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions37968"
+            },
+            {
+              "title": "Wildlife",
+              "file": "people/ec-barnes/artifacts/descriptions55021_lux_i_d6c_pa_01.jpg",
+              "bytes": 67011,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions55021"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 3,
+      "harvest_bytes_total": 1800961
+    },
+    {
+      "person_id": "sh-baker",
+      "display_name": "S.H. Baker",
+      "formal_name": "S.H. Baker",
+      "roles": [
+        "outfitter",
+        "climber"
+      ],
+      "titles": [],
+      "affiliations": [],
+      "biographical_detail": "Outfitter from Glacier. Donated services for the camp. Climbed Mt. Wapta July 13.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-13",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "jc-herdman",
+      "display_name": "Rev. J.C. Herdman, D.D.",
+      "formal_name": "Reverend J.C. Herdman, D.D.",
+      "roles": [
+        "climber",
+        "active_member",
+        "author"
+      ],
+      "titles": [
+        "Reverend",
+        "D.D."
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Presbyterian minister from Calgary. 'Born mountaineer' per Yeigh. Pioneered delta crossing. Led Emerald Glacier trips and Mt. Field ascent. Also authored Ascent of Mt. Macoun.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [
+        {
+          "slug": "ascent-macoun-herdman",
+          "title": "The Ascent of Mt. Macoun",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-08",
+          "role": "route scout"
+        },
+        {
+          "mountain": "Mt. Field",
+          "date": "1906-07-12",
+          "role": "leader"
+        },
+        {
+          "mountain": "Emerald Glacier",
+          "date": "1906-07",
+          "role": "trip leader (3 trips)"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 1,
+          "bytes_total": 84932,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/jc-herdman/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 1,
+      "harvest_bytes_total": 84932
+    },
+    {
+      "person_id": "jd-patterson",
+      "display_name": "J.D. Patterson",
+      "formal_name": "J.D. Patterson",
+      "roles": [
+        "climber",
+        "active_member",
+        "author"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "From Woodstock. Key climber. Ascended Mt. Collie with Gottfried Feuz on July 12, meeting Miss Tuzo on summit by different route.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "ascent-ball-patterson",
+          "title": "The Ascent of Mt. Ball",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "assistant"
+        },
+        {
+          "mountain": "Mt. Collie",
+          "date": "1906-07-12",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 1,
+          "bytes_total": 84932,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/jd-patterson/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 1,
+      "harvest_bytes_total": 84932
+    },
+    {
+      "person_id": "eo-wheeler",
+      "display_name": "E.O. Wheeler",
+      "formal_name": "E.O. Wheeler",
+      "roles": [
+        "climber",
+        "active_member"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Son of A.O. Wheeler. Active climber at camp \u2014 Wapta (3 times), Vice-President assist.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "assistant"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-11",
+          "role": "climber"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-13",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 7,
+          "bytes_total": 104152943,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/eo-wheeler/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            },
+            {
+              "title": "21 Months Leave Album",
+              "file": "people/eo-wheeler/artifacts/descriptions59853_v822_pd_8.pdf",
+              "bytes": 15963314,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59853"
+            },
+            {
+              "title": "Military School Album",
+              "file": "people/eo-wheeler/artifacts/descriptions59854_v822_pd_9.pdf",
+              "bytes": 18996458,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59854"
+            },
+            {
+              "title": "Wheeler Family Album",
+              "file": "people/eo-wheeler/artifacts/descriptions59857_v822_pd_12.pdf",
+              "bytes": 11218134,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59857"
+            },
+            {
+              "title": "E.O. Wheeler Album",
+              "file": "people/eo-wheeler/artifacts/descriptions59858_v822_pd_13.pdf",
+              "bytes": 13940523,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59858"
+            },
+            {
+              "title": "Holiday Album",
+              "file": "people/eo-wheeler/artifacts/descriptions59859_v822_pd_14.pdf",
+              "bytes": 6063254,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59859"
+            },
+            {
+              "title": "Wheeler Family Album",
+              "file": "people/eo-wheeler/artifacts/descriptions59861_v822_pd_16.pdf",
+              "bytes": 37886328,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions59861"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 7,
+      "harvest_bytes_total": 104152943
+    },
+    {
+      "person_id": "pd-mctavish",
+      "display_name": "P.D. McTavish",
+      "formal_name": "P.D. McTavish",
+      "roles": [
+        "climber",
+        "active_member",
+        "author"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Experienced climber, assisted on multiple official ascents. Co-authored Crow's Nest Mountain article.",
+      "at_camp": true,
+      "camp_dates": "1906-07-08/1906-07-16",
+      "articles_authored": [
+        {
+          "slug": "climb-crows-nest-mctavish",
+          "title": "The Climb of Crow's Nest Mountain",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-08",
+          "role": "route scout"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "assistant"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-12",
+          "role": "climber"
+        },
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-13",
+          "role": "assistant"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-14",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 1,
+          "bytes_total": 153119,
+          "items": [
+            {
+              "title": "Frank W. Freeborn records",
+              "file": "people/pd-mctavish/artifacts/descriptions60523_v14_ac55p_18_32.jpg",
+              "bytes": 153119,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions60523"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 1,
+      "harvest_bytes_total": 153119
+    },
+    {
+      "person_id": "am-gordon",
+      "display_name": "Rev. A.M. Gordon",
+      "formal_name": "Reverend A.M. Gordon",
+      "roles": [
+        "climber",
+        "active_member",
+        "author"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Co-authored Marpole/Amgadamo first ascent article.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "ascents-marpole-amgadamo",
+          "title": "The Ascents of Mts. Marpole and Amgadamo",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "assistant"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-11",
+          "role": "climber"
+        },
+        {
+          "mountain": "Mt. Marpole / Mt. Amgadamo",
+          "date": "1906-07-16",
+          "role": "first ascent"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "ao-macrae",
+      "display_name": "Rev. A.O. MacRae",
+      "formal_name": "Reverend A.O. MacRae",
+      "roles": [
+        "climber",
+        "graduate",
+        "author"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Graduated July 12. Co-authored Marpole/Amgadamo article.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "ascents-marpole-amgadamo",
+          "title": "The Ascents of Mts. Marpole and Amgadamo",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "graduate"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-11",
+          "role": "climber"
+        },
+        {
+          "mountain": "Mt. Marpole / Mt. Amgadamo",
+          "date": "1906-07-16",
+          "role": "first ascent"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "alex-dunn",
+      "display_name": "Rev. Alex. Dunn",
+      "formal_name": "Reverend Alexander Dunn",
+      "roles": [
+        "climber",
+        "graduate",
+        "author"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Graduated July 13. Co-authored Marpole/Amgadamo article. Also climbed Mt. Field.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [
+        {
+          "slug": "ascents-marpole-amgadamo",
+          "title": "The Ascents of Mts. Marpole and Amgadamo",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-13",
+          "role": "graduate"
+        },
+        {
+          "mountain": "Mt. Field",
+          "date": "1906-07-12",
+          "role": "climber"
+        },
+        {
+          "mountain": "Mt. Marpole / Mt. Amgadamo",
+          "date": "1906-07-16",
+          "role": "first ascent"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "henrietta-tuzo",
+      "display_name": "Henrietta L. Tuzo",
+      "formal_name": "Miss Henrietta L. Tuzo",
+      "roles": [
+        "climber",
+        "active_member"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "From Warlingham, England. Climbed Mt. Collie on July 12 by different route from Patterson, meeting on summit. Was NOT visiting the camp \u2014 climbed independently with guide Christian Kaufmann.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Collie",
+          "date": "1906-07-12",
+          "role": "climber (independent)"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": []
+    },
+    {
+      "person_id": "christian-kaufmann",
+      "display_name": "Christian Kaufmann",
+      "formal_name": "Christian Kaufmann",
+      "roles": [
+        "guide"
+      ],
+      "titles": [
+        "Swiss Guide"
+      ],
+      "affiliations": [],
+      "biographical_detail": "Swiss guide who accompanied Henrietta Tuzo on her independent ascent of Mt. Collie July 12.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Collie",
+          "date": "1906-07-12",
+          "role": "guide"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": []
+    },
+    {
+      "person_id": "byron-harmon",
+      "display_name": "Byron Harmon",
+      "formal_name": "Byron Harmon",
+      "roles": [
+        "photographer",
+        "graduate"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Professional photographer from Banff. Graduated to active membership July 13. Multiple photos credited in the journal.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [
+        "CASCADE MOUNTAIN, BANFF, ALBERTA",
+        "THE DINING PAVILION AT YOHO CAMP",
+        "A PARTY OF GRADUATES AND GUIDES RETURNED FROM THE OFFICIAL CLIMB",
+        "ROLL CALL FOR THE OFFICIAL CLIMB OF MT. VICE-PRESIDENT",
+        "THE ICEFALL OF THE YOHO GLACIER"
+      ],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-13",
+          "role": "graduate"
+        }
+      ],
+      "ell_silo_id": "byron-harmon",
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 8,
+          "bytes_total": 25996657,
+          "items": [
+            {
+              "title": "Yoho, mtn. (ACC?)",
+              "file": "people/byron-harmon/artifacts/descriptions26666_wmcr-harmonb-v263-na-0163.jpg",
+              "bytes": 35543,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions26666"
+            },
+            {
+              "title": "Yoho Valley camp near Takakkaw",
+              "file": "people/byron-harmon/artifacts/descriptions26725_wmcr-harmonb-v263-na-0222.jpg",
+              "bytes": 40623,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions26725"
+            },
+            {
+              "title": "E-57. Climbing on Yoho Glacier (ACC camp?)",
+              "file": "people/byron-harmon/artifacts/descriptions26726_wmcr-harmonb-v263-na-0223.jpg",
+              "bytes": 34498,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions26726"
+            },
+            {
+              "title": "Little Yoho Falls, Yoho Valley",
+              "file": "people/byron-harmon/artifacts/descriptions26748_wmcr-harmonb-v263-na-0246.jpg",
+              "bytes": 36002,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions26748"
+            },
+            {
+              "title": "Bow movie trip",
+              "file": "people/byron-harmon/artifacts/descriptions28249_wmcr-harmonb-v263-na-1906.jpg",
+              "bytes": 23023,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions28249"
+            },
+            {
+              "title": "Bow movie trip",
+              "file": "people/byron-harmon/artifacts/descriptions28367_wmcr-harmonb-v263-na-2029.jpg",
+              "bytes": 30218,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions28367"
+            },
+            {
+              "title": "532. Mts. President & Vice President",
+              "file": "people/byron-harmon/artifacts/descriptions32172_wmcr-harmonb-v263-ng-70.jpg",
+              "bytes": 37463,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions32172"
+            },
+            {
+              "title": "Personal Trip Diaries",
+              "file": "people/byron-harmon/artifacts/descriptions55197_m67_i_a_i_6_1.pdf",
+              "bytes": 25759287,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions55197"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 8,
+      "harvest_bytes_total": 25996657
+    },
+    {
+      "person_id": "fw-freeborn",
+      "display_name": "F.W. Freeborn",
+      "formal_name": "F.W. Freeborn",
+      "roles": [
+        "photographer"
+      ],
+      "titles": [],
+      "affiliations": [],
+      "biographical_detail": "Photographer at the camp. Credited for Vice-President and Residence Park photos.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [],
+      "photos_credited": [
+        "MOUNT VICE-PRESIDENT\u2014THE OFFICIAL CLIMB",
+        "RESIDENCE PARK\u2014YOHO CAMP"
+      ],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 9,
+          "bytes_total": 59949017,
+          "items": [
+            {
+              "title": "Untitled",
+              "file": "people/fw-freeborn/artifacts/descriptions35344_wmcr-vaux-1t-v653-ng-922.jpg",
+              "bytes": 353890,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions35344"
+            },
+            {
+              "title": "Annual meeting of Alpine Club of Canada, secretary (Elizabeth Parker) reading her report [Lake O'Hara, Yoho Park, B.C.]",
+              "file": "people/fw-freeborn/artifacts/descriptions49267_v14_ac55_5_984_na66_2131.jpg",
+              "bytes": 239834,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions49267"
+            },
+            {
+              "title": "Canadian Mountains Album",
+              "file": "people/fw-freeborn/artifacts/descriptions57659_v14_ac55p_pd_1.pdf",
+              "bytes": 7988567,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions57659"
+            },
+            {
+              "title": "Canadian Mountains Album",
+              "file": "people/fw-freeborn/artifacts/descriptions57661_v14_ac55p_pd_4.pdf",
+              "bytes": 7743235,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions57661"
+            },
+            {
+              "title": "July and August Album",
+              "file": "people/fw-freeborn/artifacts/descriptions57669_v14_ac55p_pd_5.pdf",
+              "bytes": 10692395,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions57669"
+            },
+            {
+              "title": "Photographs of 1912 Album",
+              "file": "people/fw-freeborn/artifacts/descriptions57675_v14_ac55p_pd_8.pdf",
+              "bytes": 9002947,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions57675"
+            },
+            {
+              "title": "Canadian Souvenirs Vol. II Album",
+              "file": "people/fw-freeborn/artifacts/descriptions57682_v14_ac55p_pd_10.pdf",
+              "bytes": 11377616,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions57682"
+            },
+            {
+              "title": "Camps of the Alpine Club of Canada Album",
+              "file": "people/fw-freeborn/artifacts/descriptions57707_v14_ac55p_pd_13.pdf",
+              "bytes": 12397414,
+              "yoho_1906_confirmed": true,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions57707"
+            },
+            {
+              "title": "Frank W. Freeborn records",
+              "file": "people/fw-freeborn/artifacts/descriptions60523_v14_ac55p_18_32.jpg",
+              "bytes": 153119,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions60523"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 9,
+      "harvest_bytes_total": 59949017
+    },
+    {
+      "person_id": "d-warner",
+      "display_name": "D. Warner",
+      "formal_name": "D. Warner",
+      "roles": [
+        "photographer",
+        "climber",
+        "graduate"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Graduated July 12. Photographer credited for Twin Falls Creek crossing photo.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [
+        "CROSSING TWIN FALLS CREEK\u2014YOHO VALLEY TRAIL"
+      ],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "graduate"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-11",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "jim-bong",
+      "display_name": "Jim Bong (Ping-Pong)",
+      "formal_name": "Jim Bong",
+      "roles": [
+        "cook",
+        "employee"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Canadian Pacific Railway"
+      ],
+      "biographical_detail": "Chinese cook from the CPR Yoho camps. Called 'Ping-Pong' by campers. Yeigh: 'May his fat shade never grow less.'",
+      "at_camp": true,
+      "camp_dates": "1906-07-09/1906-07-18",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "edna-sutherland",
+      "display_name": "Miss Edna Sutherland",
+      "formal_name": "Miss Edna Sutherland",
+      "roles": [
+        "graduate"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "From Winnipeg. Graduated July 13. Singled out by Yeigh for wit and artistic talent at evening entertainments.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-13",
+          "role": "graduate"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "k-mclennan",
+      "display_name": "Miss K. McLennan",
+      "formal_name": "Miss K. McLennan",
+      "roles": [
+        "graduate"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "From Toronto. One of first two women to graduate at the camp (July 10). Singled out by Yeigh.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "graduate"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "eb-hobbs",
+      "display_name": "Miss E.B. Hobbs",
+      "formal_name": "Miss E.B. Hobbs",
+      "roles": [
+        "graduate"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "From Revelstoke. One of first two women to graduate at the camp (July 10).",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-10",
+          "role": "graduate"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "sandford-fleming",
+      "display_name": "Sir Sandford Fleming",
+      "formal_name": "Sir Sandford Fleming, K.C.M.G.",
+      "roles": [
+        "patron",
+        "honorary_member",
+        "author"
+      ],
+      "titles": [
+        "K.C.M.G.",
+        "Patron, Alpine Club of Canada"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Honorary President and Patron of the ACC. First called attention to the Rockies as a field for alpine work in his 1884 book 'England and Canada'. Engineer of the CPR.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "memories-fleming",
+          "title": "Memories of the Mountains",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "canadian-rockies-field-wheeler",
+        "alpine-club-parker"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        "LAC Sir Sandford Fleming fonds"
+      ]
+    },
+    {
+      "person_id": "william-whyte",
+      "display_name": "William Whyte",
+      "formal_name": "William Whyte",
+      "roles": [
+        "patron",
+        "author"
+      ],
+      "titles": [
+        "Second Vice-President, Canadian Pacific Railway"
+      ],
+      "affiliations": [
+        "Canadian Pacific Railway",
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "CPR Second Vice-President. Wrote Greetings for the journal. Mentioned by Parker as associate member who would deplore defacement of mountain beauty.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "greetings-whyte",
+          "title": "Greetings",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "alpine-club-parker"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": []
+    },
+    {
+      "person_id": "jh-miller",
+      "display_name": "Rev. J.H. Miller",
+      "formal_name": "Reverend J.H. Miller",
+      "roles": [
+        "climber",
+        "active_member"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Experienced mountaineer, assisted on July 11 official climb.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-11",
+          "role": "assistant"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [],
+      "harvest_status": "no_digital_holdings_found",
+      "harvest_sources_searched": [
+        "Whyte Museum",
+        "Internet Archive"
+      ]
+    },
+    {
+      "person_id": "jean-parker",
+      "display_name": "Miss Jean Parker",
+      "formal_name": "Miss Jean Parker",
+      "roles": [
+        "graduate",
+        "climber"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Daughter of Elizabeth Parker? Graduated July 12. Also climbed Wapta July 13.",
+      "at_camp": true,
+      "camp_dates": "1906-07",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Vice-President",
+          "date": "1906-07-12",
+          "role": "graduate"
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-13",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        {
+          "institution": "Whyte Museum of the Canadian Rockies",
+          "portal": "https://archives.whyte.org/",
+          "items_count": 2,
+          "bytes_total": 3966000,
+          "items": [
+            {
+              "title": "Display photographs",
+              "file": "people/jean-parker/artifacts/descriptions1041_v14_ac00p_30.jpg",
+              "bytes": 84932,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions1041"
+            },
+            {
+              "title": "Published manuscripts",
+              "file": "people/jean-parker/artifacts/descriptions784_m79_8.pdf",
+              "bytes": 3881068,
+              "yoho_1906_confirmed": false,
+              "source": "Whyte Museum of the Canadian Rockies",
+              "permalink": "https://archives.whyte.org/en/permalink/descriptions784"
+            }
+          ]
+        }
+      ],
+      "harvest_status": "digital_holdings_downloaded",
+      "harvest_files_count": 2,
+      "harvest_bytes_total": 3966000
+    },
+    {
+      "person_id": "herschel-parker",
+      "display_name": "Herschel C. Parker, Ph.D.",
+      "formal_name": "Herschel C. Parker, Ph.D.",
+      "roles": [
+        "author",
+        "climber",
+        "active_member"
+      ],
+      "titles": [
+        "Ph.D.",
+        "First Life Member of ACC"
+      ],
+      "affiliations": [
+        "Columbia University",
+        "Alpine Club of Canada",
+        "American Alpine Club"
+      ],
+      "biographical_detail": "Professor at Columbia University. First life member of the ACC. Bold pioneer per Parker. Authored Ascent of Mt. Hungabee.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "ascent-hungabee-parker",
+          "title": "The Ascent of Mt. Hungabee",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "alpine-club-parker"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Hungabee",
+          "date": "pre-1906",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        "Columbia University Archives"
+      ]
+    },
+    {
+      "person_id": "gertrude-benham",
+      "display_name": "Gertrude E. Benham",
+      "formal_name": "Gertrude E. Benham",
+      "roles": [
+        "author",
+        "climber"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Pioneering woman mountaineer. Authored Ascent of Mt. Assiniboine. Later became one of the most-travelled women of her era.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "ascent-assiniboine-benham",
+          "title": "The Ascent of Mt. Assiniboine",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Assiniboine",
+          "date": "pre-1906",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": []
+    },
+    {
+      "person_id": "ws-jackson",
+      "display_name": "W.S. Jackson",
+      "formal_name": "W.S. Jackson",
+      "roles": [
+        "author",
+        "climber"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Authored First Ascent of Central Peak of Mt. Bagheera.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "ascent-bagheera-jackson",
+          "title": "The First Ascent of Central Peak of Mt. Bagheera",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Bagheera (Central Peak)",
+          "date": "pre-1906",
+          "role": "first ascent"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": []
+    },
+    {
+      "person_id": "sh-gray",
+      "display_name": "Rev. S.H. Gray",
+      "formal_name": "Reverend S.H. Gray",
+      "roles": [
+        "author",
+        "climber"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Authored Ascent of Mt. Hermit.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "ascent-hermit-gray",
+          "title": "The Ascent of Mt. Hermit",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Hermit",
+          "date": "pre-1906",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": []
+    },
+    {
+      "person_id": "charles-fay",
+      "display_name": "Charles E. Fay, Litt.D.",
+      "formal_name": "Charles E. Fay, Litt.D.",
+      "roles": [
+        "author",
+        "climber",
+        "honorary_member"
+      ],
+      "titles": [
+        "Litt.D.",
+        "President, American Alpine Club"
+      ],
+      "affiliations": [
+        "American Alpine Club",
+        "Appalachian Mountain Club",
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "President of the American Alpine Club. Honorary member of ACC. Visited Selkirks in 1890, brought many others. Drove formation of AAC Alpine section. Authored Ascent of Mt. Goodsir.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [
+        {
+          "slug": "ascent-goodsir-fay",
+          "title": "The Ascent of Mt. Goodsir",
+          "mentions_emerald_lake": false,
+          "emerald_lake_content": ""
+        }
+      ],
+      "articles_mentioned_in": [
+        "canadian-rockies-field-wheeler"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Goodsir",
+          "date": "pre-1906",
+          "role": "climber"
+        }
+      ],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        "Appalachian Mountain Club archives",
+        "AAC archives"
+      ]
+    },
+    {
+      "person_id": "edward-whymper",
+      "display_name": "Edward Whymper",
+      "formal_name": "Edward Whymper",
+      "roles": [
+        "honorary_member"
+      ],
+      "titles": [],
+      "affiliations": [
+        "Alpine Club (London)",
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Of Matterhorn fame. Named The Vice-President and The President. Visited Canadian Rockies 1901 with four Swiss guides. Honorary member ACC.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "first-camp-yeigh",
+        "canadian-rockies-field-wheeler"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": "edward-whymper",
+      "fonds_leads": [
+        "Alpine Club London archives"
+      ]
+    },
+    {
+      "person_id": "norman-collie",
+      "display_name": "J. Norman Collie, F.R.S.",
+      "formal_name": "J. Norman Collie, F.R.S.",
+      "roles": [
+        "honorary_member",
+        "climber"
+      ],
+      "titles": [
+        "F.R.S."
+      ],
+      "affiliations": [
+        "Alpine Club (London)",
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Explored the Rockies 1897-1902. Climbed extensively in the Blaeberry area. Co-authored 'Climbs and Explorations in the Canadian Rockies.' Honorary member ACC.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "canadian-rockies-field-wheeler"
+      ],
+      "photos_credited": [],
+      "climbs": [],
+      "ell_silo_id": null,
+      "fonds_leads": [
+        "Alpine Club London"
+      ]
+    },
+    {
+      "person_id": "james-outram",
+      "display_name": "Rev. James Outram",
+      "formal_name": "Reverend James Outram",
+      "roles": [
+        "climber",
+        "honorary_member"
+      ],
+      "titles": [
+        "Reverend"
+      ],
+      "affiliations": [
+        "Alpine Club of Canada"
+      ],
+      "biographical_detail": "Captured Mt. Assiniboine 1901. Made 'big killing' 1902: Columbia, Bryce, Lyall, Alexandra. Named Angle Peak on VP ridge. Author of 'In the Heart of the Canadian Rockies.' Honorary member ACC.",
+      "at_camp": false,
+      "camp_dates": "",
+      "articles_authored": [],
+      "articles_mentioned_in": [
+        "canadian-rockies-field-wheeler",
+        "chief-mountaineer-report"
+      ],
+      "photos_credited": [],
+      "climbs": [
+        {
+          "mountain": "Mt. Assiniboine",
+          "date": "1901",
+          "role": "first ascent"
+        },
+        {
+          "mountain": "Mt. Columbia",
+          "date": "1902",
+          "role": "first ascent"
+        }
+      ],
+      "ell_silo_id": "james-outram",
+      "fonds_leads": []
+    }
+  ],
+  "harvest_summary": {
+    "total_files": 118,
+    "total_bytes": 676032873,
+    "people_with_holdings": 20,
+    "sources": [
+      "Whyte Museum of the Canadian Rockies",
+      "Internet Archive"
+    ]
+  }
+}

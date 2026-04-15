@@ -1,0 +1,27 @@
+{
+  "silo_id": "ascent-hungabee-parker",
+  "title": "The Ascent of Mt. Hungabee — Herschel C. Parker",
+  "article_slug": "ascent-hungabee-parker",
+  "article_number": 10,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "herschel-parker",
+    "display_name": "Herschel C. Parker, Ph.D.",
+    "at_camp": false,
+    "ell_silo_id": null
+  },
+  "summary": "Ascent of Mt. Hungabee near Lake O'Hara.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

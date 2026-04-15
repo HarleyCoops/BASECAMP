@@ -1,0 +1,51 @@
+{
+  "silo_id": "alpine-club-parker",
+  "title": "The Alpine Club of Canada — Elizabeth Parker",
+  "article_slug": "alpine-club-parker",
+  "article_number": 2,
+  "section": "MISCELLANEOUS",
+  "author": {
+    "person_id": "elizabeth-parker",
+    "display_name": "Elizabeth Parker",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Philosophical manifesto for the ACC. Six objects of the club. Defense of mountaineering as national character-building. Opposition to cog railways and commercialization of mountain places. Plans for huts, bivouacs, trails. Ethical and spiritual value of mountaineering.",
+  "emerald_lake_references": [],
+  "people_mentioned": [
+    "arthur-wheeler",
+    "sandford-fleming",
+    "william-whyte",
+    "herschel-parker",
+    "charles-fay"
+  ],
+  "places_mentioned": [],
+  "dates_mentioned": [
+    {
+      "date": "1905-11",
+      "event": "Positive movement towards organization begins"
+    },
+    {
+      "date": "1906-03",
+      "event": "Club organized in Winnipeg"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "ROLL CALL FOR THE OFFICIAL CLIMB OF MT. VICE-PRESIDENT",
+      "credit": "Byron Harmon"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 3,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/The_Alpine_Club_of_Canada"
+  },
+  "fonds_leads": [
+    "ACC founding documents",
+    "Whyte Museum ACC records"
+  ]
+}

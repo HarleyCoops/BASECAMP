@@ -1,0 +1,60 @@
+{
+  "silo_id": "mt-stephen-kinney",
+  "title": "Mt. Stephen — Rev. G.R.B. Kinney",
+  "article_slug": "mt-stephen-kinney",
+  "article_number": 18,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "george-kinney",
+    "display_name": "Rev. G.R.B. Kinney",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Solo ascent of Mt. Stephen, October 21, 1904. Left Field 8am, fossil bed by 10am, summit by late afternoon, returned 8pm. Vivid descriptions of cloud sea below, trilobite fossils, views of Burgess, Field, Wapta, Vice-President with Emerald Glacier. Dangerous cliff climbing near summit. Descent by snow gully. Editorial note: only 5th guideless ascent ever.",
+  "emerald_lake_references": [
+    {
+      "passage": "the Vice-President, with an emerald glacier in its lap, came in full view from behind",
+      "context": "View during ascent — looking NW from Mt. Stephen slopes toward President Range and Emerald Lake area",
+      "place_ids": [
+        "vice-president",
+        "emerald-glacier"
+      ]
+    }
+  ],
+  "people_mentioned": [],
+  "places_mentioned": [
+    "field-station",
+    "mt-stephen",
+    "fossil-bed",
+    "mt-burgess",
+    "mt-field",
+    "mt-wapta",
+    "vice-president",
+    "emerald-glacier",
+    "burgess-pass"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1904-10-21",
+      "event": "Solo ascent, 12-hour round trip"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "MOUNT STEPHEN FROM THE NATURAL BRIDGE",
+      "credit": "Mary M. Vaux"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 118,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Mt._Stephen"
+  },
+  "fonds_leads": [
+    "Whyte Museum",
+    "ACC Archives — camp photographs"
+  ]
+}

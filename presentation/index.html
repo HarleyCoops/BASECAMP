@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BASECAMP — The First Alpine Club of Canada Camp, Yoho Pass, July 1906</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1612;
+    --paper: #f2ebdd;
+    --paper-dark: #e6dcc8;
+    --rule: #3a342c;
+    --accent: #8b2e1a;
+    --accent-soft: #a8553f;
+    --ice: #3a5c6e;
+    --muted: #5a5046;
+    --card: #fbf6ea;
+    --shadow: 0 10px 40px rgba(26,22,18,0.25);
+  }
+  *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
+  html { scroll-behavior:smooth; }
+  body {
+    font-family:'EB Garamond', Georgia, serif;
+    background:var(--paper);
+    color:var(--ink);
+    line-height:1.65;
+    font-size:19px;
+    -webkit-font-smoothing:antialiased;
+  }
+  a { color:var(--accent); text-decoration:none; border-bottom:1px dotted var(--accent); }
+  a:hover { color:var(--accent-soft); }
+  img { max-width:100%; display:block; }
+  h1,h2,h3,h4 { font-family:'Playfair Display', serif; color:var(--ink); font-weight:700; line-height:1.15; }
+  em { font-style:italic; }
+
+  /* paper texture via layered gradients */
+  body::before {
+    content:"";
+    position:fixed; inset:0;
+    background:
+      radial-gradient(circle at 20% 30%, rgba(139,46,26,0.03) 0%, transparent 50%),
+      radial-gradient(circle at 80% 70%, rgba(58,92,110,0.03) 0%, transparent 50%);
+    pointer-events:none;
+    z-index:0;
+  }
+  main { position:relative; z-index:1; }
+
+  .rule { height:1px; background:var(--rule); margin:2rem 0; }
+  .rule-double { height:5px; border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); margin:3rem 0; }
+
+  .mono { font-family:'JetBrains Mono', monospace; font-size:0.85em; letter-spacing:0.02em; }
+  .label {
+    font-family:'JetBrains Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.28em;
+    text-transform:uppercase;
+    color:var(--muted);
+    display:inline-block;
+  }
+
+  /* CINEMATIC OPENER — full-bleed, overrides section max-width */
+  section.cinematic {
+    position:relative;
+    height:100vh;
+    min-height:600px;
+    width:100vw;
+    max-width:none;
+    margin:0;
+    padding:0;
+    left:50%; right:50%;
+    margin-left:-50vw; margin-right:-50vw;
+    overflow:hidden;
+    display:flex; align-items:center; justify-content:center;
+    background:#0a0806;
+  }
+  .cinematic .bg {
+    position:absolute; inset:0;
+    background-image:url('../people/george-vaux/artifacts/descriptions34193_wmcr-vaux-1v-v653-ps-095.jpg');
+    background-size:cover;
+    background-position:center 35%;
+    filter:contrast(1.08) saturate(0.82) brightness(0.72);
+    transform:scale(1.04);
+  }
+  .cinematic .vignette {
+    position:absolute; inset:0;
+    background:
+      radial-gradient(ellipse at center, transparent 30%, rgba(10,8,6,0.55) 75%, rgba(10,8,6,0.95) 100%),
+      linear-gradient(180deg, rgba(10,8,6,0.4) 0%, transparent 25%, transparent 70%, rgba(10,8,6,0.85) 100%);
+  }
+  .cinematic .letterbox-top,
+  .cinematic .letterbox-bot { display:none; }
+  .cinematic .content {
+    position:relative; z-index:3;
+    max-width:1200px; padding:0 3rem;
+    text-align:center;
+    color:#f2ebdd;
+  }
+  .cinematic .opener-label {
+    font-family:'JetBrains Mono', monospace;
+    font-size:0.72rem;
+    letter-spacing:0.4em;
+    text-transform:uppercase;
+    color:#c4956a;
+    margin-bottom:2.5rem;
+    display:block;
+  }
+  .cinematic blockquote {
+    font-family:'Playfair Display', serif;
+    font-style:italic;
+    font-weight:400;
+    font-size:clamp(1.5rem, 3vw, 2.6rem);
+    line-height:1.4;
+    color:#f4ead4;
+    max-width:1000px;
+    margin:0 auto 2.5rem;
+    text-shadow:0 2px 20px rgba(0,0,0,0.6);
+  }
+  .cinematic blockquote::before {
+    content:"“";
+    display:block;
+    font-size:5rem;
+    line-height:0.3;
+    margin-bottom:1.5rem;
+    color:#c4956a;
+    opacity:0.7;
+  }
+  .cinematic .attribution {
+    font-family:'EB Garamond', serif;
+    font-size:1rem;
+    letter-spacing:0.15em;
+    text-transform:uppercase;
+    color:#c4956a;
+  }
+  .cinematic .attribution .dash { color:#8a7558; margin:0 0.75em; }
+  .cinematic .scroll-hint {
+    position:absolute;
+    bottom:2.5rem;
+    left:50%; transform:translateX(-50%);
+    z-index:3;
+    font-family:'JetBrains Mono', monospace;
+    font-size:0.65rem;
+    letter-spacing:0.3em;
+    color:#8a7558;
+    text-transform:uppercase;
+  }
+  .cinematic .scroll-hint::after {
+    content:"↓";
+    display:block; margin-top:0.5rem; font-size:1rem;
+    animation:bounce 2s ease-in-out infinite;
+  }
+  @keyframes bounce {
+    0%,100% { transform:translateY(0); opacity:0.5; }
+    50% { transform:translateY(6px); opacity:1; }
+  }
+
+  /* HERO */
+  .hero {
+    position:relative;
+    min-height:100vh;
+    display:flex; flex-direction:column; justify-content:center;
+    padding:4rem 2rem;
+    color:#f2ebdd;
+    background:
+      linear-gradient(180deg, rgba(20,16,12,0.55) 0%, rgba(20,16,12,0.75) 60%, rgba(20,16,12,0.95) 100%),
+      url('../people/george-vaux/artifacts/descriptions34196_wmcr-vaux-1v-v653-ps-098.jpg') center/cover;
+  }
+  .hero-inner { max-width:1100px; margin:0 auto; width:100%; }
+  .hero .label { color:#c4956a; }
+  .hero h1 {
+    font-size:clamp(2.8rem,7vw,6rem);
+    color:#fff;
+    margin:1.5rem 0 1rem;
+    font-weight:900;
+    font-style:italic;
+    letter-spacing:-0.02em;
+  }
+  .hero .subtitle {
+    font-size:clamp(1.2rem,2vw,1.6rem);
+    max-width:760px;
+    color:#e6dcc8;
+    margin-bottom:2rem;
+    font-weight:400;
+  }
+  .hero .cite {
+    font-size:0.95rem;
+    color:#a09888;
+    border-left:2px solid #c4956a;
+    padding-left:1rem;
+    max-width:680px;
+    font-style:italic;
+  }
+  .hero-meta {
+    position:absolute;
+    bottom:2rem; left:2rem; right:2rem;
+    display:flex; justify-content:space-between;
+    font-family:'JetBrains Mono', monospace;
+    font-size:0.7rem;
+    letter-spacing:0.2em;
+    text-transform:uppercase;
+    color:#8c8272;
+  }
+
+  /* SECTION */
+  section {
+    padding:6rem 2rem;
+    max-width:1200px;
+    margin:0 auto;
+  }
+  section.wide { max-width:1400px; }
+  section.narrow { max-width:900px; }
+  section h2 {
+    font-size:clamp(2rem,4vw,3.2rem);
+    margin:0.5rem 0 2rem;
+    font-style:italic;
+  }
+  section h2 .num {
+    display:block;
+    font-family:'JetBrains Mono', monospace;
+    font-size:0.9rem;
+    letter-spacing:0.3em;
+    color:var(--accent);
+    font-style:normal;
+    margin-bottom:0.5rem;
+  }
+  section .lede {
+    font-size:1.25rem;
+    max-width:680px;
+    color:var(--muted);
+    margin-bottom:3rem;
+  }
+
+  /* THE PROOF — side by side */
+  .proof {
+    background:var(--paper-dark);
+    padding:5rem 2rem;
+  }
+  .proof .container { max-width:1300px; margin:0 auto; }
+  .proof h2 { text-align:center; margin-bottom:1rem; }
+  .proof .subhead { text-align:center; color:var(--muted); margin-bottom:3rem; font-style:italic; font-size:1.15rem; }
+
+  .proof-grid {
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:3rem;
+    align-items:start;
+  }
+  @media (max-width:900px) { .proof-grid { grid-template-columns:1fr; } }
+
+  .proof-card {
+    background:var(--card);
+    padding:2rem;
+    box-shadow:var(--shadow);
+    border-top:3px solid var(--accent);
+    position:relative;
+  }
+  .proof-card::before {
+    content:"A"; position:absolute; top:-20px; left:24px;
+    background:var(--accent); color:var(--card);
+    font-family:'Playfair Display', serif; font-weight:900;
+    width:40px; height:40px;
+    display:flex; align-items:center; justify-content:center;
+    border-radius:50%;
+    font-size:1.3rem;
+  }
+  .proof-card.b::before { content:"B"; background:var(--ice); }
+  .proof-card.b { border-top-color:var(--ice); }
+  .proof-card h3 { font-size:1.4rem; margin-bottom:0.75rem; }
+  .proof-card .meta { font-size:0.85rem; color:var(--muted); margin-bottom:1.5rem; font-family:'JetBrains Mono',monospace; }
+  .proof-card img { border:1px solid var(--rule); margin:1rem 0; box-shadow:0 4px 12px rgba(0,0,0,0.08); }
+  .proof-card blockquote {
+    font-style:italic;
+    color:var(--ink);
+    font-size:1.08rem;
+    padding:1rem 1.25rem;
+    border-left:3px solid var(--accent);
+    background:rgba(139,46,26,0.04);
+    margin:1rem 0;
+  }
+  .proof-card.b blockquote { border-left-color:var(--ice); background:rgba(58,92,110,0.05); }
+  .proof-card .fig {
+    font-size:0.8rem; color:var(--muted); font-family:'JetBrains Mono',monospace;
+    margin-top:0.5rem;
+  }
+
+  .proof-conclusion {
+    max-width:900px; margin:4rem auto 0;
+    text-align:center;
+    font-size:1.3rem;
+    font-style:italic;
+    color:var(--ink);
+    line-height:1.6;
+    padding:2rem;
+    border-top:1px solid var(--rule);
+    border-bottom:1px solid var(--rule);
+  }
+  .proof-conclusion strong { font-weight:700; font-style:normal; color:var(--accent); }
+
+  /* TIMELINE */
+  .timeline { position:relative; padding-left:0; }
+  .day {
+    display:grid;
+    grid-template-columns:180px 1fr;
+    gap:2.5rem;
+    padding:2.5rem 0;
+    border-bottom:1px solid rgba(58,52,44,0.2);
+  }
+  @media (max-width:800px) { .day { grid-template-columns:1fr; gap:1rem; } }
+  .day-date {
+    font-family:'Playfair Display', serif;
+    font-weight:900;
+    position:sticky;
+    top:1rem;
+    align-self:start;
+  }
+  .day-date .dow { font-size:0.78rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--accent); font-family:'JetBrains Mono',monospace; font-weight:500; }
+  .day-date .dm { font-size:3.6rem; line-height:1; color:var(--ink); margin:0.2rem 0; font-style:italic; }
+  .day-date .y { font-size:0.95rem; color:var(--muted); font-family:'JetBrains Mono',monospace; letter-spacing:0.15em; }
+  .day-date .tag {
+    display:inline-block;
+    margin-top:0.8rem;
+    font-size:0.68rem;
+    font-family:'JetBrains Mono',monospace;
+    letter-spacing:0.2em;
+    text-transform:uppercase;
+    color:var(--paper);
+    background:var(--accent);
+    padding:0.25rem 0.6rem;
+  }
+  .day-body h3 { font-size:1.45rem; margin-bottom:0.75rem; font-style:italic; }
+  .day-body blockquote {
+    border-left:3px solid var(--accent);
+    padding:0.75rem 1.25rem;
+    margin:1rem 0;
+    background:rgba(139,46,26,0.04);
+    font-style:italic;
+    color:var(--ink);
+    font-size:1.05rem;
+  }
+  .day-body blockquote .uncertain { color:var(--accent); opacity:0.7; }
+  .day-body .notes { color:var(--muted); font-size:1rem; margin-top:0.75rem; }
+  .day-body .notes strong { color:var(--ink); }
+  .day-body .facsimile {
+    margin-top:1.5rem;
+    display:inline-block;
+    max-width:280px;
+    background:var(--card);
+    padding:0.75rem;
+    box-shadow:var(--shadow);
+  }
+  .day-body .facsimile img { border:1px solid var(--rule); }
+  .day-body .facsimile .cap {
+    font-size:0.72rem;
+    font-family:'JetBrains Mono',monospace;
+    color:var(--muted);
+    margin-top:0.5rem;
+  }
+
+  /* PEOPLE GRID */
+  .people-grid {
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+    gap:2rem;
+  }
+  .person {
+    background:var(--card);
+    padding:1.5rem;
+    box-shadow:0 4px 16px rgba(0,0,0,0.08);
+    border-top:2px solid var(--rule);
+    transition:transform 0.2s, box-shadow 0.2s;
+  }
+  .person:hover { transform:translateY(-3px); box-shadow:var(--shadow); }
+  .person.has-holdings { border-top-color:var(--accent); }
+  .person.has-ia { border-top-color:var(--ice); }
+  .person h4 { font-size:1.25rem; font-style:italic; margin-bottom:0.25rem; }
+  .person .role { font-size:0.85rem; color:var(--muted); font-family:'JetBrains Mono',monospace; letter-spacing:0.05em; text-transform:uppercase; margin-bottom:1rem; }
+  .person .bio { font-size:0.95rem; line-height:1.55; color:var(--ink); margin-bottom:1rem; }
+  .person .holdings {
+    font-size:0.82rem;
+    font-family:'JetBrains Mono',monospace;
+    color:var(--muted);
+    padding-top:0.75rem;
+    border-top:1px dotted var(--rule);
+  }
+  .person .holdings strong { color:var(--accent); font-weight:500; }
+
+  /* GALLERY */
+  .gallery-intro { text-align:center; margin-bottom:3rem; }
+  .gallery {
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+    gap:1.5rem;
+  }
+  .g-item {
+    background:var(--card);
+    padding:0.75rem;
+    box-shadow:0 4px 16px rgba(0,0,0,0.1);
+  }
+  .g-item img { border:1px solid var(--rule); }
+  .g-item .cap {
+    font-size:0.82rem;
+    color:var(--ink);
+    margin-top:0.75rem;
+    font-style:italic;
+  }
+  .g-item .src {
+    font-size:0.7rem;
+    font-family:'JetBrains Mono',monospace;
+    color:var(--muted);
+    margin-top:0.3rem;
+  }
+
+  /* SOURCES */
+  .sources {
+    background:var(--ink);
+    color:var(--paper);
+    padding:5rem 2rem;
+  }
+  .sources h2 { color:#fff; text-align:center; margin-bottom:1rem; }
+  .sources .lede { color:#a09888; margin:0 auto 3rem; text-align:center; }
+  .sources-grid {
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+    gap:2rem;
+    max-width:1200px;
+    margin:0 auto;
+  }
+  .src-card {
+    border:1px solid rgba(242,235,221,0.15);
+    padding:1.75rem;
+    background:rgba(242,235,221,0.03);
+  }
+  .src-card h4 { color:#c4956a; font-size:1.15rem; font-style:italic; margin-bottom:0.5rem; }
+  .src-card .stat { font-family:'JetBrains Mono',monospace; font-size:2rem; color:#fff; margin:1rem 0 0.25rem; font-weight:500; }
+  .src-card .sub { font-size:0.8rem; color:#a09888; font-family:'JetBrains Mono',monospace; }
+  .src-card p { color:#d4cfc7; font-size:0.92rem; margin-top:1rem; line-height:1.55; }
+  .src-card a { color:#7bb8c9; border-bottom-color:#7bb8c9; }
+
+  /* FOOTER */
+  footer {
+    background:var(--ink);
+    color:#6a5f52;
+    padding:3rem 2rem;
+    text-align:center;
+    font-size:0.85rem;
+    font-family:'JetBrains Mono',monospace;
+    letter-spacing:0.1em;
+    border-top:1px solid rgba(242,235,221,0.1);
+  }
+  footer .anniversary { color:var(--accent-soft); font-weight:500; letter-spacing:0.15em; margin-bottom:0.5rem; }
+
+  /* NAV dots */
+  .nav-dots {
+    position:fixed; right:1.5rem; top:50%; transform:translateY(-50%);
+    display:flex; flex-direction:column; gap:0.9rem;
+    z-index:10;
+  }
+  .nav-dots a {
+    width:9px; height:9px; border-radius:50%;
+    background:rgba(58,52,44,0.25);
+    border:none;
+    transition:background 0.2s, transform 0.2s;
+  }
+  .nav-dots a:hover { background:var(--accent); transform:scale(1.4); }
+  @media (max-width:900px) { .nav-dots { display:none; } }
+
+  /* lightbox */
+  .lightbox {
+    position:fixed; inset:0;
+    background:rgba(10,8,6,0.92);
+    display:none;
+    align-items:center; justify-content:center;
+    z-index:100;
+    cursor:zoom-out;
+    padding:2rem;
+  }
+  .lightbox.open { display:flex; }
+  .lightbox img { max-height:92vh; max-width:92vw; box-shadow:0 0 60px rgba(0,0,0,0.7); }
+  .lightbox .close { position:absolute; top:1rem; right:1.5rem; color:#f2ebdd; font-size:2rem; cursor:pointer; font-family:serif; }
+  .clickable { cursor:zoom-in; }
+</style>
+</head>
+<body>
+
+<nav class="nav-dots">
+  <a href="#opener" title="Opener"></a>
+  <a href="#hero" title="Hero"></a>
+  <a href="#proof" title="The Proof"></a>
+  <a href="#timeline" title="The Nine Days"></a>
+  <a href="#people" title="The People"></a>
+  <a href="#gallery" title="The Photographs"></a>
+  <a href="#sources" title="The Sources"></a>
+</nav>
+
+<main>
+
+<!-- ============ CINEMATIC OPENER ============ -->
+<section id="opener" class="cinematic">
+  <div class="bg"></div>
+  <div class="vignette"></div>
+  <div class="letterbox-top"></div>
+  <div class="letterbox-bot"></div>
+  <div class="content">
+    <span class="opener-label">July 9, 1906 · Field, British Columbia · Sun-up</span>
+    <blockquote>
+      Soon after sun-up the thin long line of amateurs, with <em>Excelsior</em> written on face and in eye, crossed the bridge over the Kicking-Horse and took to the road that leads through a silent forest aisle to Emerald lake.
+    </blockquote>
+    <div class="attribution">Frank Yeigh <span class="dash">—</span> Canadian Alpine Journal, 1906</div>
+  </div>
+  <div class="scroll-hint">Basecamp</div>
+</section>
+
+<!-- ============ HERO ============ -->
+<section id="hero" class="hero">
+  <div class="hero-inner">
+    <span class="label">Friends of Yoho · ACC 120th Anniversary</span>
+    <h1>BASECAMP</h1>
+    <p class="subtitle">
+      The first camp of the Alpine Club of Canada,<br>
+      Yoho Pass, British Columbia, July 8–16, 1906 —<br>
+      <em>reconstructed from primary sources.</em>
+    </p>
+    <p class="cite">
+      This reconstruction is built entirely from museum, archive, and gallery holdings: Arthur Wheeler's unpublished handwritten daytimer at the Whyte Museum; the 1906 peer-reviewed Vaux brothers glacier paper; Byron Harmon's original negatives; Edward Feuz's guide fonds; and F.W. Freeborn's ACC albums.
+      No source is quoted that cannot be pointed at directly in a public archive.
+    </p>
+  </div>
+  <div class="hero-meta">
+    <span>Yoho Pass · 51.470°N 116.555°W · 2,195 m</span>
+    <span>120 years on</span>
+  </div>
+</section>
+
+<!-- ============ THE PROOF ============ -->
+<section id="proof" class="proof">
+  <div class="container">
+    <div style="text-align:center">
+      <span class="label">Section I — The Killshot</span>
+    </div>
+    <h2>Two primary sources. Same day. Same glacier. Same people.</h2>
+    <p class="subhead">How we know what happened on Sunday, July 15, 1906.</p>
+
+    <div class="proof-grid">
+
+      <div class="proof-card">
+        <h3>Wheeler's handwritten daytimer</h3>
+        <div class="meta">Whyte Museum · M546 / item 13 · p. 197 · pencil on ruled diary paper</div>
+        <img class="clickable" src="../people/arthur-wheeler/daytimer_pages/1906_jul15_sun.png" alt="Wheeler daytimer July 15 1906">
+        <div class="fig">FIG. 1 — A.O. Wheeler, Personal Daytimer 1906, Sunday, July 15.</div>
+        <blockquote>
+          Up early &amp; walked to Yoho Glacier — there worked all day at Glacier setting out plates &amp; marking rocks — taking photographs at every point &amp; plotted by [horse?] &amp; instrumental readings.<br><br>
+          <strong>Vaux Bros. there helping.</strong><br><br>
+          Walked back to Yoho Camp — had a lunch at the Vaux Camp as we passed. Arrived at Yoho Camp [where] service was being held.
+        </blockquote>
+        <p style="font-size:0.9rem; color:var(--muted); margin-top:1rem;">
+          Transcribed by visual reading; the daytimer is in pencil cursive and OCR cannot read it. See
+          <a href="../people/arthur-wheeler/daytimer_pages/TRANSCRIPTION_1906_camp_window.md">full transcription, July 7–17</a>.
+        </p>
+      </div>
+
+      <div class="proof-card b">
+        <h3>The Vaux brothers' 1906 glacier paper</h3>
+        <div class="meta">Proc. Acad. Nat. Sci. Philadelphia · Dec. 1906 · pp. 568–579 · Internet Archive jstor-4063109</div>
+        <div style="padding:2rem 1rem; background:#fff; border:1px solid var(--rule); font-family:'EB Garamond',serif; text-align:left; margin:1rem 0;">
+          <div style="font-size:0.78rem; color:#777; font-family:'JetBrains Mono',monospace; margin-bottom:0.5rem;">PAGE 578 · WAPTA OR YOHO GLACIER · YOHO VALLEY, NEAR FIELD, BRITISH COLUMBIA</div>
+          <p style="font-size:0.98rem; line-height:1.7;">
+            "This glacier, located at the head of the Yoho Valley, is a very long day's trip from Field, the station on the railway. <strong>On July 15, 1906</strong>, almost a month earlier in the season than on the occasion of the previous visit, the glacier was again observed and the distance measured as <strong>76 feet 7 inches</strong>, or about 124 feet less than in 1904. Allowing for the earlier date, it may be said that the tongue is in the same position as two years ago. The general aspect of the ice showed that it was shrinking and retreating, and this was particularly the case on the right side where the main stream debouches from a most beautiful ice arch."
+          </p>
+          <div style="text-align:right; font-size:0.85rem; color:#555; margin-top:0.75rem; font-style:italic;">— George Vaux, Jr. and William S. Vaux</div>
+        </div>
+        <div class="fig">FIG. 2 — "Observations Made in 1906 on Glaciers in Alberta and British Columbia," p. 578.</div>
+        <blockquote>
+          The Vaux brothers published this measurement in Philadelphia five months after Wheeler wrote his diary entry. Neither author could have seen the other's text. Each is an independent primary source for the same field day.
+        </blockquote>
+        <p style="font-size:0.9rem; color:var(--muted); margin-top:1rem;">
+          <a href="../people/george-vaux/artifacts/ia_1906_observations_George_Vaux_Jr_1906_GLACIERS.pdf">PDF of full 26-page paper</a> — open access via Internet Archive.
+        </p>
+      </div>
+
+    </div>
+
+    <div class="proof-conclusion">
+      The first ACC camp was not only a climbing holiday. For three full days of its second week it was a working <strong>glaciological field station</strong>, producing a peer-reviewed measurement — 76 feet 7 inches from a 1901 bedrock mark — that became the foundational datum of a multi-decade glacier-change record the Vaux family would continue until 1913 and the Mountain Legacy Project would revisit in the 21st century.
+    </div>
+  </div>
+</section>
+
+<!-- ============ THE NINE DAYS ============ -->
+<section id="timeline">
+  <span class="label">Section II — The Nine Days</span>
+  <h2><span class="num">II</span>From Wheeler's Daytimer</h2>
+  <p class="lede">
+    The director of the camp kept a pocket daytimer in pencil. He did not expect to publish it.
+    Below is the camp window — July 7 through 17, 1906 — transcribed page by page from the original at the Whyte Museum.
+    Uncertain readings are marked <span class="uncertain">[like this]</span>.
+  </p>
+
+  <a class="facsimile clickable" style="display:block;margin:2.5rem 0 3rem;max-width:100%;" href="#" onclick="openLB(event,'../people/george-vaux/artifacts/descriptions34207_wmcr-vaux-1v-v653-ps-110.jpg')">
+    <img src="../people/george-vaux/artifacts/descriptions34207_wmcr-vaux-1v-v653-ps-110.jpg" alt="ACC camp at Summit Lake (Yoho Pass), 1906 — Vaux family lantern slide PS-110" style="width:100%;height:auto;display:block;">
+    <div class="cap">
+      <strong>The camp itself.</strong> Hand-tinted lantern slide from the Vaux family fonds: tents, flagpole, and climbers gathered on log benches at the 1906 ACC camp, Summit Lake (Yoho Pass). <br>
+      <span style="opacity:.7;">Whyte Museum of the Canadian Rockies · Vaux family fonds V653 · PS-110 · <a href="https://archives.whyte.org/en/permalink/descriptions34207" target="_blank" rel="noopener">descriptions34207</a></span>
+    </div>
+  </a>
+
+  <div class="timeline">
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Saturday</div>
+        <div class="dm">07</div>
+        <div class="y">JULY 1906</div>
+        <div class="tag">eve of camp</div>
+      </div>
+      <div class="day-body">
+        <h3>Wheeler rides out to the CPR hotel to meet supplies.</h3>
+        <blockquote>
+          Went in to Field again and brought <span class="uncertain">[Clover and Oliver]</span> out to Camp. McDowell <span class="uncertain">[P.D.?]</span> came to Camp. Supplies arrived. Everything going on. Walter Fynn. More guides arrived.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> Swiss guide Walter Fynn and additional climbing staff assemble. Camp director Wheeler shuttles supplies from the CPR's Mount Stephen House in Field down to the Yoho Pass site.
+        </div>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Sunday</div>
+        <div class="dm">08</div>
+        <div class="y">JULY 1906</div>
+        <div class="tag">★ camp opens</div>
+      </div>
+      <div class="day-body">
+        <h3>Opening day. The first ascent of Mt. Burgess is a trail-scouting mission.</h3>
+        <blockquote>
+          Working at Camp all day.<br><br>
+          <span class="uncertain">[Wilfrid?]</span> — Edward Feuz, Dr. Herdman &amp; <span class="uncertain">[Christian?]</span> Feuz made <strong>the first climb of the peak Burgess to pick out the trails</strong>.<br><br>
+          Showers during afternoon.<br><br>
+          A large number of people arrived at CPR Hotel &amp; <span class="uncertain">[filed?]</span> due for the Camp.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> The ACC's inaugural day is a logistical and reconnaissance operation, not a celebration. The lead guides — Edward Feuz, Christian Feuz, and Dr. J.C. Herdman — climb Mt. Burgess not for sport but to pick routes for the rest of the week. Afternoon thunder. Attendees disembark at Field and are funneled up to the pass.
+        </div>
+        <a class="facsimile clickable" href="#" onclick="openLB(event,'../people/arthur-wheeler/daytimer_pages/1906_jul08_sun_OPEN.png')">
+          <img src="../people/arthur-wheeler/daytimer_pages/1906_jul08_sun_OPEN.png" alt="Wheeler July 8 1906 daytimer page">
+          <div class="cap">Wheeler daytimer, July 8, 1906</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Monday</div>
+        <div class="dm">09</div>
+        <div class="y">JULY 1906</div>
+      </div>
+      <div class="day-body">
+        <h3>4 a.m. start. Wheeler gives his ponies to visitors.</h3>
+        <blockquote>
+          Up at 4 a.m. — Rode in to Field — Met a lot of people riding and driving out to the Camp. When I got to the Hotel found that they had nearly all gone. Gave two of my ponies to visitors and <span class="uncertain">[then]</span> had looked after the luggage. Returned by <span class="uncertain">[rig]</span> to Chalet. From here walked to Camp — overtaking <strong>Miss Campbell</strong> on the way. Spent balance of the day at Camp making [it ready].
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> Camp fully populated by nightfall. Wheeler himself arrived on foot after making the entire transfer happen.
+        </div>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Tuesday</div>
+        <div class="dm">10</div>
+        <div class="y">JULY 1906</div>
+      </div>
+      <div class="day-body">
+        <h3>First official climbs dispatched. Mt. Stephen. Mt. President.</h3>
+        <blockquote>
+          Got first party off on official climb — <span class="uncertain">[Mt. Stephen]</span>. Got party off on climb of Mt. Pres<span class="uncertain">[ident]</span>. Dr. Herdman took party to Emerald Glacier. Busy all day settling things and getting ready for Yoho trip tomorrow.<br><br>
+          Big gathering around Camp fire at night.<br><br>
+          Thunder &amp; lightning during afternoon. Rain heavy.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> Three ropes on three peaks. Afternoon electrical storm. Evening campfire — the first ACC tradition.
+        </div>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Wednesday</div>
+        <div class="dm">11</div>
+        <div class="y">JULY 1906</div>
+      </div>
+      <div class="day-body">
+        <h3>First Yoho Valley party departs. Mt. Wapta climbed.</h3>
+        <blockquote>
+          Got official climbing party off <span class="uncertain">[on tour]</span>. As soon as possible got off 1st Yoho party. Dr. Herdman off with a party to the Emerald Glacier.<br><br>
+          Day fine. People coming and going. Every one happy and pleased. Climb of Mt. Wapta.
+        </blockquote>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Thursday</div>
+        <div class="dm">12</div>
+        <div class="y">JULY 1906</div>
+      </div>
+      <div class="day-body">
+        <h3>Second Mt. Wapta climb. Herdman → Mt. Field. Heelis → Lookout Point.</h3>
+        <blockquote>
+          Official climbing party off as usual. Yoho party started in good time. Climb of Mt. Wapta. Mr. Herdman took a party up Mt. Field. <span class="uncertain">[Heelis?]</span> took a Party to Lookout Pt.<br><br>
+          Day showery but generally fine. Big gathering around camp fire last night.
+        </blockquote>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Friday</div>
+        <div class="dm">13</div>
+        <div class="y">JULY 1906</div>
+        <div class="tag">★ coleman auction</div>
+      </div>
+      <div class="day-body">
+        <h3>A.P. Coleman auctions ice axes, raising over $75 — the first ACC fundraiser.</h3>
+        <blockquote>
+          Official and Yoho parties went off as usual. Other small parties here &amp; there during the day. Mrs. Bridgland made <span class="uncertain">[solo]</span> climb of Mt. Wapta. <br><br>
+          <strong><span class="uncertain">[Sale]</span> of ice axes by Mr. Coleman — realized over $75.00.</strong><br><br>
+          Good time around the Camp fire afterwards.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> This is likely the earliest recorded ACC fundraising event. $75 in 1906 is roughly $2,500 in 2026 dollars. Mrs. Bridgland's solo Wapta climb — Morrison Parsons Bridgland's wife — is not listed in the camp roster but is recorded here in Wheeler's hand.
+        </div>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Saturday</div>
+        <div class="dm">14</div>
+        <div class="y">JULY 1906</div>
+      </div>
+      <div class="day-body">
+        <h3>Last official climb. Wheeler bivouacs under a tree at Laughing Falls.</h3>
+        <blockquote>
+          Last Official Climb took place today — Trip round Yoho. Packing Section went with material to mark <span class="uncertain">[Glacier]</span>. Camped for the night at the usual stopping place — the Laughing Falls. Clara and <span class="uncertain">[Forrester]</span> with me — slept under a tree.<br><br>
+          Day very fine &amp; hot.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> The "Packing Section went with material to mark Glacier" — this is the support party advancing equipment for the Vaux-Wheeler glacier survey to take place the next day. Clara is Wheeler's wife. He slept under a tree.
+        </div>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Sunday</div>
+        <div class="dm">15</div>
+        <div class="y">JULY 1906</div>
+        <div class="tag">★ glacier day</div>
+      </div>
+      <div class="day-body">
+        <h3>The Vaux brothers and Wheeler survey Yoho Glacier all day.</h3>
+        <blockquote>
+          Up early &amp; walked to Yoho Glacier — there worked all day at Glacier setting out plates &amp; marking rocks — taking photographs at every point &amp; plotted by <span class="uncertain">[horse]</span> &amp; instrumental readings.<br><br>
+          <strong>Vaux Bros. there helping.</strong><br><br>
+          Walked back to Yoho Camp — had a lunch at the Vaux Camp as we passed. Arrived at Yoho Camp <span class="uncertain">[where]</span> service was being held.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> The measurement taken this day — 76 feet 7 inches from the 1901 bedrock mark — is published later that year in the Proceedings of the Academy of Natural Sciences of Philadelphia. It is the cross-source confirmation at the heart of this reconstruction. There were <em>two camps</em>: the main ACC Yoho Camp and a separate Vaux family camp. Divine service was held at the main camp on Sunday evening; the glaciology team arrived back late.
+        </div>
+        <a class="facsimile clickable" href="#" onclick="openLB(event,'../people/arthur-wheeler/daytimer_pages/1906_jul15_sun.png')">
+          <img src="../people/arthur-wheeler/daytimer_pages/1906_jul15_sun.png" alt="Wheeler July 15 1906">
+          <div class="cap">Wheeler daytimer, July 15, 1906 — the Vaux entry</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Monday</div>
+        <div class="dm">16</div>
+        <div class="y">JULY 1906</div>
+        <div class="tag">★ camp closes</div>
+      </div>
+      <div class="day-body">
+        <h3>Camp breaks up. Mt. Marpole party leaves late without guides.</h3>
+        <blockquote>
+          Camp commenced to break up. Parties making climb of Mt. Marpole left very late — no guides. Commenced to take tents down. Busy all day helping people going away, settling their accounts.<br><br>
+          Some rain in afternoon. Marpole party got back late — drenched to the skin but very joyful. Came home very jolly &amp; supper — Yoho.
+        </blockquote>
+      </div>
+    </div>
+
+    <div class="day">
+      <div class="day-date">
+        <div class="dow">Tuesday</div>
+        <div class="dm">17</div>
+        <div class="y">JULY 1906</div>
+        <div class="tag">the last to leave</div>
+      </div>
+      <div class="day-body">
+        <h3>Elizabeth Parker was the last attendee to leave the Yoho Pass camp.</h3>
+        <blockquote>
+          Busy all day dismantling camp. All people gone except <strong>Miss Parker &amp; the Parkers</strong>. Fine day. Got most of tents down. Turned <span class="uncertain">[over]</span> supplies to cook Rankin.
+        </blockquote>
+        <div class="notes">
+          <strong>On the ground:</strong> Elizabeth Parker — the Manitoba Free Press journalist who had first proposed the founding of a Canadian alpine club in 1905 — was still there on the morning after everyone else had gone. She and her daughter Jean were the final departures from the ACC's first camp.
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ============ THE PEOPLE ============ -->
+<section id="people" class="wide">
+  <span class="label">Section III — The People</span>
+  <h2><span class="num">III</span>Twenty attendees, in their own archives.</h2>
+  <p class="lede">
+    Thirty-three people were at the 1906 camp. This reconstruction has located digital archival holdings for twenty of them across two institutions: the <strong>Whyte Museum of the Canadian Rockies</strong> in Banff, and the <strong>Internet Archive</strong>'s open-access scans of period scientific papers. The other thirteen attendees — guides and guests whose papers either never survived or remain undigitized — are named in the camp roster but have no current digital trace.
+  </p>
+
+  <div class="people-grid">
+
+    <div class="person has-holdings">
+      <h4>Arthur Oliver Wheeler</h4>
+      <div class="role">Camp director · ACC co-founder</div>
+      <p class="bio">Dominion Land Surveyor, driving force behind the ACC's founding in 1906. Directed the camp, managed logistics, and personally participated in the glacier survey on July 15.</p>
+      <div class="holdings"><strong>3 items · 129 MB</strong><br>Whyte M546 — Daytimer 1906 (359 pp.), Scrapbook Vol. 1, Wheeler Family Album</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>George Vaux, Jr.</h4>
+      <div class="role">Glaciologist · photographer · Philadelphia</div>
+      <p class="bio">Lawyer by profession, amateur glaciologist by passion. Co-author of the 1906 paper that corroborates Wheeler's diary entry to the exact day. Attended with his sister Mary and brother William.</p>
+      <div class="holdings"><strong>35 items · 25 MB</strong> · 25 confirmed 1906/Yoho<br>Whyte V653 Vaux family photographs</div>
+    </div>
+
+    <div class="person has-ia">
+      <h4>William S. Vaux, Jr.</h4>
+      <div class="role">Engineer · photographer · glaciologist</div>
+      <p class="bio">The youngest Vaux sibling, engineer, photographer. Published multiple glacier observation papers between 1899 and 1907. Died in 1908, two years after the camp.</p>
+      <div class="holdings"><strong>5 papers · 9 MB</strong><br>Internet Archive: 1899, 1900, 1901, 1906, 1907 glacier papers</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Mary M. Vaux</h4>
+      <div class="role">Botanical artist · glaciologist</div>
+      <p class="bio">Painted Rocky Mountain wildflowers that would eventually form her five-volume <em>North American Wild Flowers</em> at the Smithsonian. Later married Charles Doolittle Walcott of Burgess Shale fame — but in 1906 she was simply one of three Vaux siblings camped at Yoho.</p>
+      <div class="holdings"><strong>10 items · 11 MB</strong><br>Whyte V653 Vaux photographs</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Elizabeth Parker</h4>
+      <div class="role">ACC co-founder · journalist · last to leave</div>
+      <p class="bio">Manitoba Free Press journalist whose 1905 editorial proposing a Canadian alpine club led directly to the founding of the ACC. Last person to leave the 1906 camp — still there with her daughter Jean on the morning of July 17.</p>
+      <div class="holdings"><strong>3 items</strong><br>Whyte V14 Parker display photographs, ACC fonds — annual meeting photograph identifying her as secretary</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Edward Feuz, Jr.</h4>
+      <div class="role">Swiss guide · first Mt. Burgess ascent</div>
+      <p class="bio">Lead CPR Swiss guide. Made the first climb of Mt. Burgess on opening day with his brother Christian and Dr. Herdman — not for sport, but to pick out the trails the camp would use all week.</p>
+      <div class="holdings"><strong>12 items · 5 MB</strong><br>Whyte V200 Edward Feuz fonds, incl. descriptions49447 "Canadian Alpine Club camp — Yoho — 1906" (literal match)</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Byron Harmon</h4>
+      <div class="role">Photographer · ACC official photographer</div>
+      <p class="bio">Official photographer of the 1906 camp. His Whyte Museum negatives include numbered 1906 camp photographs and views of climbing on the Yoho Glacier.</p>
+      <div class="holdings"><strong>8 items · 25 MB</strong> · 5 confirmed 1906/ACC camp<br>Whyte V263 Byron Harmon photographic fonds — incl. "549. ACC camp, Yoho" and "558. ACC camp, Yoho Glacier"</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>F.W. Freeborn</h4>
+      <div class="role">ACC member · album-maker</div>
+      <p class="bio">Compiled the <em>Canadian Mountains</em>, <em>July and August</em>, and <em>Camps of the Alpine Club of Canada</em> albums — early amateur documentation of the first decade of ACC camps.</p>
+      <div class="holdings"><strong>9 items · 57 MB</strong><br>Whyte V14 ACC fonds — four full album PDFs</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Mrs. Haddon G. Wheeler (Clara)</h4>
+      <div class="role">Wheeler's wife · camp companion</div>
+      <p class="bio">Accompanied Arthur on the overnight bivouac at Laughing Falls on July 14, night before the glacier survey day.</p>
+      <div class="holdings"><strong>12 items · 263 MB</strong><br>Whyte Wheeler family album holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>E.O. Wheeler</h4>
+      <div class="role">Wheeler's son · future surveyor</div>
+      <p class="bio">Arthur's son, later himself a mountaineer and Surveyor General of India. In 1906 he was 16 years old, at camp with his parents.</p>
+      <div class="holdings"><strong>7 items · 99 MB</strong><br>Whyte Wheeler family holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Morrison Parsons Bridgland</h4>
+      <div class="role">Surveyor · climber</div>
+      <p class="bio">Worked with Wheeler on the phototopographic surveys that gave us the Mountain Legacy Project baseline. Attended with his wife, who made a solo Mt. Wapta climb on July 13 — attested only by Wheeler's diary.</p>
+      <div class="holdings"><strong>2 items · 22 MB</strong><br>Whyte holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Dr. J.C. Herdman</h4>
+      <div class="role">Guide · physician · trip leader</div>
+      <p class="bio">Led the Emerald Glacier parties on July 10 and 11. Was on the Mt. Burgess reconnaissance climb on opening day. Led a party up Mt. Field on July 12.</p>
+      <div class="holdings"><strong>1 item</strong><br>Whyte holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Gottfried Feuz</h4>
+      <div class="role">Swiss guide</div>
+      <p class="bio">Youngest of the three Feuz brothers at camp, photographed with Edward in the Barnes fonds.</p>
+      <div class="holdings"><strong>3 items · 3 MB</strong><br>Whyte V200 Feuz fonds</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Jean Parker</h4>
+      <div class="role">Elizabeth's daughter</div>
+      <p class="bio">Accompanied her mother at the 1906 camp and was among the last attendees to leave on July 17.</p>
+      <div class="holdings"><strong>2 items · 4 MB</strong><br>Whyte V14 ACC fonds</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Ralph Connor (Rev. Charles Gordon)</h4>
+      <div class="role">Novelist · presbyterian minister</div>
+      <p class="bio">Wildly popular Canadian novelist of the era, writing under the pen name Ralph Connor. Preached at the Sunday service on July 15, 1906.</p>
+      <div class="holdings"><strong>2 items</strong><br>Whyte holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>Julia Henshaw</h4>
+      <div class="role">Writer · climber · camp contributor</div>
+      <p class="bio">Vancouver journalist, mountain-wildflower author, early ACC climber.</p>
+      <div class="holdings"><strong>1 item</strong><br>Whyte holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>George Kinney</h4>
+      <div class="role">Climber · minister · future Mt. Robson attempt</div>
+      <p class="bio">Methodist minister and mountaineer who would later claim a disputed first ascent of Mt. Robson in 1909. In 1906 he was one of the active climbers at Yoho.</p>
+      <div class="holdings"><strong>3 items</strong><br>Whyte holdings</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>E.C. Barnes</h4>
+      <div class="role">Photographer · ACC member</div>
+      <p class="bio">Amateur photographer whose V48 fonds at the Whyte includes pictures of the Swiss guides at work — including the Feuz brothers.</p>
+      <div class="holdings"><strong>3 items · 2 MB</strong><br>Whyte V48 Barnes fonds</div>
+    </div>
+
+    <div class="person has-holdings">
+      <h4>J.D. Patterson, P.D. McTavish, R.E. Campbell</h4>
+      <div class="role">Guides · outfitters · support staff</div>
+      <p class="bio">Named in the Wheeler diary; each has at least one artifact in the Whyte Museum.</p>
+      <div class="holdings"><strong>3 items across three people</strong><br>Whyte holdings</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ============ GALLERY ============ -->
+<section id="gallery" class="wide">
+  <span class="label">Section IV — The Photographs</span>
+  <h2><span class="num">IV</span>Selected plates.</h2>
+  <p class="lede">
+    Every image on this page is clickable and is drawn from the same archival holdings listed in Section III.
+    Where a Whyte Museum permalink is given, you can click through to the original catalog record.
+  </p>
+
+  <div class="gallery">
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/byron-harmon/artifacts/descriptions26725_wmcr-harmonb-v263-na-0222.jpg')">
+        <img src="../people/byron-harmon/artifacts/descriptions26725_wmcr-harmonb-v263-na-0222.jpg" alt="Yoho Valley camp near Takakkaw">
+      </a>
+      <div class="cap">Yoho Valley camp near Takakkaw</div>
+      <div class="src">Byron Harmon · Whyte V263 · <a href="https://archives.whyte.org/en/permalink/descriptions26725">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/byron-harmon/artifacts/descriptions26726_wmcr-harmonb-v263-na-0223.jpg')">
+        <img src="../people/byron-harmon/artifacts/descriptions26726_wmcr-harmonb-v263-na-0223.jpg" alt="Climbing on Yoho Glacier ACC camp">
+      </a>
+      <div class="cap">E-57. Climbing on Yoho Glacier (ACC camp)</div>
+      <div class="src">Byron Harmon · Whyte V263 · <a href="https://archives.whyte.org/en/permalink/descriptions26726">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/byron-harmon/artifacts/descriptions26666_wmcr-harmonb-v263-na-0163.jpg')">
+        <img src="../people/byron-harmon/artifacts/descriptions26666_wmcr-harmonb-v263-na-0163.jpg" alt="Yoho mountain ACC">
+      </a>
+      <div class="cap">Yoho — mountain (ACC)</div>
+      <div class="src">Byron Harmon · Whyte V263 · <a href="https://archives.whyte.org/en/permalink/descriptions26666">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/byron-harmon/artifacts/descriptions26748_wmcr-harmonb-v263-na-0246.jpg')">
+        <img src="../people/byron-harmon/artifacts/descriptions26748_wmcr-harmonb-v263-na-0246.jpg" alt="Little Yoho Falls">
+      </a>
+      <div class="cap">Little Yoho Falls, Yoho Valley</div>
+      <div class="src">Byron Harmon · Whyte V263 · <a href="https://archives.whyte.org/en/permalink/descriptions26748">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/edouard-feuz/artifacts/descriptions49447_v200_13_na66_184.jpg')">
+        <img src="../people/edouard-feuz/artifacts/descriptions49447_v200_13_na66_184.jpg" alt="Canadian Alpine Club camp Yoho 1906">
+      </a>
+      <div class="cap">"Canadian Alpine Club camp — Yoho — 1906"</div>
+      <div class="src">Edward Feuz fonds · Whyte V200 · <a href="https://archives.whyte.org/en/permalink/descriptions49447">record</a> · literal year match</div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/edouard-feuz/artifacts/descriptions37634_wmcr-barnes-v48-na-268.jpg')">
+        <img src="../people/edouard-feuz/artifacts/descriptions37634_wmcr-barnes-v48-na-268.jpg" alt="Swiss Guides Feuz brothers">
+      </a>
+      <div class="cap">Swiss Guides — Edward Feuz Jr. and Gottfried Feuz</div>
+      <div class="src">E.C. Barnes fonds · Whyte V48 · <a href="https://archives.whyte.org/en/permalink/descriptions37634">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/george-vaux/artifacts/descriptions34196_wmcr-vaux-1v-v653-ps-098.jpg')">
+        <img src="../people/george-vaux/artifacts/descriptions34196_wmcr-vaux-1v-v653-ps-098.jpg" alt="Emerald Group from Wapta Yoho 1906">
+      </a>
+      <div class="cap">"Emerald Group from Wapta, Yoho 1906"</div>
+      <div class="src">Vaux family · Whyte V653 · <a href="https://archives.whyte.org/en/permalink/descriptions34196">record</a> · <strong>hero image</strong></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/george-vaux/artifacts/descriptions34193_wmcr-vaux-1v-v653-ps-095.jpg')">
+        <img src="../people/george-vaux/artifacts/descriptions34193_wmcr-vaux-1v-v653-ps-095.jpg" alt="Looking back from Wapta Glacier">
+      </a>
+      <div class="cap">Looking back from Fort, Wapta Glacier, Yoho Valley</div>
+      <div class="src">Vaux family · Whyte V653 · <a href="https://archives.whyte.org/en/permalink/descriptions34193">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/george-vaux/artifacts/descriptions34158_wmcr-vaux-1v-v653-ps-058.jpg')">
+        <img src="../people/george-vaux/artifacts/descriptions34158_wmcr-vaux-1v-v653-ps-058.jpg" alt="Seracs Illecillewaet Glacier 1901 Mary Vaux">
+      </a>
+      <div class="cap">"Seracs, Illecillewaet Glacier, 1901" / Mary M. Vaux</div>
+      <div class="src">Vaux family · Whyte V653 · <a href="https://archives.whyte.org/en/permalink/descriptions34158">record</a> · by Mary Vaux</div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/elizabeth-parker/artifacts/descriptions49267_v14_ac55_5_984_na66_2131.jpg')">
+        <img src="../people/elizabeth-parker/artifacts/descriptions49267_v14_ac55_5_984_na66_2131.jpg" alt="Annual meeting of Alpine Club of Canada secretary Elizabeth Parker">
+      </a>
+      <div class="cap">Annual meeting of the Alpine Club of Canada — secretary Elizabeth Parker</div>
+      <div class="src">ACC fonds · Whyte V14 · <a href="https://archives.whyte.org/en/permalink/descriptions49267">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/arthur-wheeler/daytimer_pages/1906_jul13_fri.png')">
+        <img src="../people/arthur-wheeler/daytimer_pages/1906_jul13_fri.png" alt="Wheeler July 13 1906 ice axe auction">
+      </a>
+      <div class="cap">Wheeler's daytimer — July 13, 1906, the Coleman ice-axe auction</div>
+      <div class="src">Whyte M546 / 13 · <a href="https://archives.whyte.org/en/permalink/descriptions23111">record</a></div>
+    </div>
+
+    <div class="g-item">
+      <a href="#" onclick="openLB(event,'../people/arthur-wheeler/daytimer_pages/1906_jul16_mon_CLOSE.png')">
+        <img src="../people/arthur-wheeler/daytimer_pages/1906_jul16_mon_CLOSE.png" alt="Wheeler July 16 1906 camp closes">
+      </a>
+      <div class="cap">Wheeler's daytimer — July 16, 1906, camp closes</div>
+      <div class="src">Whyte M546 / 13 · <a href="https://archives.whyte.org/en/permalink/descriptions23111">record</a></div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ============ SOURCES ============ -->
+<section id="sources" class="sources">
+  <div class="container" style="max-width:1200px; margin:0 auto;">
+    <div style="text-align:center;"><span class="label">Section V — The Sources</span></div>
+    <h2>Every image and quotation on this page points at an archive.</h2>
+    <p class="lede">
+      BASECAMP is built from 129 archival files totaling 687 megabytes, across two source institutions.
+      Nothing on this page is drawn from Wikipedia, Wikimedia, blogs, or secondary internet sources.
+    </p>
+
+    <div class="sources-grid">
+
+      <div class="src-card">
+        <h4>Whyte Museum of the Canadian Rockies</h4>
+        <div class="sub">Banff, Alberta — archives.whyte.org</div>
+        <div class="stat">121</div>
+        <div class="sub">FILES · 664 MB</div>
+        <p>
+          Wheeler daytimers (M546), Wheeler family albums (V771, V822), Vaux family photographs (V653), Byron Harmon photographic fonds (V263), Edward Feuz fonds (V200), F.W. Freeborn albums (V14), E.C. Barnes fonds (V48), Alpine Club of Canada institutional fonds (V14).
+        </p>
+        <p>
+          <a href="https://archives.whyte.org/">archives.whyte.org</a>
+        </p>
+      </div>
+
+      <div class="src-card">
+        <h4>Internet Archive</h4>
+        <div class="sub">San Francisco — archive.org</div>
+        <div class="stat">8</div>
+        <div class="sub">PAPERS · 15 MB · open access</div>
+        <p>
+          Seven published glacier-observation papers by George Vaux Jr. and William S. Vaux (1899–1907), including the December 1906 Yoho Valley measurement that corroborates Wheeler's diary.
+          Scanned from original issues of the Proceedings of the Academy of Natural Sciences of Philadelphia.
+        </p>
+        <p>
+          <a href="https://archive.org/details/jstor-4063109">jstor-4063109 — 1906 paper</a>
+        </p>
+      </div>
+
+      <div class="src-card">
+        <h4>Wheeler Personal Daytimer 1906</h4>
+        <div class="sub">The narrative spine</div>
+        <div class="stat">359</div>
+        <div class="sub">PAGES · 30.9 MB · scanned PDF</div>
+        <p>
+          Whyte Museum M546 / item 13. Entirely 1906. Pencil cursive throughout — unreadable by OCR.
+          Transcribed by visual reading for the camp window July 7–17. The full transcription lives at
+          <br><br>
+          <code style="font-size:0.8rem;">people/arthur-wheeler/daytimer_pages/<br>TRANSCRIPTION_1906_camp_window.md</code>
+        </p>
+      </div>
+
+      <div class="src-card">
+        <h4>Still outstanding</h4>
+        <div class="sub">For a future pass</div>
+        <div class="stat" style="font-size:1rem; padding-top:1.25rem;">LAC · MLP · ANSP · SIRIS</div>
+        <p>
+          Library and Archives Canada Parker/Yeigh/Wheeler holdings (JavaScript-heavy search UI, not scriptable).
+          Mountain Legacy Project repeat photographs of Wheeler's plates (explorer offline; requires email to Prof. Higgs at UVic).
+          ANSP Vaux Family Papers (photo albums, unpublished field notebooks).
+          Smithsonian SIRIS Mary Vaux Walcott pre-1914 material (API gated).
+          All have structured leads in the fonds JSON.
+        </p>
+      </div>
+
+    </div>
+
+    <div class="proof-conclusion" style="color:#d4cfc7; border-color:rgba(242,235,221,0.2); max-width:760px; margin-top:4rem;">
+      The camp ran for nine days. The reconstruction took 120 years. Thank you to the Whyte Museum, the Academy of Natural Sciences of Philadelphia, and the Internet Archive for keeping these materials open.
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="anniversary">ACC 120TH ANNIVERSARY · YOHO PASS · 8 JULY 2026</div>
+  BASECAMP · A primary-source reconstruction of the first Alpine Club of Canada camp<br>
+  Built for Friends of Yoho · No Wikipedia, no secondary sources · Every citation points at an archive
+</footer>
+
+</main>
+
+<div class="lightbox" id="lb" onclick="closeLB()">
+  <span class="close">×</span>
+  <img id="lbImg" src="" alt="">
+</div>
+
+<script>
+function openLB(e,src){
+  if(e) e.preventDefault();
+  document.getElementById('lbImg').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function closeLB(){
+  document.getElementById('lb').classList.remove('open');
+}
+document.addEventListener('keydown', e => { if(e.key==='Escape') closeLB(); });
+
+// Make any .clickable image open in lightbox
+document.querySelectorAll('img.clickable, .clickable img').forEach(img => {
+  img.addEventListener('click', e => {
+    e.preventDefault(); e.stopPropagation();
+    openLB(null, img.src);
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+{
+  "person_id": "william-s-vaux-jr",
+  "display_name": "William S. Vaux Jr.",
+  "vital_dates": "1872-1908",
+  "researched_on": "2026-04-10",
+  "research_status": "preliminary",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "V653",
+      "fonds_title": "Vaux family fonds (shared with George Vaux Jr. and Mary Vaux)",
+      "url": "https://archives.whyte.org/en/list?q=setName:%22Vaux+family+fonds%22",
+      "scope": "Photography, glacier observations, correspondence, publications. Includes photographic sequences from 1897-1913 of Illecillewaet, Yoho, and Asulkan glaciers. Lantern slides, photographs, postcards, prints, negatives.",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "total_records": 3054,
+      "photographs_1906": 260,
+      "findings": "Found 260 photographs dated 1906 in V653. William S. Vaux Jr. was co-photographer and glacier observer with his brother George Jr. Series V653/I/Y contains nitrate negatives from 1906-1909. Series V653/PA contains 114 prints (1897-1907) of mountain landscape, railway, and glacier views. Multiple series with Yoho Pass, Emerald Lake, and glacier monitoring materials.",
+      "notes": "William S. Vaux Jr. (1872-1908) was the younger brother. Died at age 36, limiting the extent of his documented work to the period before his death. The 1906 Yoho camp attendance represents a significant documented expedition during his lifetime. Together with George Jr., William participated in establishing repeat photography protocols for glacier monitoring.",
+      "sample_catalogues": [
+        "V653/PS-3 (hand-coloured postcard, 1900-1906, hand-coloured by sister Mary M. Vaux)",
+        "V653/PS-74 (between 1900-1906)",
+        "V653/PS-89 (Selkirk Mountains, 1900-1906)",
+        "V653/I/Y (nitrate negatives, 1906-1909, 3 files)",
+        "V653/PA-1 to PA-114 (prints, 1897-1907, glacier and mountain views)"
+      ]
+    }
+  ],
+  "digital_assets_downloaded": [],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Friends Historical Library, Swarthmore College",
+      "reason": "Quaker family archives; potential biographical and family correspondence materials",
+      "contact": "https://www.swarthmore.edu/friends-historical-library"
+    },
+    {
+      "institution": "Parks Canada Heritage Programs",
+      "reason": "Vaux glacier repeat photography archives (joint project with George Jr.)",
+      "contact": "Parks Canada national office or Yoho National Park"
+    },
+    {
+      "institution": "Canadian Alpine Club Archives",
+      "reason": "1906 ACC camp records and participant documentation",
+      "contact": "ACC national office"
+    }
+  ],
+  "note_primary_fonds": "See george-vaux/fonds.json for primary detailed record. William S. Vaux Jr. materials are documented as part of the shared Vaux family fonds V653 at Whyte Museum. This record serves as a cross-reference for researchers focusing on William Jr.'s specific contributions to the 1906 expedition and glacier photography."
+}

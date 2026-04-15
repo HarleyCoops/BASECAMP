@@ -1,0 +1,46 @@
+{
+  "person": "ec-barnes",
+  "source": "Whyte Museum",
+  "queries": [
+    "e.c.+barnes",
+    "barnes+alpine+1906"
+  ],
+  "downloaded": 3,
+  "total_bytes": 1800961,
+  "items": [
+    {
+      "pid": "descriptions37967",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions37967",
+      "title": "[Alpine Club members at Yoho Glacier (?)] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Barnes/wmcr-barnes-v48-lc-na66-1566.jpg",
+      "downloaded": true,
+      "file": "descriptions37967_wmcr-barnes-v48-lc-na66-1566.jpg",
+      "bytes": 665306,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions37968",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions37968",
+      "title": "[Alpine Club members at Yoho Glacier (?)] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Barnes/wmcr-barnes-v48-lc-na66-1567.jpg",
+      "downloaded": true,
+      "file": "descriptions37968_wmcr-barnes-v48-lc-na66-1567.jpg",
+      "bytes": 1068644,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions55021",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions55021",
+      "title": "Wildlife - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Luxton/lux_i_d6c_web/lux_i_d6c_pa_01.jpg",
+      "downloaded": true,
+      "file": "descriptions55021_lux_i_d6c_pa_01.jpg",
+      "bytes": 67011,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 2
+}

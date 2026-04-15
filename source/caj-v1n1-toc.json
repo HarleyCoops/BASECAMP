@@ -1,0 +1,63 @@
+{
+  "journal": "Canadian Alpine Journal",
+  "volume": 1,
+  "number": 1,
+  "year": 1907,
+  "publisher": "Alpine Club of Canada",
+  "printer": "Herald Company, Limited, Calgary, Alberta",
+  "price": "75 cents, post paid",
+  "patron": "Sir Sandford Fleming, K.C.M.G.",
+  "pdf_path": "ResearchCorpus/downloads/books/canadianalpinejo01EmeraldLake.pdf",
+  "wikisource_base": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1",
+  "sections": [
+    {
+      "section": "MISCELLANEOUS",
+      "articles": [
+        {"num": 1, "slug": "greetings-whyte", "title": "Greetings", "author": "William Whyte", "author_role": "Second Vice-President, Canadian Pacific Railway", "page": 1, "wikisource_path": "/Greetings"},
+        {"num": 2, "slug": "alpine-club-parker", "title": "The Alpine Club of Canada", "author": "Elizabeth Parker", "page": 3, "wikisource_path": "/The_Alpine_Club_of_Canada"},
+        {"num": 3, "slug": "memories-fleming", "title": "Memories of the Mountains", "author": "Sir Sandford Fleming, K.C.M.G.", "page": 9, "wikisource_path": "/Memories_of_the_Mountains"},
+        {"num": 4, "slug": "all-red-line", "title": "Biographical Sketch -- The All Red Line", "author": "Editorial", "page": 34, "wikisource_path": "/Biographical_Sketch%E2%80%94The_All_Red_Line"},
+        {"num": 5, "slug": "canadian-rockies-field-wheeler", "title": "The Canadian Rockies, a field for an Alpine Club", "author": "Arthur O. Wheeler, F.R.G.S.", "page": 36, "wikisource_path": "/The_Canadian_Rockies,_a_Field_for_an_Alpine_Club"},
+        {"num": 6, "slug": "first-camp-yeigh", "title": "Canada's First Alpine Club Camp", "author": "Frank Yeigh", "page": 47, "wikisource_path": "/Canada%27s_First_Alpine_Club_Camp"},
+        {"num": 7, "slug": "climbed-cascade-gordon", "title": "How We Climbed Cascade", "author": "Rev. C. W. Gordon (Ralph Connor)", "page": 58, "wikisource_path": "/How_We_Climbed_Cascade"},
+        {"num": 8, "slug": "camping-rockies-vaux", "title": "Camping in the Canadian Rockies", "author": "Mary M. Vaux", "page": 67, "wikisource_path": "/Camping_in_the_Canadian_Rockies"}
+      ]
+    },
+    {
+      "section": "MOUNTAINEERING",
+      "articles": [
+        {"num": 9, "slug": "ascent-goodsir-fay", "title": "The Ascent of Mt. Goodsir", "author": "Chas. E. Fay, Litt.D., President American Alpine Club", "page": 72, "wikisource_path": "/The_Ascent_of_Mt._Goodsir"},
+        {"num": 10, "slug": "ascent-hungabee-parker", "title": "The Ascent of Mt. Hungabee", "author": "Herschel C. Parker, Ph.D.", "page": 80, "wikisource_path": "/The_Ascent_of_Mt._Hungabee"},
+        {"num": 11, "slug": "ascent-ball-patterson", "title": "The Ascent of Mt. Ball", "author": "John D. Patterson", "page": 85, "wikisource_path": "/The_Ascent_of_Mt._Ball"},
+        {"num": 12, "slug": "ascent-assiniboine-benham", "title": "The Ascent of Mt. Assiniboine", "author": "Gertrude E. Benham", "page": 90, "wikisource_path": "/The_Ascent_of_Mt._Assiniboine"},
+        {"num": 13, "slug": "ascent-hermit-gray", "title": "The Ascent of Mt. Hermit", "author": "Rev. S. H. Gray", "page": 95, "wikisource_path": "/The_Ascent_of_Mt._Hermit"},
+        {"num": 14, "slug": "ascent-bagheera-jackson", "title": "The First Ascent of Central Peak of Mt. Bagheera", "author": "W. S. Jackson", "page": 100, "wikisource_path": "/The_First_Ascent_of_Central_Peak_of_Mt._Bagheera"},
+        {"num": 15, "slug": "ascent-macoun-herdman", "title": "The Ascent of Mt. Macoun", "author": "Rev. J. C. Herdman, D.D.", "page": 104, "wikisource_path": "/The_Ascent_of_Mt._Macoun"},
+        {"num": 16, "slug": "climb-crows-nest-mctavish", "title": "The Climb of Crow's Nest Mountain", "author": "P. D. McTavish", "page": 108, "wikisource_path": "/The_Climb_of_Crow%27s_Nest_Mountain"},
+        {"num": 17, "slug": "ascents-marpole-amgadamo", "title": "The Ascents of Mts. Marpole and Amgadamo", "author": "Revs. A. M. Gordon, Alex. Dunn and A. O. MacRae", "page": 115, "wikisource_path": "/The_Ascents_of_Mts._Marpole_and_Amgadamo"},
+        {"num": 18, "slug": "mt-stephen-kinney", "title": "Mt. Stephen", "author": "Rev. G. R. B. Kinney", "page": 118, "wikisource_path": "/Mt._Stephen"}
+      ]
+    },
+    {
+      "section": "SCIENTIFIC",
+      "articles": [
+        {"num": 19, "slug": "wildflowers-henshaw", "title": "The Mountain Wildflowers of Western Canada", "author": "Julia W. Henshaw", "page": 130, "wikisource_path": "/The_Mountain_Wildflowers_of_Western_Canada"},
+        {"num": 20, "slug": "glacier-observations-vaux", "title": "Glacier Observations", "author": "Geo. Vaux, Jr. and William S. Vaux", "page": 138, "wikisource_path": "/Glacier_Observations"},
+        {"num": 21, "slug": "yoho-glacier-wheeler", "title": "Observations of the Yoho Glacier", "author": "Arthur O. Wheeler, F.R.G.S.", "page": 149, "wikisource_path": "/Observations_of_the_Yoho_Glacier"}
+      ]
+    },
+    {
+      "section": "OFFICIAL",
+      "articles": [
+        {"num": 22, "slug": "glossary-wheeler", "title": "Glossary of Mountaineering Terms", "author": "Arthur O. Wheeler", "page": 123, "wikisource_path": "/Glossary_of_Mountaineering_Terms"},
+        {"num": 23, "slug": "yoho-camp-report", "title": "Report of the Yoho Camp, July, 1906", "author": "Official", "page": 169, "wikisource_path": "/Report_of_the_Yoho_Camp,_July,_1906"},
+        {"num": 24, "slug": "members-list", "title": "List of Members", "author": "Official", "page": 182, "wikisource_path": "/List_of_Members"}
+      ]
+    }
+  ],
+  "maps": [
+    {"title": "The All-Red Line Around the World", "page": 34, "accompanies": "Biographical Sketch -- The All Red Line"},
+    {"title": "The Tongue and Moraines of the Illecillewaet Glacier", "page": 142, "accompanies": "Glacier Observations", "authors": "Geo. and W. S. Vaux"},
+    {"title": "The Wapta Icefield", "page": 156, "accompanies": "Observations of the Yoho Glacier", "authors": "Arthur O. Wheeler"}
+  ]
+}

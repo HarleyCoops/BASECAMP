@@ -1,0 +1,158 @@
+{
+  "silo_id": "first-camp-yeigh",
+  "title": "Canada's First Alpine Club Camp — Frank Yeigh",
+  "article_slug": "first-camp-yeigh",
+  "article_number": 6,
+  "section": "MISCELLANEOUS",
+  "author": {
+    "person_id": "frank-yeigh",
+    "display_name": "Frank Yeigh",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "The richest narrative of the 1906 camp. Covers the full arc from arrival at Field Station through the march to Emerald Lake, delta crossing, camp life at Yoho Pass, the Vice-President climbs, Emerald Glacier trip, Yoho Valley excursion, and departure via Burgess Pass.",
+  "emerald_lake_references": [
+    {
+      "passage": "Let us return to the straggling procession of Alpinists as they round up at the Emerald Lake Chalet. The world yet awaits the heaven-gifted artist of brush or pen who will transmit to canvas or paper the transcendent beauty of this mountain lake nestling so peacefully at the base of mighty Mt. Burgess",
+      "context": "Arrival at Emerald Lake, start of the ascent to camp",
+      "place_ids": [
+        "emerald-lake-chalet",
+        "emerald-lake",
+        "mt-burgess"
+      ]
+    },
+    {
+      "passage": "It was at Emerald lake that the real part of the first day's work began, involving the traverse of the broad glacial delta on its northern shore and the ascent of the steep cliff wall",
+      "context": "Delta crossing — streams from Emerald Glacier, log bridges swept away, pack ponies as bridges",
+      "place_ids": [
+        "emerald-lake-north-delta",
+        "emerald-glacier"
+      ]
+    },
+    {
+      "passage": "entrancing glimpses were had of the lake valley, of the enclosing ranks of peaks, and, nearer at hand, of the massive buttresses of Mt. Vice-President, carrying on their granite slopes tumultuous floods of milk-white waters to the lake reservoir of emerald hue",
+      "context": "View back to Emerald Lake during cliff ascent",
+      "place_ids": [
+        "emerald-lake",
+        "vice-president"
+      ]
+    }
+  ],
+  "people_mentioned": [
+    "arthur-wheeler",
+    "jc-herdman",
+    "otto-brothers",
+    "gottfried-feuz",
+    "k-mclennan",
+    "eb-hobbs",
+    "jd-patterson",
+    "edna-sutherland",
+    "re-campbell-outfitter",
+    "ec-barnes",
+    "sh-baker",
+    "jim-bong",
+    "edward-whymper",
+    "henrietta-tuzo",
+    "byron-harmon",
+    "fw-freeborn",
+    "d-warner"
+  ],
+  "places_mentioned": [
+    "field-station",
+    "kicking-horse-bridge",
+    "emerald-lake-road",
+    "emerald-lake-chalet",
+    "emerald-lake",
+    "emerald-lake-north-delta",
+    "yoho-pass",
+    "camp-yoho",
+    "yoho-lake",
+    "vice-president",
+    "michael-peak",
+    "emerald-glacier",
+    "mt-burgess",
+    "mt-wapta",
+    "mt-collie",
+    "mt-field",
+    "mt-marpole",
+    "mt-amgadamo",
+    "takakkaw-falls",
+    "laughing-falls",
+    "twin-falls",
+    "yoho-glacier",
+    "burgess-pass",
+    "inspiration-point"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1906-07-08",
+      "event": "Arrival at Field Station"
+    },
+    {
+      "date": "1906-07-09",
+      "event": "March to camp via Emerald Lake"
+    },
+    {
+      "date": "1906-07-10",
+      "event": "First official climb — McLennan and Hobbs graduate"
+    },
+    {
+      "date": "1906-07-16",
+      "event": "Camp breaks up"
+    },
+    {
+      "date": "1906-07-18",
+      "event": "Pack out complete"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "MOUNT BURGESS AND EMERALD LAKE",
+      "credit": "Rev. G.R. Kinney"
+    },
+    {
+      "caption": "THE DINING PAVILION AT YOHO CAMP",
+      "credit": "Byron Harmon"
+    },
+    {
+      "caption": "MOUNT VICE-PRESIDENT—THE OFFICIAL CLIMB",
+      "credit": "F.W. Freeborn"
+    },
+    {
+      "caption": "RESIDENCE PARK—YOHO CAMP",
+      "credit": "F.W. Freeborn"
+    },
+    {
+      "caption": "OUR BIVOUACS ON THE YOHO TRAIL",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "THE MEN IN BUCKSKIN",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "TWO VETERANS",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "AROUND THE CAMP FIRE",
+      "credit": "Frank Yeigh"
+    },
+    {
+      "caption": "CROSSING TWIN FALLS CREEK—YOHO VALLEY TRAIL",
+      "credit": "D. Warner"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 47,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Canada%27s_First_Alpine_Club_Camp"
+  },
+  "fonds_leads": [
+    "Archives of Ontario — Frank Yeigh papers?",
+    "Toronto Reference Library"
+  ]
+}

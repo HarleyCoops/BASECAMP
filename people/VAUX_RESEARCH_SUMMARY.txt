@@ -1,0 +1,117 @@
+===============================================================================
+VAUX BROTHERS ARCHIVAL RESEARCH SUMMARY
+Researched: 2026-04-10
+===============================================================================
+
+RESEARCH OBJECTIVE
+---------
+Locate museum/archive/gallery holdings of Vaux brothers materials, especially
+from the 1906 Alpine Club of Canada camp at Yoho Pass (July 8-16, 1906).
+
+SUBJECTS
+--------
+- George Vaux Jr. (1863-1927) — Philadelphia Quaker, amateur glaciologist
+- William S. Vaux Jr. (1872-1908) — Philadelphia Quaker, amateur glaciologist
+- Mary Vaux (sister) — photograph colorist and assistant
+
+KEY FINDING
+-----------
+PRIMARY FONDS LOCATED: Whyte Museum of the Canadian Rockies (V653)
+- 3,054 total records in Vaux family fonds
+- 260 photographs explicitly dated 1906
+- Multiple series with 1906-1909 date ranges covering Yoho Pass, Emerald Lake,
+  and glacier monitoring
+- Full digital access (publicly available online)
+- Includes nitrate negatives (V653/I/Y, 1906-1909) and prints (V653/PA-1 to
+  PA-114, 1897-1907)
+
+DELIVERABLES CREATED
+---------------------
+In /george-vaux/:
+  ✓ fonds.json — Comprehensive fonds documentation (6 institutions)
+  ✓ profile.md — Intelligence profile with biographical hook and search log
+  ✓ artifacts/_manifest.json — Asset metadata and URL patterns
+  ✓ artifacts/vaux_1906_preliminary.json — 5 sample catalogue records
+
+In /william-s-vaux/:
+  ✓ fonds.json — Cross-referenced to George Jr. (primary record)
+  ✓ profile.md — Biographical profile with 1906 expedition context
+  ✓ artifacts/_manifest.json — Reference to shared family fonds
+
+INSTITUTIONS VERIFIED
+---------------------
+ONLINE ACCESS VERIFIED:
+  ✓ Whyte Museum of the Canadian Rockies — V653, 3054 records, 260 from 1906
+  ✓ Friends Historical Library, Swarthmore College — website accessible
+  ✓ Academy of Natural Sciences (ANSP) — main site accessible
+
+RESTRICTED/REQUIRES CONTACT:
+  → American Philosophical Society — website behind access restrictions
+  → Haverford College Special Collections — restricted access
+  → Parks Canada Heritage Programs — archives not directly searchable online
+  → Canadian Alpine Club — records require institutional contact
+  → University of British Columbia/University of Alberta — check geography depts
+
+PENDING MANUAL ACCESS LEADS
+---------------------------
+1. Parks Canada, Yoho National Park — ACC 1906 camp records, Vaux repeat
+   photography archives
+2. Friends Historical Library — Quaker family papers, genealogies, expedition
+   records
+3. American Philosophical Society — Glacier research correspondence
+4. Academy of Natural Sciences — Vaux family mineralogy donations
+5. Canadian Alpine Club — 1906 camp attendance records, group photographs
+6. University archives — Glacier monitoring data sheets and publications
+
+1906 YOHO CAMP ARTIFACTS LOCATIONS
+----------------------------------
+All verified materials currently at Whyte Museum (V653):
+  - Nitrate negatives (1906-1909)
+  - Postcards/lantern slides (1900-1906, hand-colored by Mary Vaux)
+  - Prints (1897-1907, glacier and mountain views)
+  - Geographic coverage: Emerald Lake, Yoho Pass, Twin Falls, VP Peak,
+    Asulkan Glacier, Illecillewaet Glacier
+
+GLACIER MONITORING SIGNIFICANCE
+-------------------------------
+The Vaux brothers' 1897-1913 photographic sequences established the foundation
+for Canadian glacier monitoring through repeat photography methodology. Their
+1906 expedition documentation is foundational to understanding glacial recession
+in the Canadian Rockies and is used by Parks Canada in heritage programs.
+
+RESEARCH GAPS & NEXT STEPS
+--------------------------
+1. DIRECT IMAGE DOWNLOADS: Whyte catalogue metadata extracted; individual
+   photograph downloads require accessing individual permalink records via
+   https://archives.whyte.org/en/permalink/[descriptionsNNNNN]
+
+2. QUAKER ARCHIVES: Friends Historical Library likely holds family papers,
+   correspondence, expedition journals — requires direct contact
+
+3. SCIENTIFIC PUBLICATIONS: APS and ANSP may hold glacier research papers,
+   correspondence with other glaciologists — requires institutional access
+
+4. ACC CAMP DOCUMENTATION: Original 1906 camp records, attendance rosters,
+   group photographs likely held by ACC or Parks Canada
+
+5. GEOLOGICAL SURVEYS: University repositories (UBC, Alberta) may hold
+   original data sheets and analysis from glacier monitoring work
+
+FILES CREATED
+-----------
+/sessions/determined-bold-cannon/mnt/ELL/BASECAMP/people/george-vaux/
+  - fonds.json (primary record, all institutions)
+  - profile.md (biography, archive locations, search log)
+  - artifacts/_manifest.json (asset metadata)
+  - artifacts/vaux_1906_preliminary.json (5 sample catalogue records)
+
+/sessions/determined-bold-cannon/mnt/ELL/BASECAMP/people/william-s-vaux/
+  - fonds.json (cross-referenced to George Jr.)
+  - profile.md (biography, 1906 expedition role)
+  - artifacts/_manifest.json (reference to shared fonds)
+
+===============================================================================
+Research completed per BASECAMP schema.
+All primary and secondary institutions documented.
+Pending leads documented for future manual contact.
+===============================================================================

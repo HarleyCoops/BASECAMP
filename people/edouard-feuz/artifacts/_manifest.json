@@ -1,0 +1,150 @@
+{
+  "person": "edouard-feuz",
+  "source": "Whyte Museum",
+  "queries": [
+    "edouard+feuz",
+    "feuz+yoho",
+    "feuz+1906",
+    "feuz+vice+president",
+    "m93+feuz",
+    "v200+feuz",
+    "edward+feuz"
+  ],
+  "downloaded": 12,
+  "total_bytes": 4671636,
+  "items": [
+    {
+      "pid": "descriptions1525",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1525",
+      "title": "Yoho Valley Area - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v200_feuz_edward_web/v200_i_a_i_pa_445.jpg",
+      "downloaded": true,
+      "file": "descriptions1525_v200_i_a_i_pa_445.jpg",
+      "bytes": 163292,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions1529",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1529",
+      "title": "Personal and Professional Photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v200_feuz_edward_web/v200_i_a_ii_pa_7.jpg",
+      "downloaded": true,
+      "file": "descriptions1529_v200_i_a_ii_pa_7.jpg",
+      "bytes": 151232,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions1532",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1532",
+      "title": "Professional Photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v200_feuz_edward_web/v200_i_a_ii_pb_13.jpg",
+      "downloaded": true,
+      "file": "descriptions1532_v200_i_a_ii_pb_13.jpg",
+      "bytes": 160355,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions34149",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34149",
+      "title": "Glacier, The Guides (2) (No.72) 7/14/00 - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-049.jpg",
+      "downloaded": true,
+      "file": "descriptions34149_wmcr-vaux-1v-v653-ps-049.jpg",
+      "bytes": 1423679,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions37634",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions37634",
+      "title": "Swiss Guides, Edward Feuz Jr. and Gottfried Feuz - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Barnes/wmcr-barnes-v48-na-268.jpg",
+      "downloaded": true,
+      "file": "descriptions37634_wmcr-barnes-v48-na-268.jpg",
+      "bytes": 1088478,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49444",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49444",
+      "title": "[Edward Feuz and Rudolf Aemmer on Victoria Glacier?] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_11_a_na66_1819.jpg",
+      "downloaded": true,
+      "file": "descriptions49444_v200_11_a_na66_1819.jpg",
+      "bytes": 269253,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49447",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49447",
+      "title": "Canadian Alpine Club camp - Yoho - 1906 - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_13_na66_184.jpg",
+      "downloaded": true,
+      "file": "descriptions49447_v200_13_na66_184.jpg",
+      "bytes": 397528,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions49457",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49457",
+      "title": "[Rescue team in Blaeberry Valley, B.C., following recovery of Mr. Wydean, who was killed on a goat hunt - left to right: Edward Feuz Jr., unidentified, Christian Hasler, unidentified, Ernest Feuz] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_113_na66_1859.jpg",
+      "downloaded": true,
+      "file": "descriptions49457_v200_113_na66_1859.jpg",
+      "bytes": 212810,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49462",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49462",
+      "title": "Mrs. McCoubrey and Edward Feuz on Hamill Glacier, 1924 - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_285_na66_192.jpg",
+      "downloaded": true,
+      "file": "descriptions49462_v200_285_na66_192.jpg",
+      "bytes": 190265,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49471",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49471",
+      "title": "Edward Feuz and wife of New York's fire chief on Saddleback - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_480_na66_2116.jpg",
+      "downloaded": true,
+      "file": "descriptions49471_v200_480_na66_2116.jpg",
+      "bytes": 290119,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49503",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49503",
+      "title": "[left to right: Rudi Gertsch, Edward Feuz, and Bruno Engler during filming of CBC TV's \"This Land \" program on Edward Feuz] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_599_na66_1985.jpg",
+      "downloaded": true,
+      "file": "descriptions49503_v200_599_na66_1985.jpg",
+      "bytes": 269120,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions7219",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions7219",
+      "title": "Photographs. -- 1894-1982 - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac0p_802_to_807_web/v14_ac0p_805.jpg",
+      "downloaded": true,
+      "file": "descriptions7219_v14_ac0p_805.jpg",
+      "bytes": 55505,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 2
+}

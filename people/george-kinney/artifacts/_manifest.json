@@ -1,0 +1,51 @@
+{
+  "person": "george-kinney",
+  "source": "Whyte Museum",
+  "queries": [
+    "kinney+1906",
+    "kinney+yoho",
+    "kinney+stephen",
+    "kinney+alpine",
+    "rev+kinney",
+    "g.r.b.+kinney",
+    "kinney+robson"
+  ],
+  "downloaded": 3,
+  "total_bytes": 247023,
+  "items": [
+    {
+      "pid": "descriptions32202",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions32202",
+      "title": "Robson, Yellowhead trip - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-0971.jpg",
+      "downloaded": true,
+      "file": "descriptions32202_wmcr-harmonb-v263-na-0971.jpg",
+      "bytes": 24813,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions32763",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions32763",
+      "title": "Packhorses, misc. - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Harmon/wmcr-harmonb-v263-na-0480.jpg",
+      "downloaded": true,
+      "file": "descriptions32763_wmcr-harmonb-v263-na-0480.jpg",
+      "bytes": 46205,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions7241",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions7241",
+      "title": "George Kinney photographs and price lists. -- [ca.1907] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac14p_1_to_30_web/v14_ac14p_17.jpg",
+      "downloaded": true,
+      "file": "descriptions7241_v14_ac14p_17.jpg",
+      "bytes": 176005,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}

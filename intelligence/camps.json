@@ -1,0 +1,591 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-04-09T18:59:46.429023",
+  "total_camps": 2,
+  "camps": [
+    {
+      "camp_id": "yoho-camp-1906",
+      "name": "First Annual Camp of the Alpine Club of Canada \u2014 Yoho Camp",
+      "place_id": "camp-yoho",
+      "dates": {
+        "open": "1906-07-09",
+        "close": "1906-07-16",
+        "pack_out_complete": "1906-07-18",
+        "arrival_at_field": "1906-07-08"
+      },
+      "elevation_ft": 6000,
+      "capacity": 100,
+      "actual_attendance": 112,
+      "layout": {
+        "sections": [
+          "Residence Park",
+          "Official Square",
+          "Horse Paddock"
+        ],
+        "description": "Gay with banners, flags and bunting. Dining tent for 100. Central fire for evening gatherings. Bulletin board with daily programmes."
+      },
+      "logistics": {
+        "distance_from_station_miles": 7,
+        "transport": "Walking, carriages, commissariat wagons, pack ponies for supplies. 30-40 tents carried by pack ponies.",
+        "provisions": "CPR cooks from Yoho camps placed at disposal. Provisions cost $613.12.",
+        "cook": "Jim Bong ('Ping-Pong'), Chinese cook from CPR Yoho camps",
+        "baggage_limit_lbs": 40
+      },
+      "funding": {
+        "total_receipts": 1278.87,
+        "total_expenditures": 1252.4,
+        "balance": 26.47,
+        "sources": [
+          "Dominion Government: $500 (not in camp receipts \u2014 separate)",
+          "Government of Alberta: $250",
+          "Private subscriptions: $170",
+          "Board and accommodation: $458.25",
+          "Employee tips: $61",
+          "Ice-axe auction: $75.75",
+          "Surplus supplies sold: $263.87"
+        ]
+      },
+      "graduation_stats": {
+        "total_graduates": 42,
+        "women_graduates": 15,
+        "failures": 0,
+        "official_mountain": "The Vice-President (10,049 ft)",
+        "graduation_threshold_ft": 9000,
+        "best_time_hrs": 9.5,
+        "average_time_hrs": 10.5,
+        "official_climb_dates": [
+          "1906-07-10",
+          "1906-07-11",
+          "1906-07-12",
+          "1906-07-13",
+          "1906-07-14"
+        ],
+        "graduate_names": [
+          "Dr. A.M. Campbell",
+          "R. Haggen",
+          "Miss E.B. Hobbs",
+          "Stanley L. Jones",
+          "T. Kilpatrick",
+          "C.R. Merrill",
+          "H.W. McLean",
+          "Miss K. McLennan",
+          "D.N. McTavish",
+          "T.A. Hornibrook",
+          "Mrs. Stanley Jones",
+          "J.W. Kelly",
+          "Miss L.E. Marshall",
+          "S.H. Mitchell",
+          "W. Nicholson",
+          "Miss A.R. Power",
+          "Rev. J.R. Robertson",
+          "Miss A.M. Stewart",
+          "F.C. Brown",
+          "J.A. Campbell",
+          "P.M. Campbell",
+          "Miss M.T. Durham",
+          "Geo. Harrower",
+          "H.G. Langlois",
+          "Rev. A.O. MacRae",
+          "Miss Jean Parker",
+          "Miss F. Pearce",
+          "C.B. Sissons",
+          "Miss K.R. Smith",
+          "H.M. Snell",
+          "D. Warner",
+          "Rev. Alex. Dunn",
+          "Miss I.W. Griffith",
+          "B. Harmon",
+          "Miss A.L. Laird",
+          "D.H. Laird",
+          "A.H. Smith",
+          "Miss E. Sutherland",
+          "J.H. Graham",
+          "H.G.H. Neville",
+          "Miss J.M. Porte",
+          "Miss J.L. Sherman"
+        ]
+      },
+      "other_mountains_climbed": [
+        {
+          "mountain": "Mt. Burgess",
+          "date": "1906-07-10",
+          "elevation_ft": 8463
+        },
+        {
+          "mountain": "Mt. Wapta",
+          "date": "1906-07-11",
+          "elevation_ft": 9106,
+          "note": "4 ascents total, 2 routes"
+        },
+        {
+          "mountain": "Mt. Collie",
+          "date": "1906-07-12",
+          "elevation_ft": 10315
+        },
+        {
+          "mountain": "Mt. Field",
+          "date": "1906-07-12",
+          "elevation_ft": 8645
+        },
+        {
+          "mountain": "Mt. President",
+          "date": "1906-07-14",
+          "elevation_ft": 10287
+        },
+        {
+          "mountain": "Mt. Marpole",
+          "date": "1906-07-16",
+          "elevation_ft": 9822,
+          "note": "first ascent"
+        },
+        {
+          "mountain": "Mt. Amgadamo",
+          "date": "1906-07-16",
+          "elevation_ft": 9537,
+          "note": "first ascent, named at camp"
+        }
+      ],
+      "trips": [
+        {
+          "name": "Yoho Valley Round Trip",
+          "duration_days": 2,
+          "trips_made": 4,
+          "participants_total": 60,
+          "description": "Lower trail out, upper trail return. Overnight at Laughing Falls."
+        },
+        {
+          "name": "Emerald Glacier Trip",
+          "trips_made": 3,
+          "participants_total": 27,
+          "leader": "Rev. J.C. Herdman"
+        },
+        {
+          "name": "Takakkaw Falls Trip",
+          "trips_made": 1,
+          "participants_total": 19,
+          "leader": "H.G. Wheeler"
+        },
+        {
+          "name": "Yoho Glacier Observation",
+          "date": "1906-07-14/1906-07-15",
+          "participants_total": 7,
+          "description": "Scientific committee. Metal plates set for flow measurement. Retreat of 76 ft since 1901 measured."
+        }
+      ],
+      "events": [
+        {
+          "date": "1906-07-08",
+          "event": "Campers arrive at Field Station. Route-scouting party departs for Vice-President."
+        },
+        {
+          "date": "1906-07-09",
+          "event": "Camp opens. March from Field: bridge, 7-mile road, Emerald Lake Chalet, delta crossing, cliff ascent to Yoho Pass."
+        },
+        {
+          "date": "1906-07-10",
+          "event": "First official climb of Vice-President. 9 graduate (first: Miss McLennan, Miss Hobbs). Burgess also climbed."
+        },
+        {
+          "date": "1906-07-11",
+          "event": "Second official climb. 9 graduate. Wapta climbed."
+        },
+        {
+          "date": "1906-07-12",
+          "event": "Third official climb. 13 graduate. Collie, Field, Wapta climbed."
+        },
+        {
+          "date": "1906-07-13",
+          "event": "Fourth official climb. 7 graduate. Wapta climbed."
+        },
+        {
+          "date": "1906-07-14",
+          "event": "Fifth official climb. 4 graduate. President summit added. Yoho Glacier observation begins."
+        },
+        {
+          "date": "1906-07-15",
+          "event": "Yoho Glacier observation continues. Daily trips to Inspiration Point."
+        },
+        {
+          "date": "1906-07-16",
+          "event": "Camp breaks up. Marpole and Amgadamo first ascents. Many return via Burgess Pass."
+        },
+        {
+          "date": "1906-07-17",
+          "event": "Pack out continues."
+        },
+        {
+          "date": "1906-07-18",
+          "event": "Pack out complete."
+        }
+      ],
+      "supporters": {
+        "government": [
+          "Dominion Government ($500)",
+          "Alberta Government ($250)"
+        ],
+        "railway": [
+          "Canadian Pacific Railway (Swiss guides, tents, canopies, cooks)"
+        ],
+        "outfitters": [
+          "R.E. Campbell (Laggan/Field)",
+          "Martin & Otto Bros. (Field/Leanchoil/Golden)",
+          "E.C. Barnes (Banff)",
+          "S.H. Baker (Glacier)"
+        ],
+        "police": [
+          "Royal North-West Mounted Police at Calgary and Banff (tents)"
+        ],
+        "parks": [
+          "Superintendent of Rocky Mountains Parks (bunting)"
+        ]
+      },
+      "graduates_by_date": {
+        "1906-07-10": [
+          "Dr. A.M. Campbell",
+          "R. Haggen",
+          "Miss E.B. Hobbs",
+          "Stanley L. Jones",
+          "T. Kilpatrick",
+          "C.R. Merrill",
+          "H.W. McLean",
+          "Miss K. McLennan",
+          "D.N. McTavish"
+        ],
+        "1906-07-11": [
+          "T.A. Hornibrook",
+          "Mrs. Stanley Jones",
+          "J.W. Kelly",
+          "Miss L.E. Marshall",
+          "S.H. Mitchell",
+          "W. Nicholson",
+          "Miss A.R. Power",
+          "Rev. J.R. Robertson",
+          "Miss A.M. Stewart"
+        ],
+        "1906-07-12": [
+          "F.C. Brown",
+          "J.A. Campbell",
+          "P.M. Campbell",
+          "Miss M.T. Durham",
+          "Geo. Harrower",
+          "H.G. Langlois",
+          "Rev. A.O. MacRae",
+          "Miss Jean Parker",
+          "Miss F. Pearce",
+          "C.B. Sissons",
+          "Miss K.R. Smith",
+          "H.M. Snell",
+          "D. Warner"
+        ],
+        "1906-07-13": [
+          "Rev. Alex. Dunn",
+          "Miss I.W. Griffith",
+          "B. Harmon",
+          "Miss A.L. Laird",
+          "D.H. Laird",
+          "A.H. Smith",
+          "Miss E. Sutherland"
+        ],
+        "1906-07-14": [
+          "J.H. Graham",
+          "H.G.H. Neville",
+          "Miss J.M. Porte",
+          "Miss J.L. Sherman"
+        ]
+      },
+      "daily_events": [
+        {
+          "date": "1906-07-08",
+          "title": "Arrival at Field Station and Route Reconnaissance",
+          "description": "The wayfaring globe-trotter who chanced to reach Field station on the evening of July 8th, 1906 must have wondered at the scene of excitement and activity. The months of anticipation had ended. On this day, the chief mountaineer accompanied by the two Swiss guides Edouard Feuz Jr. and Gottfried Feuz, Rev. Dr. Herdman and P. D. McTavish departed from camp at 6 a.m. to scout the best route for Mt. Vice-President. They crossed the shoulder near timber-line, traversed the rock slide, climbed snow slopes to the arete between Michaels Mt. and the main mass, reaching it at 8:30 a.m. They continued along the arete and reached the summit of Vice-President (10,049 ft) at 12:30 p.m. after six and a half hours of steady climbing. The descent was completed by 6 p.m., returning to camp.",
+          "people_involved": [
+            "chief-mountaineer",
+            "edouard-feuz-jr",
+            "gottfried-feuz",
+            "rev-herdman",
+            "p-d-mctavish"
+          ],
+          "places_involved": [
+            "field-station",
+            "mt-vice-president"
+          ],
+          "type": "arrival"
+        },
+        {
+          "date": "1906-07-09",
+          "title": "Camp Opens: The March to Yoho Pass",
+          "description": "The camp opens officially. Soon after sun-up the thin long line of amateurs crossed the bridge over the Kicking-Horse and took to the road that leads through a silent forest aisle to Emerald lake. After the delta and the deluge \u2014 a storm broke over them, giving the invaders of the hills their first nature bath. After negotiating the mad little rivers with pack ponies as bridges, and climbing nearly a thousand feet of stiff up-grade, the dense forest of spruce was traversed with glimpses of the lake valley and enclosing peaks. At last, the summit of Yoho pass! That striking picture of a tented town nestling amid the realm of trees under a sky of blue, with grey old Wapta and Michael's mount standing sentinel three thousand feet higher still. The incomparable scene beside Yoho lake with its translucent waters holding emerald and amethyst shades. The welcoming camp fire of huge dimensions and the aroma of meals cooked by Jim Bong ('Ping-Pong'), the Chinese cook from CPR Yoho camps.",
+          "people_involved": [
+            "arthur-o-wheeler",
+            "jim-bong",
+            "rev-herdman"
+          ],
+          "places_involved": [
+            "field-station",
+            "kicking-horse-bridge",
+            "emerald-lake-chalet",
+            "emerald-glacier",
+            "yoho-pass",
+            "camp-yoho"
+          ],
+          "type": "camp_life"
+        },
+        {
+          "date": "1906-07-10",
+          "title": "First Official Climb of Mt. Vice-President; Mt. Burgess Ascent",
+          "description": "The first official climb of the season. The party in charge of M. P. Bridgland and Swiss guide Gottfried Feuz, assisted by J. D. Patterson, Rev. Geo. R. B. Kinney and P. D. McTavish. Left camp at 5:30 a.m. and reached the summit at 11:30 a.m. Rain fell steadily from the rock-slide onwards, accompanied by cold wind, with poor visibility. The descent was commenced at 12 o'clock and camp reached at 3:25 p.m. Total time: 9 hours 25 minutes (ascent 6 hours, descent 3 hours 25 minutes). Nine graduating members qualified for active membership, including the record holders: Miss K. McLennan of Toronto and Miss E. B. Hobbs of Revelstoke \u2014 the first women to graduate. Also on this day, Mt. Burgess (8,463 ft) was climbed by a party in charge of Swiss guide Edouard Feuz Jr., with participants: J. A. Campbell, Miss A. G. Foote, Miss A. R. Power, Rev. J. R. Robertson, Miss E. R. Smith, H. M. Snell, Miss A. M. Stewart.",
+          "people_involved": [
+            "m-p-bridgland",
+            "gottfried-feuz",
+            "j-d-patterson",
+            "rev-kinney",
+            "p-d-mctavish",
+            "miss-k-mclennan",
+            "miss-e-b-hobbs",
+            "edouard-feuz-jr",
+            "j-a-campbell",
+            "miss-a-g-foote",
+            "miss-a-r-power",
+            "rev-j-r-robertson",
+            "miss-e-r-smith",
+            "h-m-snell",
+            "miss-a-m-stewart"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "mt-vice-president",
+            "mt-burgess"
+          ],
+          "type": "climb"
+        },
+        {
+          "date": "1906-07-11",
+          "title": "Second Official Climb; Mt. Wapta and Mt. Field Ascents; Weather Improves",
+          "description": "The second official climb of Mt. Vice-President. Party in charge of M. P. Bridgland and Swiss guide Edouard Feuz, assisted by P. D. McTavish and Rev. J. H. Miller. The day was fine and clear. Left camp at 6 a.m.; arrived at summit at 1:30 p.m.; commenced descent at 3 p.m., arrived at camp at 6:30 p.m. Time of ascent: 7 hours 30 minutes; descent: 3 hours 30 minutes; total 11 hours. Nine graduating members qualified including T. A. Hornibrook, Mrs. Stanley Jones, J. W. Kelly, Miss L. E. Marshall, S. H. Mitchell, W. Nicholson, Miss A. R. Power, Rev. J. R. Robertson, Miss A. M. Stewart. On the same day, Mt. Wapta (9,106 ft) was ascended by Dr. P. M. Campbell, Rev. A. M. Gordon, Rev. Dr. MacRae, D. Warner, E. O. Wheeler, starting at 8 a.m. under guidance of Gottfried Feuz, spending 45 minutes on summit, returning to camp at 2:15 p.m. The climb was made from the Burgess trail by way of the west face.",
+          "people_involved": [
+            "m-p-bridgland",
+            "edouard-feuz-jr",
+            "p-d-mctavish",
+            "rev-j-h-miller",
+            "t-a-hornibrook",
+            "mrs-stanley-jones",
+            "j-w-kelly",
+            "miss-l-e-marshall",
+            "s-h-mitchell",
+            "w-nicholson",
+            "miss-a-r-power",
+            "rev-j-r-robertson",
+            "miss-a-m-stewart",
+            "dr-p-m-campbell",
+            "rev-a-m-gordon",
+            "rev-dr-macrae",
+            "d-warner",
+            "e-o-wheeler",
+            "gottfried-feuz"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "mt-vice-president",
+            "mt-wapta",
+            "burgess-trail"
+          ],
+          "type": "climb"
+        },
+        {
+          "date": "1906-07-12",
+          "title": "Third Official Climb; Mt. Collie, Mt. Field, Mt. Wapta Ascents; Scientific Glacier Work Begins",
+          "description": "Third official climb of Mt. Vice-President. Party in charge of H. G. Wheeler and Swiss guide Edouard Feuz, assisted by E. O. Wheeler and Rev. A. M. Gordon. With the exception of a few slight showers towards evening, the weather was all that could be desired. Left camp at 6 a.m., reached summit at 12:30 p.m., commenced descent at 1:30 p.m., camp reached at 5 p.m. Ascent: 6 hours 30 minutes; descent: 3 hours 30 minutes; total: 10 hours. Thirteen graduating members qualified including F. C. Brown, J. A. Campbell, P. M. Campbell, Miss M. T. Durham, Geo. Harrower, H. G. Langlois, Rev. A. O. MacRae, Miss Jean Parker, Miss F. Pearce, C. B. Sissons, Miss K. R. Smith, H. M. Snell, D. Warner. Also on this day: Mt. Collie (10,315 ft) ascended by J. D. Patterson with Swiss guide Gottfried Feuz from a camp at Twin Falls. By curious coincidence, the peak was climbed the same day by Miss Henrietta L. Tuzo of Warlingham, England (not at the camp) under Christian Kaufmann's guidance by a different route \u2014 the two parties met on the summit. Mt. Field (8,645 ft) ascended under Rev. J. C. Herdman's guidance by Rev. Alex. Dunn, J. W. Kelly, Miss A. L. Laird, D. H. Laird, S. H. Mitchell. Mt. Wapta ascended via southwestern arete by M. P. Bridgland, Miss L. E. Marshall, P. D. McTavish. On the 14th and 15th, a special committee of the Scientific section made a trip to the Yoho glacier for the purpose of initiating yearly observations of its various changes and rate of flow, setting out metal plates to measure glacier flow.",
+          "people_involved": [
+            "h-g-wheeler",
+            "edouard-feuz-jr",
+            "e-o-wheeler",
+            "rev-a-m-gordon",
+            "f-c-brown",
+            "j-a-campbell",
+            "p-m-campbell",
+            "miss-m-t-durham",
+            "geo-harrower",
+            "h-g-langlois",
+            "rev-a-o-macrae",
+            "miss-jean-parker",
+            "miss-f-pearce",
+            "c-b-sissons",
+            "miss-k-r-smith",
+            "h-m-snell",
+            "d-warner",
+            "j-d-patterson",
+            "gottfried-feuz",
+            "miss-henrietta-l-tuzo",
+            "christian-kaufmann",
+            "rev-j-c-herdman",
+            "rev-alex-dunn",
+            "j-w-kelly",
+            "miss-a-l-laird",
+            "d-h-laird",
+            "s-h-mitchell",
+            "m-p-bridgland",
+            "miss-l-e-marshall",
+            "p-d-mctavish"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "mt-vice-president",
+            "mt-collie",
+            "twin-falls",
+            "mt-field",
+            "mt-wapta",
+            "yoho-glacier"
+          ],
+          "type": "climb"
+        },
+        {
+          "date": "1906-07-13",
+          "title": "Fourth Official Climb; Weather Showery; Snow Bridge Deemed Unsafe",
+          "description": "Fourth official climb of Mt. Vice-President. Party in charge of M. P. Bridgland and H. G. Wheeler, assisted by Rev. G. R. B. Kinney, Dr. A. M. Campbell and D. N. McTavish. The weather was showery during the morning and fine and bright for the rest of the day. Same route followed for ascent, but as it had been found that the snow-bridge over the cave was unsafe owing to continued warm weather, the party when returning followed the arete a short distance past Angle peak, then descended to the snowfield, reaching camp by the usual route. Start: 6 a.m.; summit reached: 1 p.m.; descent commenced: 2 p.m.; camp reached: 6:10 p.m. Time of ascent: 7 hours; descent: 4 hours 10 minutes; total: 11 hours 10 minutes. Seven graduating members qualified for active membership: Rev. Alex. Dunn, Miss I. W. Griffith, B. Harmon, Miss A. L. Laird, D. H. Laird, A. H. Smith, Miss E. Sutherland. Mt. Wapta climbed by party under leadership of Edouard Feuz Jr.: S. H. Baker, S. H. Mitchell, Miss Jean Parker, Miss Francis Pearce, C. B. Sissons, E. O. Wheeler.",
+          "people_involved": [
+            "m-p-bridgland",
+            "h-g-wheeler",
+            "rev-g-r-b-kinney",
+            "dr-a-m-campbell",
+            "d-n-mctavish",
+            "rev-alex-dunn",
+            "miss-i-w-griffith",
+            "b-harmon",
+            "miss-a-l-laird",
+            "d-h-laird",
+            "a-h-smith",
+            "miss-e-sutherland",
+            "edouard-feuz-jr",
+            "s-h-baker",
+            "s-h-mitchell",
+            "miss-jean-parker",
+            "miss-francis-pearce",
+            "c-b-sissons",
+            "e-o-wheeler"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "mt-vice-president",
+            "mt-wapta"
+          ],
+          "type": "climb"
+        },
+        {
+          "date": "1906-07-14",
+          "title": "Fifth Official Climb; Mt. President Summit Added; Glacier Observation Continues",
+          "description": "Fifth and final official climb of Mt. Vice-President. Party in charge of M. P. Bridgland and Swiss guide Edouard Feuz, assisted by E. C. Barnes. The weather was all that could be desired, bright sunshine prevailing throughout the day. As it was a small party, the route was changed to give a most interesting rock climb up the face of Michaels peak to its summit, from which point the arete was followed to join the line of previous ascents. Upon reaching the summit of Mt. Vice-President, the guides continued to the summit of Mt. President (10,287 ft) while the party rested. A steep descent led to a snow col about two hundred feet below Vice-President, similar ascent on opposite side led to President summit. The trip there and back took an hour, with a cairn built on the highest rock point. Party left camp at 5:50 a.m., arrived at Vice-President summit at 12:45, commenced descent at 3 p.m., camp reached at 6:35 p.m. Time of ascent: 6 hours 55 minutes; descent: 3 hours 35 minutes; total: 10 hours 30 minutes. Four graduating members qualified: J. H. Graham, H. G. H. Neville, Miss J. M. Porte, Miss J. L. Sherman. Taken as a whole the official climb was a marked success: 42 graduated to active membership, of whom 15 were ladies. Not one case of failure. The Scientific committee also continued observations on the Yoho glacier on this and the 15th.",
+          "people_involved": [
+            "m-p-bridgland",
+            "edouard-feuz-jr",
+            "e-c-barnes",
+            "j-h-graham",
+            "h-g-h-neville",
+            "miss-j-m-porte",
+            "miss-j-l-sherman"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "mt-vice-president",
+            "mt-president",
+            "michaels-peak",
+            "yoho-glacier"
+          ],
+          "type": "climb"
+        },
+        {
+          "date": "1906-07-15",
+          "title": "Yoho Glacier Scientific Observations; Glacier Excursions and Valley Trips",
+          "description": "Scientific observations at Yoho glacier continue. Glacier trips were made in detachments to the Emerald glacier under leadership of Rev. J. C. Herdman. This proved not the least delightful of the series of excursions, as for the majority it was their first experience in ice climbing. Crossing partly the same route as the Upper Yoho trail to Inspiration point with its superb and dramatic picture of the Takakkaw falls on the far side of the valley, a turn to the left was made to reach the foot of the ice-sheet. A stiff ascent over boulder-strewn incline gave unexpected practice in baseball catching as descending rocks were caught and hurled aside. Upon reaching the snow line, a snow-balling match was indulged in, when what would have been a shower in the valley became a sleet storm at 8000 feet, wind driving frozen sand-like flakes with stinging effect \u2014 but sunshine soon returned. At last the main icefield was reached, with miniature mountains of ice (s\u00e9racs), deep chasms, moulins, and gaping crevasses with wonderful green-blue coloring. Twenty-seven persons participated in Emerald glacier trips. Daily trips to Inspiration point continued. Yoho valley round trips made, with overnight stops at Laughing Falls \u2014 60 persons total over multiple parties.",
+          "people_involved": [
+            "rev-j-c-herdman"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "yoho-glacier",
+            "emerald-glacier",
+            "inspiration-point",
+            "takakkaw-falls",
+            "yoho-valley",
+            "laughing-falls"
+          ],
+          "type": "excursion"
+        },
+        {
+          "date": "1906-07-16",
+          "title": "Camp Breaks Up; Mt. Marpole and Mt. Amgadamo First Ascents",
+          "description": "The camp broke up on the 16th of July. On this day, under charge of Swiss guides Edouard Feuz Jr. and Gottfried Feuz, Rev. A. O. MacRae, Rev. Alec. Gordon and Rev. Alex. Dunn made the first ascent of Mt. Marpole (9,822 ft), and en route made the first ascent of the peak which they named Amgadamo (9,537 ft). Many returned home via the Burgess pass trail. Provisions included ice-axe auction raising $75.75. In all the camp was designed for one hundred persons, but one hundred and twelve attended, and arrangements were such that one hundred and fifty might easily have been accommodated. Financially the camp proved a success: after all expenses were paid there was sufficient sum in hand to partially reimburse the outfitters for their gratuitous outlay, and even then a small balance was paid into the funds of the Club.",
+          "people_involved": [
+            "edouard-feuz-jr",
+            "gottfried-feuz",
+            "rev-a-o-macrae",
+            "rev-alec-gordon",
+            "rev-alex-dunn"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "mt-marpole",
+            "mt-amgadamo",
+            "burgess-pass"
+          ],
+          "type": "departure"
+        },
+        {
+          "date": "1906-07-17",
+          "title": "Pack Out Continues",
+          "description": "Two more days were required to pack up and remove the outfit after the camp broke up on the 16th. Pack trains transport 30-40 tents, equipment and provisions from the 6000-foot summit back to Field station via pack ponies and wagons.",
+          "people_involved": [
+            "r-e-campbell",
+            "martin-bros",
+            "otto-bros",
+            "e-c-barnes",
+            "s-h-baker"
+          ],
+          "places_involved": [
+            "camp-yoho",
+            "field-station"
+          ],
+          "type": "camp_life"
+        },
+        {
+          "date": "1906-07-18",
+          "title": "Pack Out Complete",
+          "description": "Pack out complete. All tents, equipment, provisions and baggage have been removed from the camp site and returned to Field station and valley depots. The First Annual Camp of the Alpine Club of Canada concludes.",
+          "people_involved": [],
+          "places_involved": [
+            "camp-yoho",
+            "field-station"
+          ],
+          "type": "departure"
+        }
+      ]
+    },
+    {
+      "camp_id": "laughing-falls-overnight",
+      "name": "Laughing Falls Bivouac",
+      "place_id": "laughing-falls",
+      "dates": {
+        "open": "1906-07-10",
+        "close": "1906-07-15"
+      },
+      "elevation_ft": 4800,
+      "capacity": 15,
+      "actual_attendance": 60,
+      "layout": {
+        "sections": [
+          "Bivouac site"
+        ],
+        "description": "Overnight camp for Yoho Valley round trips and glacier observation. Ponies carried baggage."
+      },
+      "logistics": {
+        "distance_from_station_miles": 0,
+        "transport": "Ponies from Camp Yoho",
+        "provisions": "Carried from Camp Yoho",
+        "cook": "",
+        "baggage_limit_lbs": 0
+      },
+      "funding": {},
+      "people_present": [],
+      "events": []
+    }
+  ]
+}

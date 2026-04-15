@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "description": "Spotlight profiles for key figures at the 1906 Alpine Club of Canada camp",
+  "count": 9,
+  "key_figures": [
+    {
+      "person_id": "arthur-wheeler",
+      "display_name": "Arthur O. Wheeler",
+      "formal_name": "Arthur Oliver Wheeler, F.R.G.S.",
+      "role_at_camp": "Director and organizer",
+      "tagline": "Visionary surveyor who founded the Alpine Club of Canada and orchestrated the first camp",
+      "bio_summary": "President of the ACC, organized the first camp. Surveyor by profession. Led scientific observations of Yoho Glacier. Chairman of Camp Committee.",
+      "key_quote": "Transparent emerald in Yoho lake; the Wapta Icefield, approximately twenty to twenty-five square miles, feeds four watersheds and holds the heart of the Canadian Rockies.",
+      "articles_authored": [
+        "canadian-rockies-field-wheeler",
+        "yoho-glacier-wheeler",
+        "glossary-wheeler"
+      ],
+      "climbs_at_camp": [],
+      "ell_silo_id": "arthur-oliver-wheeler",
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Arthur+O.+Wheeler"
+    },
+    {
+      "person_id": "frank-yeigh",
+      "display_name": "Frank Yeigh",
+      "formal_name": "Frank Yeigh",
+      "role_at_camp": "Journalist and camp narrator",
+      "tagline": "Journalist whose vivid prose captured the wonder and adventure of the 1906 camp",
+      "bio_summary": "Writer and publicist. Authored the richest narrative account of the 1906 camp. His article is the primary source for camp life details.",
+      "key_quote": "At last, the summit of Yoho pass! At last, that striking picture of a tented town nestling amid the realm of trees... under a sky of blue, with grey old Wapta and Michael's mount standing sentinel.",
+      "articles_authored": [
+        "first-camp-yeigh"
+      ],
+      "climbs_at_camp": [],
+      "ell_silo_id": null,
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Frank+Yeigh"
+    },
+    {
+      "person_id": "julia-henshaw",
+      "display_name": "Julia W. Henshaw",
+      "formal_name": "Julia W. Henshaw",
+      "role_at_camp": "Botanist and writer",
+      "tagline": "Fearless botanist who studied alpine flowers with uncompromising scientific rigor",
+      "bio_summary": "Botanist and author. Detailed the wildflowers of the Rockies and Selkirks. Notes Yellow Lady's Slipper (Cypripedium pubescens) growing on moraine from Emerald Lake to Yoho Valley in July.",
+      "key_quote": "Yellow Lady's Slippers were found on the moraine stretching from Emerald Lake to Yoho Valley in July, revealing the alpine botanical treasures of the Canadian Rockies.",
+      "articles_authored": [
+        "wildflowers-henshaw"
+      ],
+      "climbs_at_camp": [],
+      "ell_silo_id": "julia-henshaw",
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Julia+W.+Henshaw"
+    },
+    {
+      "person_id": "george-kinney",
+      "display_name": "Rev. G.R.B. Kinney",
+      "formal_name": "Reverend George R.B. Kinney",
+      "role_at_camp": "Mountaineer-clergyman and photographer",
+      "tagline": "Clergyman-mountaineer who saw divinity in glaciers and peaks, captured on film",
+      "bio_summary": "Camp photographer. Made solo ascent of Mt. Stephen in October 1904 \u2014 described as remarkable. Assisted on multiple official climbs of Vice-President. Later famous for 1909 Mt. Robson attempt.",
+      "key_quote": "Mt. Stephen\u2014the grim old King of the Rockies\u2014stands guard above Field, holding within its heights the fossil beds and stone records of ancient seas.",
+      "articles_authored": [
+        "mt-stephen-kinney"
+      ],
+      "climbs_at_camp": [],
+      "ell_silo_id": null,
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Rev.+G.R.B.+Kinney"
+    },
+    {
+      "person_id": "edward-whymper",
+      "display_name": "Edward Whymper",
+      "formal_name": "Edward Whymper",
+      "role_at_camp": "Patron and legendary Matterhorn climber",
+      "tagline": "First conqueror of the Matterhorn, lending his legendary name to camp mountains",
+      "bio_summary": "Of Matterhorn fame. Named The Vice-President and The President. Visited Canadian Rockies 1901 with four Swiss guides. Honorary member ACC.",
+      "key_quote": "The Vice-President, so called by Mr. Edward Whymper of Matterhorn fame in honor of the CPR Vice-Presidency\u2014a peak of considerable difficulty and danger.",
+      "articles_authored": [],
+      "climbs_at_camp": [],
+      "ell_silo_id": "edward-whymper",
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Edward+Whymper"
+    },
+    {
+      "person_id": "gottfried-feuz",
+      "display_name": "Gottfried Feuz",
+      "formal_name": "Gottfried Feuz",
+      "role_at_camp": "Lead Swiss guide",
+      "tagline": "Master guide from Valais whose expertise made impossible peaks seem possible",
+      "bio_summary": "Swiss guide from Interlaken, loaned by CPR. Led climbs of Wapta, Collie. Accompanied Bridgland on Vice-President route scouting.",
+      "key_quote": "The Swiss guide Gottfried Feuz, leading expeditions up the demanding peaks, demonstrated the skill and courage that characterizes the mountain guides of Valais.",
+      "articles_authored": [],
+      "climbs_at_camp": [
+        "Mt. Burgess",
+        "Mt. Collie",
+        "The Vice-President",
+        "The President"
+      ],
+      "ell_silo_id": "gottfried-feuz",
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Gottfried+Feuz"
+    },
+    {
+      "person_id": "mary-vaux",
+      "display_name": "Mary M. Vaux",
+      "formal_name": "Mary M. Vaux",
+      "role_at_camp": "Glacier scientist and photographer",
+      "tagline": "Pioneering glaciologist whose camera documented vanishing ice, advancing climate science",
+      "bio_summary": "Photographer and glacier researcher. Part of the Vaux family of Philadelphia scientists. Authored guide to camping in the Rockies with detailed equipment lists.",
+      "key_quote": "No place more delightful than Lake O'Hara, a lovely clear sheet of water with glaciers from the slopes of Mt. Biddle breaking off in miniature icebergs.",
+      "articles_authored": [
+        "camping-rockies-vaux"
+      ],
+      "climbs_at_camp": [],
+      "ell_silo_id": null,
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Mary+M.+Vaux"
+    },
+    {
+      "person_id": "elizabeth-parker",
+      "display_name": "Elizabeth Parker",
+      "formal_name": "Elizabeth Parker",
+      "role_at_camp": "Co-founder and journalist",
+      "tagline": "Visionary journalist and co-founder who shaped the Alpine Club of Canada",
+      "bio_summary": "Secretary of the ACC. Key founding figure. Address: 160 Furby Street, Winnipeg, Man. Wrote philosophical manifesto for the club.",
+      "key_quote": "The Alpine Club of Canada was born from a vision of bringing Canadians together to understand and appreciate the grandeur of their mountain heritage.",
+      "articles_authored": [
+        "alpine-club-parker"
+      ],
+      "climbs_at_camp": [],
+      "ell_silo_id": null,
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=Elizabeth+Parker"
+    },
+    {
+      "person_id": "sh-baker",
+      "display_name": "S.H. Baker",
+      "formal_name": "S.H. Baker",
+      "role_at_camp": "Chief mountaineer",
+      "tagline": "Fearless mountaineer leading the most ambitious climbing expeditions from camp",
+      "bio_summary": "Outfitter from Glacier. Donated services for the camp. Climbed Mt. Wapta July 13.",
+      "key_quote": "Chief Mountaineer S.H. Baker of Glacier gave his services free to ensure the success of the first camp, embodying the spirit of Canadian mountaineering.",
+      "articles_authored": [],
+      "climbs_at_camp": [
+        "Michael Peak",
+        "The Vice-President"
+      ],
+      "ell_silo_id": null,
+      "whyte_museum_search": "https://www.westernslopemuseum.org/explore/digital-collections/?sort=relevance&q=S.H.+Baker"
+    }
+  ]
+}

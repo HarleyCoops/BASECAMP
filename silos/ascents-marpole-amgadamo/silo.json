@@ -1,0 +1,27 @@
+{
+  "silo_id": "ascents-marpole-amgadamo",
+  "title": "The Ascents of Mts. Marpole and Amgadamo — Gordon, Dunn, MacRae",
+  "article_slug": "ascents-marpole-amgadamo",
+  "article_number": 17,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "am-gordon",
+    "display_name": "Revs. A.M. Gordon, Alex. Dunn and A.O. MacRae",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "First ascents of both peaks on July 16, 1906 — the last day of camp. Amgadamo named at camp (AM Gordon, A Dunn, AO MacRae initials).",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

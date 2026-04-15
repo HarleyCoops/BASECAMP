@@ -1,0 +1,111 @@
+{
+  "person_id": "byron-harmon",
+  "display_name": "Byron Harmon",
+  "birth_year": 1876,
+  "death_year": 1942,
+  "researched_on": "2026-04-10",
+  "role_at_1906_yoho": "Graduating/active founding member of Alpine Club of Canada; official club photographer",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "V263",
+      "fonds_title": "Byron Harmon fonds",
+      "url": "https://archives.whyte.org/en/list?q=harmon",
+      "extent": "6,500+ photographs (negatives and prints), 1903-1942",
+      "scope": "Photographic negatives, prints, postcards; scenic and panoramic views of Canadian Rockies; Alpine Club of Canada camp documentation",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "ONE confirmed 1906 material located: V263/NA-149 'Yoho, misc.' — negative of Alpine Club of Canada camp at Summit Lake, Yoho, dated [1906]. Additional Harmon camp images in fonds are dated 1910 and 1914 (Upper Yoho Glacier camps). Total of 27 search results for 'harmon 1906' spanning multiple media types.",
+      "notes": "Harmon was founding member of ACC in 1906 and attended inaugural camp at Yoho Pass. His photographic business in Banff (1903-1942) produced the dominant visual record of Canadian Rockies. Whyte holds his complete archival legacy."
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "fonds_id": "unknown",
+      "fonds_title": "LAC photograph collections (scattered Harmon images)",
+      "url": "https://www.bac-lac.gc.ca/",
+      "extent": "Unknown; scattered holdings",
+      "scope": "Photographs",
+      "relevance_to_1906_yoho": "unknown",
+      "has_digital_access": null,
+      "searched_camp_materials": false,
+      "findings": "Not systematically searched; LAC known to hold scattered Harmon images per research leads",
+      "notes": "Requires direct contact or institutional navigation to specific collections"
+    }
+  ],
+  "digital_assets_downloaded": [],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Glenbow Western Research Centre (University of Calgary)",
+      "reason": "Possible Harmon prints in photo history collections; online discoverability unclear",
+      "contact": "403-220-3958 or digitalcollections.ucalgary.ca"
+    },
+    {
+      "institution": "Canada Science and Technology Museum",
+      "reason": "Photo history collections may include Harmon; online status unknown",
+      "contact": "General inquiry needed"
+    },
+    {
+      "institution": "Canadian Museum of History",
+      "reason": "Alpine Club of Canada camp documentation; searchable collections exist but Harmon materials not yet verified",
+      "contact": "https://www.historymuseum.ca/collections/"
+    },
+    {
+      "institution": "Banff Public Library",
+      "reason": "Local history materials; may hold physical prints or documentation of Harmon's Banff photographic business",
+      "contact": "Local institutional contact"
+    },
+    {
+      "institution": "Whyte Museum (in-person visit)",
+      "reason": "Complete Harmon negative registers/ledgers not found online; physical archive access recommended",
+      "contact": "archives@whyte.org, 403-762-2291, 111 Bear Street, Banff"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-04-10",
+      "query": "harmon 1906",
+      "result": "27 records total; no specific 1906 Yoho camp images immediately identified on first page"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "harmon yoho",
+      "result": "4 Harmon Yoho items found (Takakkaw Falls, Yoho Glacier, Cathedral Peak); all postcards, no date restriction yielded 1910-1914 camp materials"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "alpine club 1906",
+      "result": "13 pages; Harmon, Byron listed with 4 items but not on page 1; requires page traversal"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "camp yoho 1906",
+      "result": "36 total records; 3 items attributed to Harmon but item-level details not displayed on search results page"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "harmon camp yoho",
+      "result": "6 items found all dated 1914 or [1914?], no 1906 materials in results"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "harmon summit lake 1906",
+      "result": "FOUND: V263/NA-149 'Yoho, misc.' — negative, Alpine Club of Canada camp at Summit Lake, Yoho, [1906]"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "harmon inaugural camp alpine",
+      "result": "No results found"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "harmon vice president 1906",
+      "result": "No direct Harmon results; Thorington papers (M106/V622) contain 1928 letter from Harmon and mountain climbing notes but not 1906 Yoho camp photos"
+    },
+    {
+      "date": "2026-04-10",
+      "query": "harmon negative register ledger",
+      "result": "No results found"
+    }
+  ]
+}

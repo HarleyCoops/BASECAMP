@@ -1,0 +1,27 @@
+{
+  "silo_id": "ascent-assiniboine-benham",
+  "title": "The Ascent of Mt. Assiniboine — Gertrude E. Benham",
+  "article_slug": "ascent-assiniboine-benham",
+  "article_number": 12,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "gertrude-benham",
+    "display_name": "Gertrude E. Benham",
+    "at_camp": false,
+    "ell_silo_id": null
+  },
+  "summary": "Ascent of the 'Matterhorn of the Rockies' by pioneering woman mountaineer.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

@@ -1,0 +1,49 @@
+{
+  "person": "elizabeth-parker",
+  "source": "Whyte Museum",
+  "queries": [
+    "elizabeth+parker",
+    "parker+alpine+club",
+    "parker+1906+alpine",
+    "parker+yoho",
+    "parker+winnipeg"
+  ],
+  "downloaded": 3,
+  "total_bytes": 434120,
+  "items": [
+    {
+      "pid": "descriptions1041",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1041",
+      "title": "Display photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac00p_01_to_444_web/v14_ac00p_30.jpg",
+      "downloaded": true,
+      "file": "descriptions1041_v14_ac00p_30.jpg",
+      "bytes": 84932,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49267",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49267",
+      "title": "Annual meeting of Alpine Club of Canada, secretary (Elizabeth Parker) reading her report [Lake O'Hara, Yoho Park, B.C.] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v14_web_copy/v14_ac55_5_984_na66_2131.jpg",
+      "downloaded": true,
+      "file": "descriptions49267_v14_ac55_5_984_na66_2131.jpg",
+      "bytes": 239834,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions7261",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions7261",
+      "title": "Elizabeth Parker photograph albums - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_01_to_56_web/v14_ac55p_35_38_2.jpg",
+      "downloaded": true,
+      "file": "descriptions7261_v14_ac55p_35_38_2.jpg",
+      "bytes": 109354,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 1
+}

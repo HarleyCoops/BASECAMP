@@ -1,0 +1,146 @@
+{
+  "silo_id": "chief-mountaineer-report",
+  "title": "Report of Chief Mountaineer — M.P. Bridgland",
+  "article_slug": "chief-mountaineer-report",
+  "article_number": 28,
+  "section": "OFFICIAL",
+  "author": {
+    "person_id": "morrison-bridgland",
+    "display_name": "M.P. Bridgland",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Official record of all climbs. Vice-President route details (arete, Angle Peak, snowfield). Daily climb logs with times, parties, graduates. Side climbs: Burgess, Wapta (x4), Collie, Field, President, Marpole, Amgadamo (first ascents). Yoho Valley trips (60 people), Emerald Glacier trips (27 people), Takakkaw Falls trip (19 people).",
+  "emerald_lake_references": [
+    {
+      "passage": "The Burgess trail seemed a favorite... from which the Presidents range and Emerald mountains with their glaciers, icefalls and torrents, are seen to the greatest advantage; while below, Emerald lake nestles in a setting of deep green forest.",
+      "context": "View from Burgess Pass trail — return route for many campers",
+      "place_ids": [
+        "burgess-pass",
+        "emerald-lake"
+      ]
+    },
+    {
+      "passage": "Three trips were made, under the leadership of the Rev. J.C. Herdman, to the glacier below the northeastern escarpment of the President range, known as the Emerald glacier.",
+      "context": "Emerald Glacier trips — glacier named for its relation to Emerald Lake",
+      "place_ids": [
+        "emerald-glacier"
+      ]
+    }
+  ],
+  "people_mentioned": [
+    "morrison-bridgland",
+    "hg-wheeler",
+    "edouard-feuz",
+    "gottfried-feuz",
+    "jc-herdman",
+    "jd-patterson",
+    "eo-wheeler",
+    "pd-mctavish",
+    "am-gordon",
+    "ao-macrae",
+    "alex-dunn",
+    "george-kinney",
+    "jh-miller",
+    "ec-barnes",
+    "henrietta-tuzo",
+    "christian-kaufmann",
+    "byron-harmon",
+    "jean-parker",
+    "sh-baker"
+  ],
+  "places_mentioned": [
+    "camp-yoho",
+    "yoho-pass",
+    "michael-peak",
+    "angle-peak",
+    "vice-president",
+    "president",
+    "mt-burgess",
+    "mt-wapta",
+    "mt-collie",
+    "mt-field",
+    "mt-marpole",
+    "mt-amgadamo",
+    "emerald-glacier",
+    "takakkaw-falls",
+    "laughing-falls",
+    "twin-falls",
+    "yoho-glacier",
+    "burgess-pass",
+    "inspiration-point",
+    "lookout-point",
+    "emerald-lake"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1906-07-08",
+      "event": "Route scouting party departs for VP"
+    },
+    {
+      "date": "1906-07-09",
+      "event": "Camp opens officially"
+    },
+    {
+      "date": "1906-07-10",
+      "event": "First official climb + Burgess. 9 graduate."
+    },
+    {
+      "date": "1906-07-11",
+      "event": "Second climb + Wapta. 9 graduate."
+    },
+    {
+      "date": "1906-07-12",
+      "event": "Third climb + Collie + Field + Wapta. 13 graduate."
+    },
+    {
+      "date": "1906-07-13",
+      "event": "Fourth climb + Wapta. 7 graduate."
+    },
+    {
+      "date": "1906-07-14",
+      "event": "Fifth climb + President summit. 4 graduate."
+    },
+    {
+      "date": "1906-07-16",
+      "event": "Marpole + Amgadamo first ascents."
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "AN AWKWARD CORNER — Mount Vice-President",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "A PIECE OF ROCK WORK — Mount Vice-President",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "THE UPPER SNOWFIELD—MOUNT VICE-PRESIDENT",
+      "credit": "Rev. Geo. B. Kinney"
+    },
+    {
+      "caption": "A CLIMBING PARTY — Mt. Burgess",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "DESCENDING THE GLACIER — Mt. Vice-President",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "LAUGHING FALL CAMP — Yoho Valley Trip",
+      "credit": "uncredited"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 169,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1"
+  },
+  "fonds_leads": [
+    "LAC Topographical Survey records"
+  ]
+}

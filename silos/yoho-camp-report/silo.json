@@ -1,0 +1,60 @@
+{
+  "silo_id": "yoho-camp-report",
+  "title": "Report of the Yoho Camp, July, 1906 — Official Circular",
+  "article_slug": "yoho-camp-report",
+  "article_number": 23,
+  "section": "OFFICIAL",
+  "author": {
+    "person_id": "hg-wheeler",
+    "display_name": "H.G. Wheeler / Elizabeth Parker (signatories)",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Official circular for the camp. Rules, charges ($1-2/day), equipment requirements (hobnailed boots, knickerbockers, puttees, colored glasses). 40 lb baggage limit. No skirts on rope. Camp opens July 9, closes July 16. First Annual Meeting held at camp.",
+  "emerald_lake_references": [],
+  "people_mentioned": [
+    "hg-wheeler",
+    "elizabeth-parker"
+  ],
+  "places_mentioned": [
+    "field-station",
+    "camp-yoho"
+  ],
+  "dates_mentioned": [
+    {
+      "date": "1906-07-08",
+      "event": "Arrive at Field by evening train"
+    },
+    {
+      "date": "1906-07-09",
+      "event": "Camp opens"
+    },
+    {
+      "date": "1906-07-16",
+      "event": "Camp closes"
+    }
+  ],
+  "photos_in_article": [
+    {
+      "caption": "GUIDES IN CHARGE OF CLIMBING—YOHO CAMP",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "A WELL EARNED REST—MOUNT VICE-PRESIDENT",
+      "credit": "uncredited"
+    },
+    {
+      "caption": "YOHO CAMP",
+      "credit": "uncredited"
+    }
+  ],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "page": 169,
+    "wikisource": "https://en.wikisource.org/wiki/Canadian_Alpine_Journal/Volume_1/Number_1/Report_of_the_Yoho_Camp,_July,_1906"
+  },
+  "fonds_leads": []
+}

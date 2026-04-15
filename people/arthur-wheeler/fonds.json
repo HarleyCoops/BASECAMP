@@ -1,0 +1,128 @@
+{
+  "person_id": "arthur-wheeler",
+  "display_name": "Arthur Oliver Wheeler",
+  "researched_on": "2026-04-10",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M546 / V771",
+      "fonds_title": "Arthur Oliver Wheeler fonds",
+      "url": "https://archives.whyte.org/en/list?q=name:%22Wheeler,+Arthur+Oliver%22&p=1&ps=&sort=title_sort+asc",
+      "scope": "53 diaries (1885-1944) covering personal life, travel, office work, Alpine Club of Canada camps; 2 scrapbooks/volumes with articles, newspaper clippings, letters (1902-1940); 7 volumes of field notes; 66 photograph albums (~5,000 images) of black and white prints from glass negatives (1915-1924); photographic albums from Alberta-British Columbia Interprovincial Boundary photo survey (1913-1925)",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "Fonds contains 53 diaries spanning 1885-1944, which would include 1906 camp diary entries. Extensive photograph collection (5,000+ images in 66 albums) includes materials from survey period overlapping 1906. Scrapbooks contain clippings, articles, and ACC brochures 1902-1913. No online digitization noted; requires on-site consultation or special order.",
+      "notes": "Primary archival source for Wheeler's personal documentation of 1906 camp. Diaries are key to accessing field observations. Finding aid indicates processing complete with no access restrictions."
+    },
+    {
+      "institution": "Alpine Club of Canada Archives - University of Calgary Archives & Special Collections",
+      "fonds_id": "ACC main fonds - Whyte Museum; Calgary Section fonds at UCalgary",
+      "fonds_title": "Alpine Club of Canada fonds",
+      "url": "https://searcharchives.ucalgary.ca/alpine-club-of-canada-2",
+      "scope": "1906 Yoho camp records, including camp minutes, participant lists, trip reports, photographs, equipment records. Cache also at Whyte Museum with full organizational records and 1399+ items related to ACC camps, expeditions, activities, and facilities.",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "ACC 1906 Yoho camp held July 8-16, 1906 with 112+ participants. Wheeler was principal founder and first president (1906-1910), editor of Canadian Alpine Journal (1907-1930). Camp report published in CAJ Vol.1 No.1 (1907). Scientific work included glacier measurements on Yoho Glacier. Records at both Whyte Museum (main) and University of Calgary (Calgary Section only). Whyte Museum holds 1399+ ACC records total.",
+      "notes": "Dual archival location: main ACC records at Whyte Museum Banff; Calgary Section records at University of Calgary. May require consultation at both institutions."
+    },
+    {
+      "institution": "Library and Archives Canada (LAC)",
+      "fonds_id": "R7666-0-8-E (Sandford Fleming fonds); Topographical Surveys Branch records",
+      "fonds_title": "Topographical Survey of Canada records; Sandford Fleming fonds",
+      "url": "https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?app=fonandcol&IdNumber=4145823",
+      "scope": "Wheeler's topographical maps and surveys created as part of Topographical Survey of Canada (1906-1925). Specific materials: Mount Robson map (1912, H2/619/Cariboo/1912); photo-topographic survey records and field documentation from Interior Department appointment (1903-1910 Selkirk work, 1913-1925 AB-BC boundary survey). Approximately 60,000 glass plate negatives total.",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "LAC holds Wheeler's cartographic work from 1906-1925 period, including maps accompanying Alpine Club expeditions and survey reports. Mount Robson map (1912) available in microfiche (NMC24015). Photo-topographic glass plates from this period may document Yoho valley terrain. No direct 1906 camp materials found but survey work overlapped geographically and temporally.",
+      "notes": "Public domain copyright status. Microfiche copy available (NMC24015). Topographical Surveys Branch finding aid needed for complete inventory. Original glass negatives (60,000 total) held at LAC but not all digitized."
+    },
+    {
+      "institution": "BC Archives (Royal BC Museum)",
+      "fonds_id": "Photo-topographical survey records (unclear reference)",
+      "fonds_title": "Photo-topographical survey records",
+      "url": "https://search-bcarchives.royalbcmuseum.bc.ca/photo-topographical-survey-records",
+      "scope": "Topographical maps, index books for survey stations in BC, microfiche with station data, library materials on topography. Wheeler participated in BC boundary survey work 1913-1925.",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": true,
+      "findings": "BC Archives holds photo-topographical survey records including materials from Wheeler's boundary survey period (1913-1925). No specific 1906 Yoho camp materials identified in search results, but survey station records and maps from that era present.",
+      "notes": "Specialized collection requiring direct inquiry. BC location connection may have additional provincial records."
+    },
+    {
+      "institution": "Mountain Legacy Project - University of Victoria",
+      "fonds_id": "Multiple Wheeler photo-topographic plates (indexed, not fully digitized)",
+      "fonds_title": "Wheeler Photo-Topographic Plates (Historic Mountain Imagery Archive)",
+      "url": "https://mountainlegacy.ca/",
+      "scope": "Historic photo-topographic glass plates from Wheeler's surveys (approximately 120,000 total plates across Canada, ~60,000 at LAC). Specific documented Wheeler images: Athabasca Glacier (1917), All Smoke Station (1895), Mount Robson expedition (1911).",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Mountain Legacy Project has catalogued and indexed Wheeler's photo-topographic plates. Some images available online through their database including Athabasca Glacier (1917) and All Smoke Station (1895). 1906 Yoho plates likely exist but not directly linked in search results. Project focus on landscape change over 150 years makes comparison/context valuable.",
+      "notes": "Most historic plates in glass form at LAC; MLP provides digital access to selected images. Database searchable online at explore.mountainlegacy.ca"
+    },
+    {
+      "institution": "Internet Archive / Wikisource (Public Domain)",
+      "fonds_id": "N/A - Public domain publications",
+      "fonds_title": "Canadian Alpine Journal Vol. 1 (1907-08), Wheeler's articles and First Camp Report",
+      "url": "https://archive.org/details/canadianalpinejo01alpiuoft",
+      "scope": "Complete 546-page Canadian Alpine Journal Vol.1 (1907-08) containing: 'Canada's First Alpine Club Camp' (Yeigh/Wheeler camp report), 'The Canadian Rockies: a field for an Alpine Club' (Wheeler), 'Observations of the Yoho Glacier' (Wheeler, pp.149-159), 'Wapta Icefield' map to accompany Yoho observations.",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Canadian Alpine Journal Vol.1 (1907-08) freely accessible in multiple formats (PDF, EPUB, full text, JP2). Contains primary source documentation of 1906 camp by Wheeler and co-organizers. Wheeler article details scientific work (glacier measurement, plate placement) and camp logistics. Yoho Glacier article includes topographic map.",
+      "notes": "Public domain in US (published before 1929). Downloaded as 26MB PDF. Full text also available via archive.org streaming. Wikisource has transcribed versions of individual articles."
+    }
+  ],
+  "digital_assets_downloaded": [
+    {
+      "filename": "canadian_alpine_journal_vol1_1907-08.pdf",
+      "source_url": "https://archive.org/download/canadianalpinejo01alpiuoft/canadianalpinejo01alpiuoft.pdf",
+      "permalink": "https://archive.org/details/canadianalpinejo01alpiuoft",
+      "caption": "Complete Canadian Alpine Journal Volume 1 (1907-08) containing Wheeler's 'The Canadian Rockies: a field for an Alpine Club', the official 1906 Yoho Camp Report, and 'Observations of the Yoho Glacier' with accompanying Wapta Icefield map",
+      "date": "1907-08",
+      "license": "Public Domain (US)",
+      "size_mb": 26
+    }
+  ],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds": "Arthur Oliver Wheeler fonds (M546/V771)",
+      "reason": "53 diaries (1885-1944) and 66 photograph albums (5,000+ images) require on-site consultation or special reproduction order. No online digitization currently available. 1906 camp diary and related photographs likely present.",
+      "contact": "Archives & Library, Whyte Museum, P.O. Box 160, Banff, AB T1L 1A3; https://www.whyte.org/research-collections"
+    },
+    {
+      "institution": "Alpine Club of Canada Archives (Whyte Museum location)",
+      "fonds": "Alpine Club of Canada records (1399+ items)",
+      "reason": "Main ACC archive at Whyte Museum holds complete organizational records for 1906 camp including minutes, participants lists, equipment records, photographs, and documents. Not fully digitized.",
+      "contact": "Alpine Club of Canada, 201 Indian Flats Rd, Canmore, AB T1W 2T8; archives at Whyte Museum reference services"
+    },
+    {
+      "institution": "Library and Archives Canada",
+      "fonds": "Topographical Surveys Branch records; Sandford Fleming fonds",
+      "reason": "LAC holds original glass plate negatives (60,000 total from survey period) and topographical maps created by Wheeler 1906-1925. Mount Robson map (1912) available in microfiche only. Finding aid consultation needed for complete Yoho-era survey documentation.",
+      "contact": "Library and Archives Canada, 395 Wellington St, Ottawa, ON K1A 0N4; https://www.bac-lac.gc.ca/"
+    },
+    {
+      "institution": "BC Archives (Royal BC Museum)",
+      "fonds": "Photo-topographical survey records",
+      "reason": "May hold BC-specific index books and station data from Wheeler's 1913-1925 boundary survey work. 1906 materials less likely but provincial records should be checked.",
+      "contact": "BC Archives, Royal BC Museum, 888 Fisgard St, Victoria, BC V8W 9HP; https://royalbcmuseum.bc.ca/archives"
+    },
+    {
+      "institution": "Mountain Legacy Project (University of Victoria)",
+      "fonds": "Wheeler Photo-Topographic Plates Archive",
+      "reason": "Online searchable database (explore.mountainlegacy.ca) has indexed Wheeler plates. Database interface may reveal 1906 Yoho valley or glacier documentation not discoverable through standard web search. Direct query recommended.",
+      "contact": "Mountain Legacy Project, University of Victoria; https://mountainlegacy.ca/"
+    },
+    {
+      "institution": "University of Calgary Archives & Special Collections",
+      "fonds": "Alpine Club of Canada Calgary Section fonds (ACC main records at Whyte)",
+      "reason": "Calgary Section records (1979 gift to UCalgary) may contain correspondence or materials related to Wheeler's organizational work. Unlikely to have 1906 camp primary documents but worth verification.",
+      "contact": "Archives & Special Collections, University of Calgary, 110 Library Way, Calgary, AB T2N 1N4; https://asc.ucalgary.ca/"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "person_id": "mary-vaux",
+  "display_name": "Mary Morris Vaux Walcott (1860–1940)",
+  "researched_on": "2026-04-10",
+  "fonds": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "fonds_id": "M107/V653",
+      "fonds_title": "Vaux Family fonds",
+      "url": "https://archives.whyte.org/en/search",
+      "scope": "photographs, glass plate negatives, field journals, mountaineering records, glacier documentation, 1887–1939+",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "Confirmed: Vaux family (George Jr, William, Mary) glacier measurements at Yoho Glacier, annual documentation 1898–1922+. 2500+ negatives/lantern slides in collection. Specific 1906 Yoho Pass camp photographs likely present but require detailed catalog search. M107/V653 includes Travel 1894–1912 series with glass plate negatives.",
+      "notes": "Fonds includes Mary's field photography, mountaineering records, and glacier survey notebooks. URL pattern: https://archives.whyte.org/en/permalink/descriptions[ID]"
+    },
+    {
+      "institution": "Smithsonian Institution Archives",
+      "fonds_id": "SIA Acc. 16-103",
+      "fonds_title": "Walcott Family Papers, 1720–1929, 1944, 1995",
+      "url": "https://siarchives.si.edu/collections/siris_arc_380741",
+      "scope": "personal correspondence, genealogical materials, photographs, field research expedition materials, lantern slides for wildflower lectures",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Confirmed: Collection includes eight boxes of lantern slides used by Mary Vaux Walcott to illustrate American wildflowers. Contains photographs including Charles D. Walcott and family members at Yoho Canyon bungalow camp (1924). Family correspondence and personal photography from field expeditions likely covers 1906 Yoho period.",
+      "notes": "Restricted access through SI Archives portal (403 error encountered). Requires direct institutional contact or on-site visit."
+    },
+    {
+      "institution": "Smithsonian Institution Archives",
+      "fonds_id": "SIA Acc. 92-006",
+      "fonds_title": "Walcott, Mary Vaux, 1860–1940: North American Wildflowers Prints, 1925",
+      "url": "https://siarchives.si.edu/collections/siris_arc_254221",
+      "scope": "printed color reproductions, botanical art, wildflower illustrations",
+      "relevance_to_1906_yoho": "low",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "This accession contains Mary Vaux Walcott's published botanical artwork from her five-volume North American Wild Flowers series (1925–1929). Not directly relevant to 1906 camp documentation but shows her scientific illustration work.",
+      "notes": "Later publication; illustrates her post-1906 botanical career at Smithsonian."
+    },
+    {
+      "institution": "Smithsonian American Art Museum",
+      "fonds_id": "N/A (artist record 5197)",
+      "fonds_title": "Mary Vaux Walcott artist collection",
+      "url": "https://americanart.si.edu/artist/mary-vaux-walcott-5197",
+      "scope": "watercolor paintings of wildflowers and botanical subjects, 1880s–1930s+",
+      "relevance_to_1906_yoho": "medium",
+      "has_digital_access": true,
+      "searched_camp_materials": false,
+      "findings": "Website confirms holdings of Vaux Walcott's botanical watercolors. May include field studies from Canadian Rockies summers, though catalog search required to identify 1906 Yoho-specific work.",
+      "notes": "Searchable collection; requires direct search on americanart.si.edu for 1906-date filtered results."
+    },
+    {
+      "institution": "Academy of Natural Sciences of Drexel University",
+      "fonds_id": "Unknown (Vaux family member collections)",
+      "fonds_title": "Vaux Family Archives",
+      "url": "https://ansp.org/",
+      "scope": "Unknown; Vaux family were members",
+      "relevance_to_1906_yoho": "unknown",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Institution holds 19 million specimens and archival materials. Vaux family affiliation confirmed but collection scope for Mary Vaux materials not verified.",
+      "notes": "Requires direct contact with ANSP Library and Archives for specific holdings."
+    },
+    {
+      "institution": "Canadian Alpine Club of Canada Archives",
+      "fonds_id": "Unknown",
+      "fonds_title": "Alpine Club of Canada records and member materials",
+      "url": "https://alpineclubofcanada.ca/",
+      "scope": "founding member records, 1906 inaugural Yoho Pass camp documentation",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": false,
+      "searched_camp_materials": false,
+      "findings": "Mary Vaux was a charter member (1906) and attended the inaugural Yoho Pass camp (July 8–16, 1906). 15 women graduated from camp; she was among founding female members. Published 'Camping in the Canadian Rockies' in Canadian Alpine Journal Vol. 1 No. 1 (1907).",
+      "notes": "Journal available digitally (Internet Archive), but camp membership records and personal correspondence with ACC require institutional contact."
+    },
+    {
+      "institution": "Internet Archive",
+      "fonds_id": "N/A",
+      "fonds_title": "Canadian Alpine Journal Vol. 1 No. 1 (1907)",
+      "url": "https://archive.org/details/canadianalpinejo01alpiuoft",
+      "scope": "published journal articles, camp reports, member narratives",
+      "relevance_to_1906_yoho": "high",
+      "has_digital_access": true,
+      "searched_camp_materials": true,
+      "findings": "CONFIRMED: Mary Vaux authored 'Camping in the Canadian Rockies' in CAJ Vol. 1 No. 1 (1907), describing her 1906 Yoho Pass camp experience. Journal also includes Frank Yeigh's detailed 'Canada's First Alpine Club Camp' account. Available freely via Internet Archive, no copyright restrictions.",
+      "notes": "Out of copyright; full text accessible. No watermark restrictions."
+    }
+  ],
+  "digital_assets_downloaded": [],
+  "leads_pending_manual_access": [
+    {
+      "institution": "Whyte Museum of the Canadian Rockies",
+      "reason": "Direct catalog search and digital asset download of 1906 Yoho camp photographs, glacier notebooks, and field journals within V653 fonds. Requires searching archive.whyte.org for date-range-filtered results.",
+      "contact": "archives@whyte.org or 403-762-2291"
+    },
+    {
+      "institution": "Smithsonian Institution Archives",
+      "reason": "Access to SIA Acc. 16-103 (Walcott Family Papers) to verify 1906 Yoho-period correspondence and field photography. Portal currently blocked (403); requires direct contact or on-site research.",
+      "contact": "Research inquiries at SI Archives website"
+    },
+    {
+      "institution": "Alpine Club of Canada",
+      "reason": "Charter membership records, 1906 camp attendance documentation, and any surviving correspondence or photographs from inaugural Yoho Pass camp.",
+      "contact": "Main office in Banff, AB"
+    },
+    {
+      "institution": "Smithsonian American Art Museum",
+      "reason": "Detailed catalog search for watercolor paintings dated or documented as 1906 Yoho/Emerald Lake field studies.",
+      "contact": "americanart.si.edu search or collections research"
+    }
+  ]
+}

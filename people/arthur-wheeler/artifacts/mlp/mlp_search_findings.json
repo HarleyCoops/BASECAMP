@@ -1,0 +1,116 @@
+{
+  "search_campaign": "BASECAMP 1906 ACC Camp Reconstruction - MLP Wheeler Plates Harvest",
+  "date_searched": "2026-04-10",
+  "target": "Arthur Oliver Wheeler's photo-topographic plates, Yoho/Field area, 1898-1910",
+  "search_status": "PARTIAL - Archive Access Limitations",
+
+  "sources_investigated": {
+    "mountain_legacy_project": {
+      "url": "https://mountainlegacy.ca/",
+      "status": "Website accessible",
+      "findings": "MLP main site operational with blog, projects, and news. 33 posts mentioning Wheeler found in WordPress search. 13 research projects indexed. No dedicated Yoho/Field project found."
+    },
+    "mlp_explorer": {
+      "url": "https://explorer.mountainlegacy.ca/",
+      "status": "OFFLINE",
+      "findings": "Map-based image search tool appears to be down or requires special access. Connection refused."
+    },
+    "mlp_image_analysis_toolkit": {
+      "url": "https://mountainlegacy.ca/image-analysis-toolkit/",
+      "status": "Available but viewer-only",
+      "findings": "Interactive toolkit for comparing historic and repeat photo pairs. No direct image download capability detected."
+    },
+    "uvic_dspace": {
+      "url": "https://dspace.library.uvic.ca/",
+      "status": "Available with access restrictions",
+      "findings": "University of Victoria institutional repository. DSpace and REST APIs blocked for automated access."
+    },
+    "library_archives_canada": {
+      "url": "https://recherche-collection-search.bac-lac.gc.ca/",
+      "status": "Available (HTML-based search only)",
+      "findings": "LAC collection search interface is HTML-based requiring browser interaction. No API-based JSON/XML export available for automated harvesting. OAI-PMH endpoints not responding."
+    },
+    "borealis_data": {
+      "url": "https://borealis.ca/",
+      "status": "UNREACHABLE",
+      "findings": "Open data repository reported offline or network unreachable."
+    }
+  },
+
+  "mlp_projects_identified": [
+    {
+      "title": "In his Footsteps: Repeating a Classic J.J. McArthur Station",
+      "url": "https://mountainlegacy.ca/project/mcarthur/",
+      "relevance": "McArthur contemporary of Wheeler; may contain related survey station methodology",
+      "potentially_relevant": true
+    },
+    {
+      "title": "Focus on Ice and Snow",
+      "url": "https://mountainlegacy.ca/project/ice/",
+      "relevance": "Glacial imagery; Yoho Pass area has Wapta Icefield - relevant for glacier change documentation",
+      "potentially_relevant": true
+    },
+    {
+      "title": "IAT: Station locations and data",
+      "url": "https://mountainlegacy.ca/project/iatlocations/",
+      "relevance": "Contains metadata for surveyed stations; likely includes Wheeler's survey points",
+      "potentially_relevant": true
+    },
+    {
+      "title": "New Natures",
+      "url": "https://mountainlegacy.ca/project/new-natures-template/",
+      "relevance": "Historical landscape photography with repeat imagery",
+      "potentially_relevant": true
+    }
+  ],
+
+  "access_challenges": [
+    "MLP Explorer image database (main search tool) offline or requires authentication",
+    "DSpace institutional API blocks automated queries",
+    "LAC SRU/OAI-PMH endpoints not functional for phototopographic plates",
+    "No bulk download CSV/JSON metadata export available",
+    "MLP does not publish a public catalog of Wheeler's plates with direct image URLs",
+    "Individual images accessible through LAC and UVic but require manual browsing"
+  ],
+
+  "recommendations": {
+    "direct_contact": {
+      "contact": "Eric Higgs, MLP Director",
+      "email": "ehiggs@uvic.ca",
+      "phone": "+1-250-721-8228",
+      "affiliation": "Environmental Studies, University of Victoria",
+      "reason": "Request direct access to Wheeler 1904-1910 Yoho/Field plates metadata and images"
+    },
+    "specific_requests": [
+      "Metadata CSV/JSON for Wheeler's Dominion Land Survey plates in Yoho/Field area",
+      "Station numbers and locations: Yoho Pass, Emerald Lake, Summit Lake, Wapta Icefield, Burgess Pass, Mount Stephen, Takakkaw Falls",
+      "Direct image URLs or download links for digitized glass plates",
+      "Accompanying repeat photographs from MLP field campaigns (2000s-2020s)",
+      "Map references and topographic map associations for each plate"
+    ],
+    "alternative_approach": [
+      "Search Library and Archives Canada collection manually at https://recherche-collection-search.bac-lac.gc.ca/",
+      "Query: 'Arthur Wheeler' + 'phototopographic' + 'Yoho' or 'Field' or 'Emerald Lake'",
+      "Filter by date range 1898-1910 and collection: 'Dominion Land Survey'",
+      "Request archival access to original glass plates if digitization incomplete"
+    ],
+    "supplementary_sources": [
+      "Alpine Club of Canada Archives (may have Wheeler expedition records, 1906 camp documentation)",
+      "Whyte Museum of the Canadian Rockies (M series holdings - architectural and mountain photography)",
+      "Canadian Geological Survey historical records (Wheeler was also involved in geological surveys)",
+      "1906/1907 Canadian Alpine Journal volumes (ACC camp records, expedition photos, climbing routes)"
+    ]
+  },
+
+  "plates_found": 0,
+  "total_downloads": "0 MB",
+  "status_summary": "MLP's digitized Wheeler collection exists but is not currently accessible via automated API harvesting. Primary archive (explorer.mountainlegacy.ca) offline. Direct institutional contact required to obtain plate metadata and image URLs. Library and Archives Canada holds the source materials but requires manual search interface navigation.",
+
+  "next_steps": [
+    "Email MLP director with specific request for Wheeler Yoho/Field 1904-1910 metadata",
+    "Contact Library and Archives Canada Reference Services for batch metadata export",
+    "Explore LAC's manual collection search for Wheeler plates with location keywords",
+    "Cross-reference 1906 Alpine Club of Canada records with MLP Wheeler station data",
+    "Download any available plates from LAC web interface and catalog locally"
+  ]
+}

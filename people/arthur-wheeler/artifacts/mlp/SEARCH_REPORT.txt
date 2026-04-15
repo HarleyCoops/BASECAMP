@@ -1,0 +1,165 @@
+================================================================================
+BASECAMP PROJECT - MOUNTAIN LEGACY PROJECT WHEELER PLATES HARVEST
+Search Report: April 10, 2026
+================================================================================
+
+OBJECTIVE:
+Locate and download Arthur Oliver Wheeler's photo-topographic plates from the
+Mountain Legacy Project (MLP) archive, specifically from the Yoho/Field area,
+1904-1910, for the 1906 Alpine Club of Canada camp reconstruction.
+
+SEARCH SCOPE:
+- Target surveyor: Arthur Oliver Wheeler (Dominion Land Survey)
+- Region: Yoho Pass, Emerald Lake, Summit Lake, Wapta Icefield, Burgess Pass, Mount Stephen, Takakkaw Falls
+- Date range: 1904-1910 (focus on 1906 for ACC camp baseline)
+- Format: Photo-topographic glass plate digitizations + repeat photographs
+
+================================================================================
+ARCHIVE SOURCES INVESTIGATED:
+================================================================================
+
+1. MOUNTAIN LEGACY PROJECT (mountainlegacy.ca)
+   Status: ACCESSIBLE
+   - Main website operational with blog, news, research projects
+   - 33 posts mentioning Wheeler in WordPress content
+   - 13 documented research projects indexed via REST API
+   - No dedicated Yoho/Field project found
+   - Projects with potential relevance:
+     * "Focus on Ice and Snow" (glacial imagery)
+     * "In his Footsteps: J.J. McArthur Station" (contemporary surveyor)
+     * "IAT: Station locations and data" (survey metadata)
+
+2. MLP EXPLORER (explorer.mountainlegacy.ca)
+   Status: OFFLINE / UNREACHABLE
+   - Primary image search tool unavailable
+   - Connection refused or service down
+   - This is the main public interface for browsing digitized plates
+
+3. IMAGE ANALYSIS TOOLKIT
+   Status: ACCESSIBLE (VIEWER-ONLY)
+   - Available at: mountainlegacy.ca/image-analysis-toolkit/
+   - Allows side-by-side comparison of historic and repeat photos
+   - No bulk download capability detected
+   - Requires manual image selection and navigation
+
+4. UNIVERSITY OF VICTORIA DSPACE (dspace.library.uvic.ca)
+   Status: ACCESSIBLE (RESTRICTED)
+   - Institutional repository hosts MLP archive
+   - REST API and OAI-PMH endpoints blocked for automated queries
+   - Browser-based access possible but requires manual navigation
+   - No public metadata export available
+
+5. LIBRARY AND ARCHIVES CANADA (recherche-collection-search.bac-lac.gc.ca)
+   Status: ACCESSIBLE (HTML-BASED ONLY)
+   - LAC maintains master digitized collection of Wheeler plates
+   - Web search interface functional but HTML-based
+   - No JSON/XML API for automated batch retrieval
+   - OAI-PMH endpoints reported not functional
+   - SRU (Search/Retrieve via URL) protocol not responding
+
+6. BOREALIS DATA REPOSITORY (borealis.ca)
+   Status: UNREACHABLE
+   - Open data portal mentioned by MLP
+   - Connection timeout / DNS resolution failure
+   - Cannot verify if MLP datasets published there
+
+================================================================================
+KEY FINDINGS:
+================================================================================
+
+PLATES SUCCESSFULLY DOWNLOADED: 0
+
+ARCHIVE STATUS:
+The Mountain Legacy Project holds digitized Arthur Oliver Wheeler photo-
+topographic plates from Library and Archives Canada, but:
+
+✗ Primary search interface (MLP Explorer) is offline
+✗ No bulk download API available for metadata or images
+✗ No published catalog of Wheeler plates with direct URLs
+✗ Institutional repository (UVic DSpace) blocks automated access
+✗ LAC collection search requires interactive web browser navigation
+✗ No OAI-PMH or standardized data export format available
+
+IMPLICATION:
+Individual plates can be accessed through manual browsing of LAC or MLP
+interfaces, but systematic harvesting of Wheeler's Yoho/Field series is
+not possible through automated means.
+
+================================================================================
+RECOMMENDED NEXT STEPS:
+================================================================================
+
+1. DIRECT INSTITUTIONAL CONTACT (Primary Approach)
+   Contact: Eric Higgs, MLP Director
+   Email: ehiggs@uvic.ca
+   Phone: +1-250-721-8228
+   Purpose: Request metadata CSV/JSON export for Wheeler plates in Yoho/Field area
+
+2. LIBRARY AND ARCHIVES CANADA REFERENCE SERVICES
+   Interface: Manual search at recherche-collection-search.bac-lac.gc.ca
+   Query terms: "Arthur Wheeler" + "phototopographic" + "Yoho" or "Field"
+   Filters: Date 1898-1910, Collection: Dominion Land Survey
+   Alternative: LAC Reference Services (lab-reference@bac-lac.gc.ca)
+
+3. ALPINE CLUB OF CANADA ARCHIVES
+   Source: Complementary documentation of 1906 inaugural camp
+   May include: Wheeler expedition records, camp photographs, climbing notes
+   Contact: Through Whyte Museum partnership
+
+4. SUPPLEMENTARY ARCHIVES
+   - Whyte Museum of the Canadian Rockies (M-series mountain photography)
+   - Canadian Geological Survey historical records (Wheeler geological work)
+   - 1906/1907 Canadian Alpine Journal (official ACC records)
+
+================================================================================
+TECHNICAL NOTES:
+================================================================================
+
+USER-AGENT: BASECAMP-research/1.0 (1906 ACC camp reconstruction)
+RATE LIMITING: 1 second between requests (respected)
+API ATTEMPTS:
+  - WordPress REST API: Successful (posts/pages/projects)
+  - DSpace REST API: Blocked
+  - DSpace OAI-PMH: HTML response (no XML)
+  - LAC SRU/OAI-PMH: 404/redirect responses
+  - Borealis CKAN API: Network unreachable
+
+SEARCH STRATEGY USED:
+  1. MLP main site content harvesting
+  2. WordPress REST API project enumeration
+  3. UVic DSpace API probing
+  4. LAC collection search interface testing
+  5. OAI-PMH metadata protocol attempts
+  6. Borealis open data repository search
+  7. Google Scholar / research publication indexing
+
+================================================================================
+DELIVERABLES CREATED:
+================================================================================
+
+/sessions/determined-bold-cannon/mnt/ELL/BASECAMP/people/arthur-wheeler/artifacts/mlp/
+├── mlp_search_findings.json          (structured findings and recommendations)
+├── CONTACT_MLP_REQUEST.md            (institutional contact template)
+└── SEARCH_REPORT.txt                 (this file)
+
+================================================================================
+CONCLUSION:
+================================================================================
+
+Arthur Oliver Wheeler's photo-topographic plates from the Yoho/Field area are
+held by the Mountain Legacy Project and Library and Archives Canada, but are
+not accessible through automated harvesting due to:
+
+1. Primary search tool (MLP Explorer) offline
+2. No public API for bulk metadata or image export
+3. Institutional repository access restrictions
+4. LAC collection search HTML-based only
+
+RECOMMENDATION: Contact MLP Director directly with specific station list and
+geographic coordinates for Wheeler's 1906 camp survey. Request metadata export
+and direct image URLs for manual download and archival.
+
+STATUS: Search campaign complete. Direct institutional engagement required for
+next phase of data acquisition.
+
+================================================================================

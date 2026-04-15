@@ -1,0 +1,12 @@
+{
+  "person": "d-warner",
+  "source": "Whyte Museum",
+  "queries": [
+    "d.+warner+1906",
+    "warner+alpine+photo"
+  ],
+  "downloaded": 0,
+  "total_bytes": 0,
+  "items": [],
+  "yoho_1906_hits": 0
+}

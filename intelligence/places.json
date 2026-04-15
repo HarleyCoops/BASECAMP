@@ -1,0 +1,1059 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-04-09",
+  "total_places": 42,
+  "places": [
+    {
+      "place_id": "field-station",
+      "display_name": "Field Station (CPR)",
+      "historical_names": [
+        "Field"
+      ],
+      "place_type": "station",
+      "coordinates": {
+        "lat": 51.3985,
+        "lon": -116.456
+      },
+      "elevation_ft": 4075,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Modern Field townsite, verified against Mt. Stephen position",
+      "description_from_text": "Railway station where campers arrived evening of July 8th. 'That spacious hostelry' under the shadow of Mt. Stephen.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "yoho-camp-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "kicking-horse-bridge",
+        "mt-stephen-house"
+      ],
+      "modern_trail_note": "Modern Field townsite, Trans-Canada Highway."
+    },
+    {
+      "place_id": "mt-stephen-house",
+      "display_name": "Mt. Stephen House",
+      "historical_names": [
+        "Mt. Stephen House"
+      ],
+      "place_type": "hotel",
+      "coordinates": {
+        "lat": 51.398,
+        "lon": -116.457
+      },
+      "elevation_ft": 4075,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Adjacent to Field Station, demolished 1918",
+      "description_from_text": "CPR tourist hotel at Field. Mt. Stephen now 'the stock climb from Mt. Stephen House'. Return route via Burgess Pass trail.",
+      "mentioned_in_articles": [
+        "mt-stephen-kinney",
+        "first-camp-yeigh"
+      ],
+      "route_connections": [
+        "field-station",
+        "burgess-pass-trail"
+      ],
+      "modern_trail_note": "Site now within Field townsite. Hotel demolished 1918."
+    },
+    {
+      "place_id": "kicking-horse-bridge",
+      "display_name": "Bridge over the Kicking-Horse",
+      "historical_names": [],
+      "place_type": "bridge",
+      "coordinates": {
+        "lat": 51.399,
+        "lon": -116.458
+      },
+      "elevation_ft": 4075,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Near start of Emerald Lake Road at Field",
+      "description_from_text": "Yeigh: 'crossed the bridge over the Kicking-Horse and took to the road that leads through a silent forest aisle to Emerald lake.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh"
+      ],
+      "route_connections": [
+        "field-station",
+        "emerald-lake-road"
+      ],
+      "modern_trail_note": "Near modern bridge on Emerald Lake Road at Field."
+    },
+    {
+      "place_id": "emerald-lake-road",
+      "display_name": "Forest Road to Emerald Lake",
+      "historical_names": [
+        "seven-mile path through the trees"
+      ],
+      "place_type": "road",
+      "coordinates": {
+        "lat": 51.42,
+        "lon": -116.5
+      },
+      "elevation_ft": null,
+      "elevation_source": "",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "text_deduction — midpoint of 7-mile road",
+      "description_from_text": "Yeigh: 'That seven-mile path through the trees, with a snow-enshrined peak closing the view at either end.' Some walked, some rode carriages or commissariat wagons.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh"
+      ],
+      "route_connections": [
+        "kicking-horse-bridge",
+        "emerald-lake-chalet"
+      ],
+      "modern_trail_note": "Modern Emerald Lake Road, 8.5 km paved."
+    },
+    {
+      "place_id": "emerald-lake-chalet",
+      "display_name": "Emerald Lake Chalet",
+      "historical_names": [
+        "Emerald Lake Chalet"
+      ],
+      "place_type": "chalet",
+      "coordinates": {
+        "lat": 51.44,
+        "lon": -116.531
+      },
+      "elevation_ft": 4300,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "ELL deduced_viewpoints.kml (lodge at -116.531, 51.44, 1307m)",
+      "description_from_text": "Yeigh: 'as they round up at the Emerald Lake Chalet... transcendent beauty of this mountain lake nestling so peacefully at the base of mighty Mt. Burgess.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh"
+      ],
+      "route_connections": [
+        "emerald-lake-road",
+        "emerald-lake-north-delta"
+      ],
+      "modern_trail_note": "Now Emerald Lake Lodge (CRMR). Same site."
+    },
+    {
+      "place_id": "emerald-lake",
+      "display_name": "Emerald Lake",
+      "historical_names": [],
+      "place_type": "lake",
+      "coordinates": {
+        "lat": 51.444,
+        "lon": -116.531
+      },
+      "elevation_ft": 4400,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°26′38″N 116°31′52″W), 1200m",
+      "description_from_text": "Wheeler: 'turquoise green, in... Emerald lakes'. Yeigh: 'mountain lake nestling so peacefully at the base of mighty Mt. Burgess'. Henshaw: moraine stretching from Emerald Lake to Yoho Valley had Yellow Lady's Slippers in July.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "canadian-rockies-field-wheeler",
+        "wildflowers-henshaw",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "emerald-lake-chalet",
+        "emerald-lake-north-delta",
+        "burgess-pass-trail"
+      ],
+      "modern_trail_note": "Emerald Lake, Yoho National Park."
+    },
+    {
+      "place_id": "emerald-lake-north-delta",
+      "display_name": "Northern Glacial Delta",
+      "historical_names": [
+        "broad glacial delta on its northern shore"
+      ],
+      "place_type": "delta",
+      "coordinates": {
+        "lat": 51.45,
+        "lon": -116.525
+      },
+      "elevation_ft": 4300,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "North end of Emerald Lake (51.444, -116.531), alluvial fan area",
+      "description_from_text": "Yeigh: 'traverse of the broad glacial delta on its northern shore and the ascent of the steep cliff wall... passage of an endless number of streams flowing from the Emerald glacier, thousands of feet higher. Pioneering the first section of the party was the Rev. Dr. Herdman... log bridges had been swept away... pack ponies were requisitioned as bridges.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh"
+      ],
+      "route_connections": [
+        "emerald-lake-chalet",
+        "yoho-pass-trail-climb"
+      ],
+      "modern_trail_note": "Now alluvial fan at north end of Emerald Lake. Modern Yoho Pass trail crosses this area."
+    },
+    {
+      "place_id": "yoho-pass",
+      "display_name": "Yoho Pass",
+      "historical_names": [
+        "summit of Yoho pass"
+      ],
+      "place_type": "pass",
+      "coordinates": {
+        "lat": 51.467,
+        "lon": -116.51
+      },
+      "elevation_ft": 5955,
+      "elevation_source": "article text — Yeigh: '6000 feet above the sea'",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Deduced from Michael Peak (51.483, -116.513) + ELL viewpoint (51.467, -116.484, 1800m) + trail descriptions (1815m)",
+      "description_from_text": "Yeigh: 'At last, the summit of Yoho pass! At last, that striking picture of a tented town nestling amid the realm of trees!' Camp site at 6000 ft.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "yoho-camp-report",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "emerald-lake-north-delta",
+        "yoho-lake",
+        "camp-yoho"
+      ],
+      "modern_trail_note": "Yoho Pass, elevation ~1815m. Modern trail from Emerald Lake to Yoho Valley."
+    },
+    {
+      "place_id": "camp-yoho",
+      "display_name": "Camp Yoho (1906)",
+      "historical_names": [
+        "Yoho Camp",
+        "the Camp"
+      ],
+      "place_type": "camp",
+      "coordinates": {
+        "lat": 51.4675,
+        "lon": -116.511
+      },
+      "elevation_ft": 6000,
+      "elevation_source": "article text",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "At Yoho Pass summit, near Yoho Lake, per Yeigh text. Slightly NW of pass proper.",
+      "description_from_text": "Yeigh: 'tented town nestling amid the realm of trees... under a sky of blue, with grey old Wapta and Michael's mount standing sentinel, three thousand feet higher still.' Three sections: Residence Park, Official Square, horse paddock. Dining tent for 100. Bulletin board, central fire.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "yoho-camp-report",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "yoho-pass",
+        "yoho-lake",
+        "vice-president-trail",
+        "emerald-glacier-trail",
+        "upper-yoho-trail"
+      ],
+      "modern_trail_note": "Near modern Yoho Pass junction. Exact camp clearing likely overgrown."
+    },
+    {
+      "place_id": "yoho-lake",
+      "display_name": "Yoho Lake",
+      "historical_names": [],
+      "place_type": "lake",
+      "coordinates": {
+        "lat": 51.47,
+        "lon": -116.505
+      },
+      "elevation_ft": 5955,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "~0.5 km NE of Yoho Pass, below Michael Peak. ELL viewpoint at 51.4664 nearby.",
+      "description_from_text": "Yeigh: 'the incomparable scene beside the incomparable Yoho lake, holding in its translucent waters all the emerald and amethyst shades in Nature's color box.' Wheeler: 'transparent emerald in Yoho lake.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "canadian-rockies-field-wheeler"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "yoho-pass"
+      ],
+      "modern_trail_note": "Yoho Lake, accessible from Yoho Pass trail."
+    },
+    {
+      "place_id": "michael-peak",
+      "display_name": "Michael Peak (Michael's Mount)",
+      "historical_names": [
+        "Michaels Mt.",
+        "Michael's mount"
+      ],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.4828,
+        "lon": -116.5131
+      },
+      "elevation_ft": 8862,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°28′58″N 116°30′47″W), 2701m",
+      "description_from_text": "Yeigh: 'grey old Wapta and Michael's mount standing sentinel, three thousand feet higher still' above the 6000 ft camp. Chief Mountaineer: climbed en route to Vice-President. July 14 party did interesting rock climb up face to summit.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "vice-president-arete"
+      ],
+      "modern_trail_note": "Michael Peak, 2667m."
+    },
+    {
+      "place_id": "angle-peak",
+      "display_name": "Angle Peak",
+      "historical_names": [
+        "Angle peak"
+      ],
+      "place_type": "peak",
+      "coordinates": {
+        "lat": 51.49,
+        "lon": -116.525
+      },
+      "elevation_ft": 9500,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "estimated",
+      "coordinate_source": "On VP arete, ~1 mile E of VP summit per Chief Mountaineer. Between Michael (51.483) and VP (51.502).",
+      "description_from_text": "Chief Mountaineer: 'Angle peak, a sharp angle of rock rising above the north escarpment of the Vice-President ridge, about a mile east of the summit. Name first applied by Rev. James Outram.'",
+      "mentioned_in_articles": [
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "michael-peak",
+        "vice-president"
+      ],
+      "modern_trail_note": "Feature on the VP ridge. Not officially named on modern maps."
+    },
+    {
+      "place_id": "vice-president",
+      "display_name": "The Vice-President",
+      "historical_names": [
+        "Mt. Vice-President"
+      ],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.502,
+        "lon": -116.553
+      },
+      "elevation_ft": 10058,
+      "elevation_source": "article text — 10,049 ft per Chief Mountaineer",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "PeakVisor (51.502029, -116.553027)",
+      "description_from_text": "Official graduation climb. Yeigh: 'so called by Mr. Edward Whymper, of Matterhorn fame, in honor of the Vice-Presidency of the CPR.' 44 graduated, 15 ladies, no failures. Record time: 9.5 hrs. Average: 10.5 hrs.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "yoho-camp-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "angle-peak",
+        "president",
+        "emerald-glacier"
+      ],
+      "modern_trail_note": "The Vice President, 3066m, President Range."
+    },
+    {
+      "place_id": "president",
+      "display_name": "The President",
+      "historical_names": [
+        "Mt. President"
+      ],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.5006,
+        "lon": -116.5617
+      },
+      "elevation_ft": 10246,
+      "elevation_source": "Chief Mountaineer report — 10,287 ft",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°30′02″N 116°33′42″W)",
+      "description_from_text": "Climbed July 14 by Feuz guides via snow col from Vice-President summit. ~200 ft descent to col, similar ascent. Cairn built. Hour round trip from VP.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "vice-president"
+      ],
+      "modern_trail_note": "The President, 3138m, President Range."
+    },
+    {
+      "place_id": "emerald-glacier",
+      "display_name": "Emerald Glacier",
+      "historical_names": [],
+      "place_type": "glacier",
+      "coordinates": {
+        "lat": 51.492,
+        "lon": -116.54
+      },
+      "elevation_ft": 8000,
+      "elevation_source": "Yeigh text — 'elevation of 8000 feet'",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "On NE face of President Range between VP (51.502, -116.553) and Michael (51.483, -116.513)",
+      "description_from_text": "Yeigh: 'Bordering the palisades of the Vice-President for a mile or more.' Visited in detachments. Snow line at ~8000 ft. Séracs, crevasses, green-blue walls. Three trips led by Herdman, 27 people total.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "vice-president"
+      ],
+      "modern_trail_note": "Remnant of Emerald Glacier on NE face of President Range."
+    },
+    {
+      "place_id": "mt-burgess",
+      "display_name": "Mt. Burgess",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.42,
+        "lon": -116.5053
+      },
+      "elevation_ft": 8527,
+      "elevation_source": "Chief Mountaineer report",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°25′12″N 116°30′19″W), 2599m",
+      "description_from_text": "Yeigh: 'mighty Mt. Burgess' above Emerald Lake. Chief Mountaineer: 'one of the lowest, one of the most difficult climbs.' Climbed July 10 by party of 7 under Edouard Feuz.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "emerald-lake",
+        "burgess-pass"
+      ],
+      "modern_trail_note": "Mt. Burgess, 2599m. Burgess Shale fossil site on its shoulder."
+    },
+    {
+      "place_id": "mt-field",
+      "display_name": "Mt. Field",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.4308,
+        "lon": -116.4628
+      },
+      "elevation_ft": 8671,
+      "elevation_source": "Chief Mountaineer report",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°25′51″N 116°27′46″W), 2643m",
+      "description_from_text": "Climbed July 12 under Herdman's guidance. Party of 6.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "camp-yoho"
+      ],
+      "modern_trail_note": "Mt. Field, 2635m."
+    },
+    {
+      "place_id": "mt-wapta",
+      "display_name": "Mt. Wapta",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.4514,
+        "lon": -116.4775
+      },
+      "elevation_ft": 9114,
+      "elevation_source": "Chief Mountaineer report",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°27′05″N 116°28′39″W), 2778m",
+      "description_from_text": "Yeigh: 'seemed to be the favorite, ascents having been made of it by four separate parties, by two different routes.' West face and southwestern arete routes. NE face 'difficult.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "burgess-pass"
+      ],
+      "modern_trail_note": "Mt. Wapta, 2778m."
+    },
+    {
+      "place_id": "mt-collie",
+      "display_name": "Mt. Collie",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.6172,
+        "lon": -116.5917
+      },
+      "elevation_ft": 10312,
+      "elevation_source": "Chief Mountaineer report",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°37′02″N 116°35′30″W), 3143m",
+      "description_from_text": "Climbed July 12 by Patterson + Gottfried Feuz from Twin Falls camp. Met Miss Tuzo (independent climb with Kaufmann) on summit.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "yoho-glacier-wheeler"
+      ],
+      "route_connections": [
+        "twin-falls",
+        "yoho-glacier"
+      ],
+      "modern_trail_note": "Mt. Collie, 3143m."
+    },
+    {
+      "place_id": "mt-marpole",
+      "display_name": "Mt. Marpole",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.4925,
+        "lon": -116.5797
+      },
+      "elevation_ft": 9268,
+      "elevation_source": "Chief Mountaineer report",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Mapcarta (51°29′33″N 116°34′47″W), 2825m",
+      "description_from_text": "First ascent July 16 by Revs. MacRae, Gordon, Dunn with both Feuz guides.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "mt-amgadamo"
+      ],
+      "modern_trail_note": "Mt. Marpole, 2994m."
+    },
+    {
+      "place_id": "mt-amgadamo",
+      "display_name": "Mt. Amgadamo",
+      "historical_names": [
+        "Amgadamo — unnamed peak christened at the 1906 camp"
+      ],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.488,
+        "lon": -116.575
+      },
+      "elevation_ft": 9620,
+      "elevation_source": "Chief Mountaineer report",
+      "coordinate_confidence": "estimated",
+      "coordinate_source": "On south ridge of Mt. Marpole (51.4925, -116.5797). Amgadamo Point at 2932m per web.",
+      "description_from_text": "Yeigh: 'the peak lying between it and Mt. McMullen, both as far as known, virgin ascents. The unnamed peak was christened Amgadamo.' First ascent July 16.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "mt-marpole"
+      ],
+      "modern_trail_note": "Mt. Amgadamo. Named at the 1906 camp."
+    },
+    {
+      "place_id": "inspiration-point",
+      "display_name": "Inspiration Point",
+      "historical_names": [],
+      "place_type": "viewpoint",
+      "coordinates": {
+        "lat": 51.475,
+        "lon": -116.5
+      },
+      "elevation_ft": 6500,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "estimated",
+      "coordinate_source": "On corkscrew trail near camp, views of Takakkaw Falls across valley",
+      "description_from_text": "Chief Mountaineer: 'reached by a corkscrew trail branching from the Upper Yoho valley trail at a point near the camp. This point is well named, for the view from it not only takes one's breath away.' Dramatic view of Takakkaw Falls across valley.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "upper-yoho-trail"
+      ],
+      "modern_trail_note": "Near modern Yoho Pass / Iceline trail junction area."
+    },
+    {
+      "place_id": "takakkaw-falls",
+      "display_name": "Takakkaw Falls",
+      "historical_names": [],
+      "place_type": "waterfall",
+      "coordinates": {
+        "lat": 51.4997,
+        "lon": -116.4728
+      },
+      "elevation_ft": 4600,
+      "elevation_source": "modern_topo (base)",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°29′59″N 116°28′22″W)",
+      "description_from_text": "Yeigh: 'Canada's highest Niagara.' Chief Mountaineer: 'magnificent view of the full majesty of the Takakkaw falls, with its thousand feet of a sheer drop.' Special trip made by HG Wheeler, 19 people.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "lower-yoho-trail",
+        "upper-yoho-trail"
+      ],
+      "modern_trail_note": "Takakkaw Falls, 373m total drop. Yoho Valley Road."
+    },
+    {
+      "place_id": "laughing-falls",
+      "display_name": "Laughing Falls",
+      "historical_names": [],
+      "place_type": "waterfall",
+      "coordinates": {
+        "lat": 51.518,
+        "lon": -116.475
+      },
+      "elevation_ft": 4800,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "On Yoho Valley trail, between Takakkaw Falls and Twin Falls",
+      "description_from_text": "Yeigh: overnight camp near Laughing Falls on Yoho Valley trip. 'In the silent watches of the night... God's stars seemed to hover nearer.' Overnight camp for glacier observation committee July 14.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "yoho-glacier-wheeler"
+      ],
+      "route_connections": [
+        "takakkaw-falls",
+        "twin-falls",
+        "yoho-glacier"
+      ],
+      "modern_trail_note": "Laughing Falls, Yoho Valley trail. Campground nearby."
+    },
+    {
+      "place_id": "twin-falls",
+      "display_name": "Twin Falls",
+      "historical_names": [],
+      "place_type": "waterfall",
+      "coordinates": {
+        "lat": 51.535,
+        "lon": -116.48
+      },
+      "elevation_ft": 5400,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Twin Falls, upper Yoho Valley. Twin Falls Chalet nearby.",
+      "description_from_text": "Yeigh: 'past the Laughing falls and the Twin falls, and many another no less beautiful.' Patterson camped at Twin Falls foot before Collie ascent.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "laughing-falls",
+        "yoho-glacier"
+      ],
+      "modern_trail_note": "Twin Falls, Yoho Valley. Twin Falls Chalet nearby."
+    },
+    {
+      "place_id": "yoho-glacier",
+      "display_name": "Yoho Glacier",
+      "historical_names": [],
+      "place_type": "glacier",
+      "coordinates": {
+        "lat": 51.548,
+        "lon": -116.510
+      },
+      "elevation_ft": 6500,
+      "elevation_source": "text_deduction — tongue elevation",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Wheeler: tongue of Yoho Glacier, largest outflow from Wapta Icefield. NW of Yoho Valley.",
+      "description_from_text": "Wheeler: 'largest outflow from the Wapta icefield, less than two miles long, remarkable purity.' Metal plates set July 14-15 to measure flow. Main stream issues from ice cave. Retreat of 76 ft since Vaux 1901 marks (15 ft/year average).",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "yoho-glacier-wheeler",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "twin-falls",
+        "wapta-icefield"
+      ],
+      "modern_trail_note": "Yoho Glacier, significantly retreated since 1906."
+    },
+    {
+      "place_id": "wapta-icefield",
+      "display_name": "Wapta Icefield",
+      "historical_names": [
+        "Waputik Snowfield"
+      ],
+      "place_type": "snowfield",
+      "coordinates": {
+        "lat": 51.6394,
+        "lon": -116.5264
+      },
+      "elevation_ft": 9000,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Wikipedia (51°38′22″N 116°31′35″W) — centre of icefield",
+      "description_from_text": "Wheeler: 'approximately twenty to twenty-five square miles, enclosed in a basin surrounded by Mts. Gordon, Olive, Thompson, Baker, Aysha peak, Mts. Collie, Habel and McArthur.' Feeds four watersheds — Bow, Mistaya, Blaeberry, Kicking-Horse.",
+      "mentioned_in_articles": [
+        "yoho-glacier-wheeler"
+      ],
+      "route_connections": [
+        "yoho-glacier"
+      ],
+      "modern_trail_note": "Wapta Icefield, still significant but retreating."
+    },
+    {
+      "place_id": "burgess-pass",
+      "display_name": "Burgess Pass",
+      "historical_names": [
+        "Burgess pass trail"
+      ],
+      "place_type": "pass",
+      "coordinates": {
+        "lat": 51.4295,
+        "lon": -116.484
+      },
+      "elevation_ft": 7136,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "ELL deduced_viewpoints.kml has Burgess area point at (51.4295, -116.484, 2175m)",
+      "description_from_text": "Kinney: 'that most beautiful of passes, Burgess pass.' Chief Mountaineer: 'The Burgess trail seemed a favorite... from which the Presidents range and Emerald mountains with their glaciers, icefalls and torrents, are seen to greatest advantage; while below, Emerald lake nestles in a setting of deep green forest.' Return route to Mt. Stephen House.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report",
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "mt-stephen-house",
+        "emerald-lake"
+      ],
+      "modern_trail_note": "Burgess Pass trail, Parks Canada. Access to Burgess Shale."
+    },
+    {
+      "place_id": "lookout-point",
+      "display_name": "Lookout Point",
+      "historical_names": [],
+      "place_type": "viewpoint",
+      "coordinates": {
+        "lat": 51.485,
+        "lon": -116.49
+      },
+      "elevation_ft": 5500,
+      "elevation_source": "text_deduction",
+      "coordinate_confidence": "estimated",
+      "coordinate_source": "On Lower Yoho Valley trail, view of Takakkaw Falls",
+      "description_from_text": "Chief Mountaineer: 'Lookout point on the Lower Yoho valley trail, presenting a magnificent view of the full majesty of the Takakkaw falls.'",
+      "mentioned_in_articles": [
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "lower-yoho-trail",
+        "takakkaw-falls"
+      ],
+      "modern_trail_note": "On the Yoho Valley trail system."
+    },
+    {
+      "place_id": "mt-stephen",
+      "display_name": "Mt. Stephen",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.3992,
+        "lon": -116.4364
+      },
+      "elevation_ft": 10495,
+      "elevation_source": "Kinney text — 'ten thousand five hundred feet'",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°23′57″N 116°26′11″W), 3199m",
+      "description_from_text": "Kinney: solo October 1904 ascent, left Field 8am, summit at ~4pm, returned 8pm. Fossil bed at 7000 ft. View of Field, Burgess, Wapta, Vice-President, Cathedral. 'The grim old King of the Rockies.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "mt-stephen-kinney",
+        "canadian-rockies-field-wheeler"
+      ],
+      "route_connections": [
+        "field-station",
+        "fossil-bed"
+      ],
+      "modern_trail_note": "Mt. Stephen, 3199m. Stock climb from Field."
+    },
+    {
+      "place_id": "fossil-bed",
+      "display_name": "Fossil Bed (Mt. Stephen)",
+      "historical_names": [
+        "trilobite beds"
+      ],
+      "place_type": "fossil_bed",
+      "coordinates": {
+        "lat": 51.395,
+        "lon": -116.44
+      },
+      "elevation_ft": 7000,
+      "elevation_source": "Wheeler text — 'altitude of 7000 feet'",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Stephen Formation fossil locality, on S slopes of Mt. Stephen",
+      "description_from_text": "Kinney: 'opened Nature's book, and there, page after page, were trilobites of rarest form.' Wheeler: 'beds containing fossilized species, closely allied to the trilobite... at an altitude of 7000 feet, has become famous.'",
+      "mentioned_in_articles": [
+        "mt-stephen-kinney",
+        "canadian-rockies-field-wheeler"
+      ],
+      "route_connections": [
+        "mt-stephen",
+        "field-station"
+      ],
+      "modern_trail_note": "Mt. Stephen trilobite beds. Protected fossil site."
+    },
+    {
+      "place_id": "cascade-mountain",
+      "display_name": "Cascade Mountain",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.2681,
+        "lon": -115.5822
+      },
+      "elevation_ft": 9836,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°16′05″N 115°34′56″W), 2998m",
+      "description_from_text": "Gordon/Connor: 'sheer, rocky and bare, its great base thrust into the pine forest, its head into the clouds.' Climbed September 1891. Two men reached summit, three women turned back ~200 yards short. Fossil remains found near top.",
+      "mentioned_in_articles": [
+        "climbed-cascade-gordon"
+      ],
+      "route_connections": [
+        "banff",
+        "forty-mile-creek"
+      ],
+      "modern_trail_note": "Cascade Mountain, 2998m, Banff National Park."
+    },
+    {
+      "place_id": "banff",
+      "display_name": "Banff",
+      "historical_names": [
+        "capital of the Canadian National Park"
+      ],
+      "place_type": "station",
+      "coordinates": {
+        "lat": 51.1784,
+        "lon": -115.5708
+      },
+      "elevation_ft": 4537,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Town of Banff",
+      "description_from_text": "Gordon: 'capital of the Canadian National Park.' Henshaw: wildflowers within reach at Banff, Banff Hotel on cliff above confluence of Spray and Bow rivers.",
+      "mentioned_in_articles": [
+        "climbed-cascade-gordon",
+        "wildflowers-henshaw"
+      ],
+      "route_connections": [
+        "cascade-mountain"
+      ],
+      "modern_trail_note": "Town of Banff."
+    },
+    {
+      "place_id": "lake-ohara",
+      "display_name": "Lake O'Hara",
+      "historical_names": [],
+      "place_type": "lake",
+      "coordinates": {
+        "lat": 51.3559,
+        "lon": -116.3304
+      },
+      "elevation_ft": 6630,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°21′21″N 116°19′50″W), 2020m",
+      "description_from_text": "Vaux: 'no place more delightful... a lovely clear sheet of water, filtered through the rock slide at its head. Banks carpeted with flowers.' Views of Biddle, Hungabee, Yukness, Lefroy, Victoria, Huber, Wiwaxy. 10 miles from Hector station.",
+      "mentioned_in_articles": [
+        "camping-rockies-vaux"
+      ],
+      "route_connections": [
+        "lake-mcarthur",
+        "lake-oesa",
+        "abbot-pass"
+      ],
+      "modern_trail_note": "Lake O'Hara, Yoho NP. Bus access only."
+    },
+    {
+      "place_id": "lake-mcarthur",
+      "display_name": "Lake McArthur",
+      "historical_names": [
+        "McArthur lake"
+      ],
+      "place_type": "lake",
+      "coordinates": {
+        "lat": 51.344,
+        "lon": -116.332
+      },
+      "elevation_ft": 7400,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "3 miles from Lake O'Hara per Vaux, largest lake in O'Hara area",
+      "description_from_text": "Vaux: 'a true alpine lake, with glaciers from the slopes of Mt. Biddle breaking off in miniature icebergs; grassy moss-grown slopes are a favorite feeding ground of the mountain goat.'",
+      "mentioned_in_articles": [
+        "camping-rockies-vaux",
+        "canadian-rockies-field-wheeler"
+      ],
+      "route_connections": [
+        "lake-ohara"
+      ],
+      "modern_trail_note": "Lake McArthur, largest lake in Lake O'Hara area."
+    },
+    {
+      "place_id": "lake-oesa",
+      "display_name": "Lake Oesa",
+      "historical_names": [],
+      "place_type": "lake",
+      "coordinates": {
+        "lat": 51.35,
+        "lon": -116.315
+      },
+      "elevation_ft": 7500,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "Following stream above Lake O'Hara, below Abbot Pass",
+      "description_from_text": "Vaux: 'whose surface is only melted for a very few weeks at midsummer.' Reached by following stream feeding Lake O'Hara through chain of lakes with cascades.",
+      "mentioned_in_articles": [
+        "camping-rockies-vaux"
+      ],
+      "route_connections": [
+        "lake-ohara",
+        "abbot-pass"
+      ],
+      "modern_trail_note": "Lake Oesa, 2275m."
+    },
+    {
+      "place_id": "abbot-pass",
+      "display_name": "Abbot Pass",
+      "historical_names": [
+        "Abbott pass"
+      ],
+      "place_type": "pass",
+      "coordinates": {
+        "lat": 51.3664,
+        "lon": -116.2844
+      },
+      "elevation_ft": 9596,
+      "elevation_source": "Vaux text — '9000 feet above sea'",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "Wikipedia (51°21′59″N 116°17′04″W), 2925m",
+      "description_from_text": "Vaux: 'one can venture across Abbot pass (9000 feet above sea) and down the Victoria glacier to Lake Louise. But this is only safe with an experienced Swiss guide, as the pass is frequently traversed by avalanches on its northern side.'",
+      "mentioned_in_articles": [
+        "camping-rockies-vaux"
+      ],
+      "route_connections": [
+        "lake-oesa",
+        "lake-louise"
+      ],
+      "modern_trail_note": "Abbot Pass, 2925m. Abbot Pass Hut (National Historic Site)."
+    },
+    {
+      "place_id": "upper-yoho-trail",
+      "display_name": "Upper Yoho Valley Trail",
+      "historical_names": [
+        "upper trail"
+      ],
+      "place_type": "trail",
+      "coordinates": {
+        "lat": 51.51,
+        "lon": -116.49
+      },
+      "elevation_ft": null,
+      "elevation_source": "",
+      "coordinate_confidence": "estimated",
+      "coordinate_source": "Trail midpoint approximation",
+      "description_from_text": "Return route for Yoho Valley round trip. Yeigh: 'from lofty platforms of rock we saw the entire fifteen-mile valley lying below us as in a picture.'",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "camp-yoho",
+        "yoho-glacier"
+      ],
+      "modern_trail_note": "Modern Iceline Trail follows similar high route."
+    },
+    {
+      "place_id": "lower-yoho-trail",
+      "display_name": "Lower Yoho Valley Trail",
+      "historical_names": [
+        "lower trail"
+      ],
+      "place_type": "trail",
+      "coordinates": {
+        "lat": 51.505,
+        "lon": -116.48
+      },
+      "elevation_ft": null,
+      "elevation_source": "",
+      "coordinate_confidence": "estimated",
+      "coordinate_source": "Trail midpoint approximation",
+      "description_from_text": "Outbound route for Yoho Valley round trip, passing Takakkaw Falls and Laughing Falls.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ],
+      "route_connections": [
+        "takakkaw-falls",
+        "laughing-falls",
+        "twin-falls"
+      ],
+      "modern_trail_note": "Modern Yoho Valley Trail."
+    },
+    {
+      "place_id": "yoho-peak",
+      "display_name": "Yoho Peak",
+      "historical_names": [],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.5556,
+        "lon": -116.5528
+      },
+      "elevation_ft": 9150,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "PeakVisor — 2789m",
+      "description_from_text": "Wheeler: separates Yoho Glacier from Habel Glacier. Flanks the western side of the Yoho Glacier.",
+      "mentioned_in_articles": [
+        "yoho-glacier-wheeler"
+      ],
+      "route_connections": [
+        "yoho-glacier"
+      ],
+      "modern_trail_note": "Yoho Peak, 2789m."
+    },
+    {
+      "place_id": "cathedral-crags",
+      "display_name": "Cathedral Crags (Cathedral Spires)",
+      "historical_names": [
+        "Cathedral spires"
+      ],
+      "place_type": "mountain",
+      "coordinates": {
+        "lat": 51.485,
+        "lon": -116.455
+      },
+      "elevation_ft": 9925,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "approximate",
+      "coordinate_source": "modern_topo — Cathedral Crags area",
+      "description_from_text": "Yeigh: 'bordered by the Cathedral spires on the south and the Yoho glacier on the north.' Visible from upper trail.",
+      "mentioned_in_articles": [
+        "first-camp-yeigh"
+      ],
+      "route_connections": [],
+      "modern_trail_note": "Cathedral Crags / Cathedral Mountain area, south side of Yoho Valley."
+    },
+    {
+      "place_id": "natural-bridge",
+      "display_name": "Natural Bridge",
+      "historical_names": [],
+      "place_type": "bridge",
+      "coordinates": {
+        "lat": 51.417,
+        "lon": -116.508
+      },
+      "elevation_ft": 4200,
+      "elevation_source": "modern_topo",
+      "coordinate_confidence": "exact",
+      "coordinate_source": "modern_topo",
+      "description_from_text": "Photo caption by Mary Vaux: 'MOUNT STEPHEN FROM THE NATURAL BRIDGE.' On Kicking Horse River en route to Emerald Lake.",
+      "mentioned_in_articles": [
+        "mt-stephen-kinney"
+      ],
+      "route_connections": [
+        "emerald-lake-road"
+      ],
+      "modern_trail_note": "Natural Bridge, Yoho NP. Popular viewpoint on Emerald Lake Road."
+    }
+  ]
+}

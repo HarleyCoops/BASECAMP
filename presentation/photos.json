@@ -1,0 +1,568 @@
+{
+  "sources": {
+    "whyte_museum": {
+      "name": "Whyte Museum of the Canadian Rockies",
+      "url": "https://archives.whyte.org",
+      "attribution": "Courtesy Whyte Museum of the Canadian Rockies",
+      "fonds": {
+        "kelly": {
+          "id": "V634",
+          "title": "J.W. Kelly Fonds",
+          "count": 44,
+          "description": "July 9-21, 1906 Yoho camp photographs",
+          "permalink": "https://archives.whyte.org/en/permalink/descriptions492"
+        },
+        "lambie": {
+          "id": "V345",
+          "title": "Alexander Lambie Fonds",
+          "count": 52,
+          "description": "1906 Yoho camp from cook's perspective",
+          "permalink": "https://archives.whyte.org/en/permalink/descriptions498"
+        },
+        "feuz": {
+          "id": "V200",
+          "title": "Edward Feuz Fonds",
+          "description": "Guide and camp documentation",
+          "permalink": "https://archives.whyte.org/en/permalink/descriptions49447"
+        },
+        "harmon": {
+          "id": "V263",
+          "title": "Byron Harmon Fonds",
+          "count": 6500,
+          "description": "Official ACC photographer, extensive mountain and camp coverage",
+          "url": "https://archives.whyte.org"
+        }
+      }
+    },
+    "archive_org": {
+      "name": "Internet Archive",
+      "url": "https://archive.org/details/canadianalpinejo01alpiuoft",
+      "attribution": "Canadian Alpine Journal, 1907. Internet Archive / University of Toronto Library",
+      "format": "400 PPI JP2 scans",
+      "full_citation": "Canadian Alpine Journal, Vol. 1, No. 1 (1906, publ. 1907). Original held by University of Toronto Library. Digitized by Internet Archive."
+    },
+    "mountain_legacy_project": {
+      "name": "Mountain Legacy Project",
+      "url": "https://mountainlegacy.ca",
+      "attribution": "Mountain Legacy Project",
+      "description": "Historical survey station photography and comparison datasets"
+    }
+  },
+  "featured_archival_photos": [
+    {
+      "id": "whyte-feuz-v200-13-184",
+      "source": "whyte_museum",
+      "fonds": "feuz",
+      "reference": "V200/13/na66-184",
+      "url": "https://archives.whyte.org/media/archives/na66_web_copy/v200_web_copy/v200_13_na66_184.jpg",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49447",
+      "caption": "Canadian Alpine Club camp - Yoho - 1906",
+      "description": "Members of the Canadian Alpine Club posed amongst trees in camp at Yoho, 1906",
+      "creator": "Edward Feuz",
+      "date": "1906-07",
+      "place_ids": [
+        "camp-yoho"
+      ],
+      "tags": [
+        "camp",
+        "group-photo",
+        "confirmed"
+      ],
+      "usable": true
+    }
+  ],
+  "journal_pages": [
+    {
+      "id": "caj-1-1-p009",
+      "source": "archive_org",
+      "article_number": 2,
+      "silo_id": "alpine-club-parker",
+      "page_number": 9,
+      "caption": "ROLL CALL FOR THE OFFICIAL CLIMB OF MT. VICE-PRESIDENT",
+      "credit": "Byron Harmon",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p012",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 12,
+      "caption": "MOUNT BURGESS AND EMERALD LAKE",
+      "credit": "Rev. G.R. Kinney",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p013",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 13,
+      "caption": "THE DINING PAVILION AT YOHO CAMP",
+      "credit": "Byron Harmon",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p014",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 14,
+      "caption": "MOUNT VICE-PRESIDENT\u2014THE OFFICIAL CLIMB",
+      "credit": "F.W. Freeborn",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p015",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 15,
+      "caption": "RESIDENCE PARK\u2014YOHO CAMP",
+      "credit": "F.W. Freeborn",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p016",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 16,
+      "caption": "OUR BIVOUACS ON THE YOHO TRAIL",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p023",
+      "source": "archive_org",
+      "article_number": 5,
+      "silo_id": "canadian-rockies-wheeler",
+      "page_number": 23,
+      "caption": "A PARTY OF GRADUATES AND GUIDES RETURNED FROM THE OFFICIAL CLIMB OF MT. VICE-PRESIDENT",
+      "credit": "Byron Harmon",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p025",
+      "source": "archive_org",
+      "article_number": 5,
+      "silo_id": "canadian-rockies-wheeler",
+      "page_number": 25,
+      "caption": "MOUNT WAPTA FROM YOHO CAMP",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p027",
+      "source": "archive_org",
+      "article_number": 5,
+      "silo_id": "canadian-rockies-wheeler",
+      "page_number": 27,
+      "caption": "ICE CAVES ON THE VICE-PRESIDENT GLACIER",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p057",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 57,
+      "caption": "THE MEN IN BUCKSKIN",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p059",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 59,
+      "caption": "TWO VETERANS",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p061",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 61,
+      "caption": "AROUND THE CAMP FIRE",
+      "credit": "Frank Yeigh",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p062",
+      "source": "archive_org",
+      "article_number": 7,
+      "silo_id": "climbed-cascade-gordon",
+      "page_number": 62,
+      "caption": "CASCADE MOUNTAIN, BANFF, ALBERTA",
+      "credit": "Byron Harmon",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p063",
+      "source": "archive_org",
+      "article_number": 6,
+      "silo_id": "first-camp-yeigh",
+      "page_number": 63,
+      "caption": "CROSSING TWIN FALLS CREEK\u2014YOHO VALLEY TRAIL",
+      "credit": "D. Warner",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p068",
+      "source": "archive_org",
+      "article_number": 8,
+      "silo_id": "camping-rockies-vaux",
+      "page_number": 68,
+      "caption": "MOUNT BIDDLE AND LAKE McARTHUR",
+      "credit": "Mary M. Vaux",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p070",
+      "source": "archive_org",
+      "article_number": 8,
+      "silo_id": "camping-rockies-vaux",
+      "page_number": 70,
+      "caption": "AROUND THE CAMP FIRE",
+      "credit": "Frank Yeigh",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p074",
+      "source": "archive_org",
+      "article_number": 9,
+      "silo_id": "ascent-goodsir-fay",
+      "page_number": 74,
+      "caption": "MOUNT GOODSIR FROM MOUNT ASSINIBOINE",
+      "credit": "Charles E. Fay",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p076",
+      "source": "archive_org",
+      "article_number": 9,
+      "silo_id": "ascent-goodsir-fay",
+      "page_number": 76,
+      "caption": "THE NORTH FORK GLACIER\u2014MT. GOODSIR",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p081",
+      "source": "archive_org",
+      "article_number": 10,
+      "silo_id": "ascent-hungabee-parker",
+      "page_number": 81,
+      "caption": "MOUNT HUNGABEE FROM DELTA",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p083",
+      "source": "archive_org",
+      "article_number": 10,
+      "silo_id": "ascent-hungabee-parker",
+      "page_number": 83,
+      "caption": "THE CLIMBING PARTY ON MT. HUNGABEE",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p087",
+      "source": "archive_org",
+      "article_number": 11,
+      "silo_id": "ascent-ball-patterson",
+      "page_number": 87,
+      "caption": "MOUNT BALL FROM THE DELTA",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p094",
+      "source": "archive_org",
+      "article_number": 12,
+      "silo_id": "ascent-assiniboine-benham",
+      "page_number": 94,
+      "caption": "MOUNT ASSINIBOINE FROM THE NORTH",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p100",
+      "source": "archive_org",
+      "article_number": 13,
+      "silo_id": "ascent-hermit-gray",
+      "page_number": 100,
+      "caption": "HERMIT LAKE AND MOUNT HERMIT",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p106",
+      "source": "archive_org",
+      "article_number": 14,
+      "silo_id": "ascent-bagheera-jackson",
+      "page_number": 106,
+      "caption": "MOUNT BAGHEERA (CENTRAL PEAK)",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p112",
+      "source": "archive_org",
+      "article_number": 15,
+      "silo_id": "ascent-macoun-herdman",
+      "page_number": 112,
+      "caption": "MOUNT MACOUN",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p130",
+      "source": "archive_org",
+      "article_number": 18,
+      "silo_id": "mt-stephen-kinney",
+      "page_number": 130,
+      "caption": "MOUNT STEPHEN FROM THE CANADIAN PACIFIC RAILWAY",
+      "credit": "Byron Harmon",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p137",
+      "source": "archive_org",
+      "article_number": 19,
+      "silo_id": "wildflowers-henshaw",
+      "page_number": 137,
+      "caption": "WILD FLOWERS\u2014CANADIAN ROCKIES",
+      "credit": "Julia W. Henshaw",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p143",
+      "source": "archive_org",
+      "article_number": 20,
+      "silo_id": "glacier-observations-vaux",
+      "page_number": 143,
+      "caption": "ILLECILLEWAET GLACIER, 1887",
+      "credit": "George Vaux",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p169",
+      "source": "archive_org",
+      "article_number": 23,
+      "silo_id": "yoho-camp-report",
+      "page_number": 169,
+      "caption": "GUIDES IN CHARGE OF CLIMBING\u2014YOHO CAMP",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p171",
+      "source": "archive_org",
+      "article_number": 23,
+      "silo_id": "yoho-camp-report",
+      "page_number": 171,
+      "caption": "A WELL EARNED REST\u2014MOUNT VICE-PRESIDENT",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p173",
+      "source": "archive_org",
+      "article_number": 23,
+      "silo_id": "yoho-camp-report",
+      "page_number": 173,
+      "caption": "YOHO CAMP",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p184",
+      "source": "archive_org",
+      "article_number": 28,
+      "silo_id": "chief-mountaineer-report",
+      "page_number": 184,
+      "caption": "AN AWKWARD CORNER \u2014 Mount Vice-President",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p186",
+      "source": "archive_org",
+      "article_number": 28,
+      "silo_id": "chief-mountaineer-report",
+      "page_number": 186,
+      "caption": "A PIECE OF ROCK WORK \u2014 Mount Vice-President",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p188",
+      "source": "archive_org",
+      "article_number": 28,
+      "silo_id": "chief-mountaineer-report",
+      "page_number": 188,
+      "caption": "THE UPPER SNOWFIELD\u2014MOUNT VICE-PRESIDENT",
+      "credit": "Rev. Geo. B. Kinney",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p190",
+      "source": "archive_org",
+      "article_number": 28,
+      "silo_id": "chief-mountaineer-report",
+      "page_number": 190,
+      "caption": "A CLIMBING PARTY \u2014 Mt. Burgess",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p192",
+      "source": "archive_org",
+      "article_number": 28,
+      "silo_id": "chief-mountaineer-report",
+      "page_number": 192,
+      "caption": "DESCENDING THE GLACIER \u2014 Mt. Vice-President",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    },
+    {
+      "id": "caj-1-1-p194",
+      "source": "archive_org",
+      "article_number": 28,
+      "silo_id": "chief-mountaineer-report",
+      "page_number": 194,
+      "caption": "LAUGHING FALL CAMP \u2014 Yoho Valley Trip",
+      "credit": "uncredited",
+      "tags": [
+        "journal-photo"
+      ],
+      "usable": true
+    }
+  ],
+  "journal_metadata": {
+    "title": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year_published": 1907,
+    "year_covered": 1906,
+    "source_url": "https://archive.org/details/canadianalpinejo01alpiuoft",
+    "total_pages": 200,
+    "total_photos": 31,
+    "format": "400 DPI JP2 scans from Internet Archive"
+  }
+}

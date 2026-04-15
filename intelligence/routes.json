@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-04-09",
+  "total_routes": 5,
+  "routes": [
+    {
+      "route_id": "field-to-camp",
+      "name": "Field Station to Camp Yoho (1906 approach march)",
+      "description": "The march of July 9, 1906. Crossed Kicking-Horse bridge, 7-mile forest road to Emerald Lake Chalet, traverse of northern glacial delta with stream crossings, 1000-ft cliff ascent through spruce forest to Yoho Pass summit.",
+      "waypoints": [
+        "field-station",
+        "kicking-horse-bridge",
+        "emerald-lake-road",
+        "emerald-lake-chalet",
+        "emerald-lake-north-delta",
+        "yoho-pass",
+        "camp-yoho"
+      ],
+      "distance_miles": 10,
+      "elevation_gain_ft": 1925,
+      "date": "1906-07-09",
+      "sources": [
+        "first-camp-yeigh",
+        "yoho-camp-report"
+      ]
+    },
+    {
+      "route_id": "vice-president-official",
+      "name": "Official Climb of The Vice-President",
+      "description": "From camp, trail to Yoho Pass summit, right to Michael Peak shoulder near timber-line, long rock slide, steep snow slopes to arete, knife-edge arete to Angle Peak, snowfield walk to summit.",
+      "waypoints": [
+        "camp-yoho",
+        "yoho-pass",
+        "michael-peak",
+        "angle-peak",
+        "vice-president"
+      ],
+      "distance_miles": 5,
+      "elevation_gain_ft": 4050,
+      "date": "1906-07-10 to 1906-07-14 (5 official ascents)",
+      "sources": [
+        "chief-mountaineer-report"
+      ]
+    },
+    {
+      "route_id": "yoho-valley-round",
+      "name": "Yoho Valley Round Trip (2-day)",
+      "description": "Lower trail past Takakkaw Falls and Laughing Falls to Twin Falls and Yoho Glacier, overnight at Laughing Falls camp, return by upper trail with views of entire 15-mile valley.",
+      "waypoints": [
+        "camp-yoho",
+        "takakkaw-falls",
+        "laughing-falls",
+        "twin-falls",
+        "yoho-glacier",
+        "camp-yoho"
+      ],
+      "distance_miles": 30,
+      "elevation_gain_ft": 2000,
+      "date": "4 consecutive trips during camp week",
+      "sources": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ]
+    },
+    {
+      "route_id": "emerald-glacier-trip",
+      "name": "Emerald Glacier Trip",
+      "description": "From camp, partly same route as Upper Yoho trail to Inspiration Point, then left turn toward glacier foot. Stiff ascent over boulders. Snow line at ~8000 ft. Ice-step climbing to main icefield with seracs and crevasses.",
+      "waypoints": [
+        "camp-yoho",
+        "inspiration-point",
+        "emerald-glacier"
+      ],
+      "distance_miles": 4,
+      "elevation_gain_ft": 2000,
+      "date": "3 trips during camp week",
+      "sources": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ]
+    },
+    {
+      "route_id": "burgess-pass-return",
+      "name": "Burgess Pass Return Route",
+      "description": "Return from camp to Mt. Stephen House via Burgess Pass trail. Views of President Range, Emerald mountains, glaciers, Emerald Lake below.",
+      "waypoints": [
+        "camp-yoho",
+        "burgess-pass",
+        "mt-stephen-house"
+      ],
+      "distance_miles": 8,
+      "elevation_gain_ft": 1000,
+      "date": "1906-07-16 (many campers used this return)",
+      "sources": [
+        "first-camp-yeigh",
+        "chief-mountaineer-report"
+      ]
+    }
+  ]
+}

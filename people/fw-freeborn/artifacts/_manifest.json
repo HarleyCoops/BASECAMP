@@ -1,0 +1,115 @@
+{
+  "person": "fw-freeborn",
+  "source": "Whyte Museum",
+  "queries": [
+    "freeborn+1906",
+    "freeborn+alpine",
+    "f.w.+freeborn",
+    "freeborn+yoho",
+    "freeborn+photograph"
+  ],
+  "downloaded": 9,
+  "total_bytes": 59949017,
+  "items": [
+    {
+      "pid": "descriptions35344",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35344",
+      "title": "Untitled - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1t-v653-ng-922.jpg",
+      "downloaded": true,
+      "file": "descriptions35344_wmcr-vaux-1t-v653-ng-922.jpg",
+      "bytes": 353890,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions49267",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions49267",
+      "title": "Annual meeting of Alpine Club of Canada, secretary (Elizabeth Parker) reading her report [Lake O'Hara, Yoho Park, B.C.] - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/na66_web_copy/v14_web_copy/v14_ac55_5_984_na66_2131.jpg",
+      "downloaded": true,
+      "file": "descriptions49267_v14_ac55_5_984_na66_2131.jpg",
+      "bytes": 239834,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions57659",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions57659",
+      "title": "Canadian Mountains Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_pd_web/v14_ac55p_pd_1.pdf",
+      "downloaded": true,
+      "file": "descriptions57659_v14_ac55p_pd_1.pdf",
+      "bytes": 7988567,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions57661",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions57661",
+      "title": "Canadian Mountains Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_pd_web/v14_ac55p_pd_4.pdf",
+      "downloaded": true,
+      "file": "descriptions57661_v14_ac55p_pd_4.pdf",
+      "bytes": 7743235,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions57669",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions57669",
+      "title": "July and August Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_pd_web/v14_ac55p_pd_5.pdf",
+      "downloaded": true,
+      "file": "descriptions57669_v14_ac55p_pd_5.pdf",
+      "bytes": 10692395,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions57675",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions57675",
+      "title": "Photographs of 1912 Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_pd_web/v14_ac55p_pd_8.pdf",
+      "downloaded": true,
+      "file": "descriptions57675_v14_ac55p_pd_8.pdf",
+      "bytes": 9002947,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions57682",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions57682",
+      "title": "Canadian Souvenirs Vol. II Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_pd_web/v14_ac55p_pd_10.pdf",
+      "downloaded": true,
+      "file": "descriptions57682_v14_ac55p_pd_10.pdf",
+      "bytes": 11377616,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions57707",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions57707",
+      "title": "Camps of the Alpine Club of Canada Album - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_pd_web/v14_ac55p_pd_13.pdf",
+      "downloaded": true,
+      "file": "descriptions57707_v14_ac55p_pd_13.pdf",
+      "bytes": 12397414,
+      "yoho_1906": true
+    },
+    {
+      "pid": "descriptions60523",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions60523",
+      "title": "Frank W. Freeborn records - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac55p_01_to_56_web/v14_ac55p_18_32.jpg",
+      "downloaded": true,
+      "file": "descriptions60523_v14_ac55p_18_32.jpg",
+      "bytes": 153119,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 2
+}

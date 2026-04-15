@@ -1,0 +1,27 @@
+{
+  "silo_id": "climb-crows-nest-mctavish",
+  "title": "The Climb of Crow's Nest Mountain — P.D. McTavish",
+  "article_slug": "climb-crows-nest-mctavish",
+  "article_number": 16,
+  "section": "MOUNTAINEERING",
+  "author": {
+    "person_id": "pd-mctavish",
+    "display_name": "P.D. McTavish",
+    "at_camp": true,
+    "ell_silo_id": null
+  },
+  "summary": "Climb of Crow's Nest Mountain in the Crowsnest Pass area.",
+  "emerald_lake_references": [],
+  "people_mentioned": [],
+  "places_mentioned": [],
+  "dates_mentioned": [],
+  "photos_in_article": [],
+  "source": {
+    "journal": "Canadian Alpine Journal",
+    "volume": 1,
+    "number": 1,
+    "year": 1907,
+    "wikisource": ""
+  },
+  "fonds_leads": []
+}

@@ -1,0 +1,35 @@
+{
+  "person": "jean-parker",
+  "source": "Whyte Museum",
+  "queries": [
+    "jean+parker",
+    "parker+jean+1906"
+  ],
+  "downloaded": 2,
+  "total_bytes": 3966000,
+  "items": [
+    {
+      "pid": "descriptions1041",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions1041",
+      "title": "Display photographs - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/v14_alpine_club_of_canada_web/v14_ac00p_01_to_444_web/v14_ac00p_30.jpg",
+      "downloaded": true,
+      "file": "descriptions1041_v14_ac00p_30.jpg",
+      "bytes": 84932,
+      "yoho_1906": false
+    },
+    {
+      "pid": "descriptions784",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions784",
+      "title": "Published manuscripts - Research Collections - Whyte Museum of the Canadian Rockies",
+      "description": "",
+      "asset_url": "https://archives.whyte.org/media/archives/m79_web/m79_8.pdf",
+      "downloaded": true,
+      "file": "descriptions784_m79_8.pdf",
+      "bytes": 3881068,
+      "yoho_1906": false
+    }
+  ],
+  "yoho_1906_hits": 0
+}
