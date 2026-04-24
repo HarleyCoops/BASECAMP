@@ -48,7 +48,7 @@ python tools/whyte_harvest.py        # Download Whyte Museum artifacts
 
 ## Origin
 
-This project was developed within the [Emerald Lake Lodge (ELL)](https://github.com/HarleyCoops/ELL) research corpus by Wander & Vine, then extracted as a standalone deliverable for the ACC 120th anniversary.
+This project was developed within the [Emerald Lake Lodge (ELL)](https://github.com/HarleyCoops/ELL) research corpus by Warre & Vavasour, then extracted as a standalone deliverable for the ACC 120th anniversary.
 
 ## License
 
