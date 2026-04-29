@@ -188,11 +188,22 @@ The modern visitor cannot recover the exact bootprint. They can return to the pl
 
 If we keep going, I would build these in this order:
 
-1. `EarthFlyover/` — a local HTML route film with map corridors, not pins.
-2. `LightTable/` — a Vaux contact-sheet explorer with zoom and source metadata.
+1. `LightTable/` — built now: a Vaux contact-sheet explorer with loupe, sequence mode, source metadata, map guesses, and absence mode.
+2. `EarthFlyover/` — a local HTML route film with map corridors, not pins.
 3. `FieldAtlas/` — a non-linear browser exhibit: rooms, drawers, evidence cards.
 4. `Zine/` — printable PDF artifact packet.
 5. `AudioWalk/` — scripts and generated audio for modern Yoho stops.
+
+Open the LightTable prototype from the running parent server:
+
+http://127.0.0.1:8765/LightTable/index.html
+
+Or run it standalone:
+
+```bash
+cd /mnt/c/Users/chris/BASECAMP/presentation/HermesPresentation/LightTable
+./run.sh
+```
 
 The presentation is only the trailer.
 

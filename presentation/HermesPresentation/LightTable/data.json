@@ -1,0 +1,359 @@
+{
+  "contacts": [
+    {
+      "id": "contact-1",
+      "title": "Vaux 1906 contact sheet 1",
+      "src": "assets/contact_1906_p1.jpg",
+      "role": "sequence",
+      "note": "Contact sheet as method: sequence, repetition, labels, return."
+    },
+    {
+      "id": "contact-2",
+      "title": "Vaux 1906 contact sheet 2",
+      "src": "assets/contact_1906_p2.jpg",
+      "role": "sequence",
+      "note": "Contact sheet as method: sequence, repetition, labels, return."
+    },
+    {
+      "id": "contact-3",
+      "title": "Vaux 1906 contact sheet 3",
+      "src": "assets/contact_1906_p3.jpg",
+      "role": "sequence",
+      "note": "Contact sheet as method: sequence, repetition, labels, return."
+    },
+    {
+      "id": "contact-4",
+      "title": "Vaux 1906 contact sheet 4",
+      "src": "assets/contact_1906_p4.jpg",
+      "role": "sequence",
+      "note": "Contact sheet as method: sequence, repetition, labels, return."
+    },
+    {
+      "id": "contact-5",
+      "title": "Vaux 1906 contact sheet 5",
+      "src": "assets/contact_1906_p5.jpg",
+      "role": "sequence",
+      "note": "Contact sheet as method: sequence, repetition, labels, return."
+    },
+    {
+      "id": "contact-6",
+      "title": "Vaux 1906 contact sheet 6",
+      "src": "assets/contact_1906_p6.jpg",
+      "role": "absence",
+      "note": "Almost empty: one surviving frame and a field of blank paper."
+    }
+  ],
+  "images": [
+    {
+      "id": "img-01",
+      "src": "assets/01-descriptions35060-wmcr-vaux-1n-v653-na-1412.jpg",
+      "title": "Forefoot of Wapta Glacier (No.26) 1906",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / NA - 1412",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35060",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1412.jpg",
+      "file": "descriptions35060_wmcr-vaux-1n-v653-na-1412.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "wapta",
+        "glacier",
+        "yoho"
+      ],
+      "score": 14
+    },
+    {
+      "id": "img-02",
+      "src": "assets/02-descriptions36828-wmcr-vaux-1n-v653-na-1413.jpg",
+      "title": "Forefoot of Wapta Glacier (No.27) 1906",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / NA - 1413",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions36828",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1413.jpg",
+      "file": "descriptions36828_wmcr-vaux-1n-v653-na-1413.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "wapta",
+        "glacier",
+        "yoho"
+      ],
+      "score": 14
+    },
+    {
+      "id": "img-03",
+      "src": "assets/03-descriptions34193-wmcr-vaux-1v-v653-ps-095.jpg",
+      "title": "Looking back from Fort, Wapta Glacier, Yoho Valley, Field B. C. 1906 / Vaux",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / PS - 95",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34193",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-095.jpg",
+      "file": "descriptions34193_wmcr-vaux-1v-v653-ps-095.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "yoho",
+        "wapta",
+        "glacier"
+      ],
+      "score": 14
+    },
+    {
+      "id": "img-04",
+      "src": "assets/04-descriptions34196-wmcr-vaux-1v-v653-ps-098.jpg",
+      "title": "Emerald Group from Wapta, Yoho 1906 / Vaux",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / PS - 98",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34196",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-098.jpg",
+      "file": "descriptions34196_wmcr-vaux-1v-v653-ps-098.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "yoho",
+        "wapta",
+        "emerald"
+      ],
+      "score": 14
+    },
+    {
+      "id": "img-05",
+      "src": "assets/05-descriptions35061-wmcr-vaux-1n-v653-na-1414.jpg",
+      "title": "Yoho Glacier (No.28) 1906",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / NA - 1414",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35061",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1414.jpg",
+      "file": "descriptions35061_wmcr-vaux-1n-v653-na-1414.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "yoho",
+        "glacier"
+      ],
+      "score": 11
+    },
+    {
+      "id": "img-06",
+      "src": "assets/06-descriptions35063-wmcr-vaux-1n-v653-na-1415.jpg",
+      "title": "Wapta Glacier (No.29) 1906",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / NA - 1415",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35063",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1415.jpg",
+      "file": "descriptions35063_wmcr-vaux-1n-v653-na-1415.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "wapta",
+        "glacier",
+        "yoho"
+      ],
+      "score": 11
+    },
+    {
+      "id": "img-07",
+      "src": "assets/07-descriptions35078-wmcr-vaux-1n-v653-na-1460.jpg",
+      "title": "On the Horseshoe Glacier (No.75) 1906",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / NA - 1460",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35078",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1460.jpg",
+      "file": "descriptions35078_wmcr-vaux-1n-v653-na-1460.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "glacier",
+        "horseshoe",
+        "yoho"
+      ],
+      "score": 11
+    },
+    {
+      "id": "img-08",
+      "src": "assets/08-descriptions36831-wmcr-vaux-1n-v653-na-1461.jpg",
+      "title": "On the Horseshoe Glacier (No.76) 1906",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / NA - 1461",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions36831",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1461.jpg",
+      "file": "descriptions36831_wmcr-vaux-1n-v653-na-1461.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "glacier",
+        "horseshoe",
+        "yoho"
+      ],
+      "score": 11
+    },
+    {
+      "id": "img-09",
+      "src": "assets/09-descriptions35074-wmcr-vaux-1n-v653-na-1445.jpg",
+      "title": "Test picture, Glacier (No.60) 1906",
+      "scope": "Selkirk Mountains",
+      "ref": "V653 / NA - 1445",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35074",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1445.jpg",
+      "file": "descriptions35074_wmcr-vaux-1n-v653-na-1445.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "glacier",
+        "yoho"
+      ],
+      "score": 8
+    },
+    {
+      "id": "img-10",
+      "src": "assets/10-descriptions35093-wmcr-vaux-1n-v653-na-1486.jpg",
+      "title": "Lake Louise Chalet (No.101) 1906",
+      "scope": "",
+      "ref": "V653 / NA - 1486",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions35093",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1486.jpg",
+      "file": "descriptions35093_wmcr-vaux-1n-v653-na-1486.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "lake louise",
+        "yoho"
+      ],
+      "score": 8
+    },
+    {
+      "id": "img-11",
+      "src": "assets/11-descriptions36833-wmcr-vaux-1n-v653-na-1487.jpg",
+      "title": "Lake Louise Chalet (No.102) 1906",
+      "scope": "",
+      "ref": "V653 / NA - 1487",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions36833",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1n-v653-na-1487.jpg",
+      "file": "descriptions36833_wmcr-vaux-1n-v653-na-1487.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "lake louise",
+        "yoho"
+      ],
+      "score": 8
+    },
+    {
+      "id": "img-12",
+      "src": "assets/12-descriptions34205-wmcr-vaux-1v-v653-ps-107.jpg",
+      "title": "Looking back at Bow Range from Ptarmigan Valley 1906 / Vaux",
+      "scope": "Rocky Mountains",
+      "ref": "V653 / PS - 107",
+      "date": "1906",
+      "permalink": "https://archives.whyte.org/en/permalink/descriptions34205",
+      "asset_url": "https://archives.whyte.org/media/archives/Vaux/wmcr-vaux-1v-v653-ps-107.jpg",
+      "file": "descriptions34205_wmcr-vaux-1v-v653-ps-107.jpg",
+      "yoho_1906": true,
+      "tags": [
+        "yoho"
+      ],
+      "score": 5
+    }
+  ],
+  "places": [
+    {
+      "id": "field-station",
+      "name": "Field Station (CPR)",
+      "lat": 51.3985,
+      "lon": -116.456,
+      "confidence": "exact",
+      "type": "station",
+      "note": "Modern Field townsite, Trans-Canada Highway."
+    },
+    {
+      "id": "mt-stephen-house",
+      "name": "Mt. Stephen House",
+      "lat": 51.398,
+      "lon": -116.457,
+      "confidence": "approximate",
+      "type": "hotel",
+      "note": "Site now within Field townsite. Hotel demolished 1918."
+    },
+    {
+      "id": "emerald-lake-chalet",
+      "name": "Emerald Lake Chalet",
+      "lat": 51.44,
+      "lon": -116.531,
+      "confidence": "approximate",
+      "type": "chalet",
+      "note": "Now Emerald Lake Lodge (CRMR). Same site."
+    },
+    {
+      "id": "emerald-lake-north-delta",
+      "name": "Northern Glacial Delta",
+      "lat": 51.45,
+      "lon": -116.525,
+      "confidence": "approximate",
+      "type": "delta",
+      "note": "Now alluvial fan at north end of Emerald Lake. Modern Yoho Pass trail crosses this area."
+    },
+    {
+      "id": "yoho-pass",
+      "name": "Yoho Pass",
+      "lat": 51.467,
+      "lon": -116.51,
+      "confidence": "approximate",
+      "type": "pass",
+      "note": "Yoho Pass, elevation ~1815m. Modern trail from Emerald Lake to Yoho Valley."
+    },
+    {
+      "id": "camp-yoho",
+      "name": "Camp Yoho (1906)",
+      "lat": 51.4675,
+      "lon": -116.511,
+      "confidence": "approximate",
+      "type": "camp",
+      "note": "Near modern Yoho Pass junction. Exact camp clearing likely overgrown."
+    },
+    {
+      "id": "yoho-lake",
+      "name": "Yoho Lake",
+      "lat": 51.47,
+      "lon": -116.505,
+      "confidence": "approximate",
+      "type": "lake",
+      "note": "Yoho Lake, accessible from Yoho Pass trail."
+    },
+    {
+      "id": "takakkaw-falls",
+      "name": "Takakkaw Falls",
+      "lat": 51.4997,
+      "lon": -116.4728,
+      "confidence": "exact",
+      "type": "waterfall",
+      "note": "Takakkaw Falls, 373m total drop. Yoho Valley Road."
+    },
+    {
+      "id": "laughing-falls",
+      "name": "Laughing Falls",
+      "lat": 51.518,
+      "lon": -116.475,
+      "confidence": "approximate",
+      "type": "waterfall",
+      "note": "Laughing Falls, Yoho Valley trail. Campground nearby."
+    },
+    {
+      "id": "twin-falls",
+      "name": "Twin Falls",
+      "lat": 51.535,
+      "lon": -116.48,
+      "confidence": "approximate",
+      "type": "waterfall",
+      "note": "Twin Falls, Yoho Valley. Twin Falls Chalet nearby."
+    },
+    {
+      "id": "yoho-glacier",
+      "name": "Yoho Glacier",
+      "lat": 51.548,
+      "lon": -116.51,
+      "confidence": "approximate",
+      "type": "glacier",
+      "note": "Yoho Glacier, significantly retreated since 1906."
+    }
+  ]
+}
