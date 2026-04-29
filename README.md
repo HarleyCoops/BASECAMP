@@ -8,8 +8,6 @@
 
 **Reconstructing the inaugural Alpine Club of Canada camp at Yoho Pass, British Columbia — July 8–16, 1906.**
 
-A primary-source research corpus and presentation marking the **ACC 120th anniversary**. Every image, quote, and date in this project traces back to a public museum or archive record. No Wikipedia. No blogs. No secondary sources without provenance.
-
 ---
 
 ## The Story
@@ -141,10 +139,12 @@ Arthur Oliver Wheeler (director) · Elizabeth Parker (co-founder, last to leave)
 ## Presentation
 
 <p align="center">
-  <img src="presentation/screenshot.jpg" alt="BASECAMP presentation screenshot" width="100%">
+  <a href="https://harleycoops.github.io/BASECAMP/presentation/index.html">
+    <img src="presentation/screenshot.jpg" alt="BASECAMP presentation screenshot" width="100%">
+  </a>
 </p>
 
-<p align="center"><em>Open <code>presentation/index.html</code> in a browser for the scrolling cinematic narrative.</em></p>
+<p align="center"><em>Click the image above to open the presentation.</em></p>
 
 ---
 
